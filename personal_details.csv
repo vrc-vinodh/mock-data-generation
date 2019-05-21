@@ -1,0 +1,1001 @@
+id,Race,Homecity,Nationality,Gender,dob_year,dob_month,dob_day
+1,White Americans,Chicago,American,Female,1975,9,3
+2,Latino Americans,Houston,American,Female,1973,6,18
+3,Punjabis,Delhi,Indian,Male,1965,6,28
+4,Indo Aryan,Delhi,Indian,Male,1970,9,14
+5,Native Hawaiian Americans,San Jose,American,Female,1972,5,2
+6,African Americans,San Jose,American,Female,1965,5,27
+7,Native Hawaiian Americans,San Jose,American,Male,1974,11,5
+8,Latino Americans,Houston,American,Male,1972,3,13
+9,Telugu People,Hyderabad,Indian,Female,1968,6,5
+10,Telugu People,Mumbai,Indian,Male,1987,7,16
+11,Latino Americans,Houston,American,Female,1965,9,7
+12,Indo Aryan,Mumbai,Indian,Male,1965,9,19
+13,White Americans,Chicago,American,Male,1977,7,12
+14,White Americans,San Jose,American,Male,1987,3,24
+15,Latino Americans,Houston,American,Male,1987,11,15
+16,Latino Americans,Dallas,American,Female,1965,6,13
+17,White Americans,Chicago,American,Male,1983,3,10
+18,African Americans,San Jose,American,Male,1977,5,14
+19,Native Hawaiian Americans,San Jose,American,Female,1989,12,6
+20,Latino Americans,Houston,American,Female,1977,9,18
+21,Indo Aryan,Mumbai,Indian,Male,1974,12,17
+22,White Americans,Chicago,American,Male,1965,6,11
+23,Dravidians,Delhi,Indian,Male,1970,11,26
+24,Latino Americans,New York,American,Male,1965,10,15
+25,African Americans,San Jose,American,Male,1988,10,9
+26,Mongols,Beijing,Chinese,Male,1979,4,5
+27,Native Hawaiian Americans,San Jose,American,Male,1983,3,19
+28,Latino Americans,New York,American,Male,1965,4,22
+29,Native Hawaiian Americans,San Jose,American,Female,1979,9,25
+30,African Americans,San Jose,American,Male,1985,6,10
+31,Latino Americans,Houston,American,Male,1986,3,12
+32,African Americans,San Jose,American,Male,1977,9,26
+33,Latino Americans,Dallas,American,Female,1975,12,14
+34,Uyghus,Beijing,Chinese,Male,1982,5,17
+35,Bengalis,Delhi,Indian,Male,1983,12,28
+36,Native Hawaiian Americans,San Jose,American,Male,1982,6,10
+37,African Americans,Victoria,Canada,Male,1974,2,18
+38,White Americans,Ottawa,Canada,Male,1978,4,12
+39,Indo Aryan,Mumbai,Indian,Male,1966,2,4
+40,White Americans,Ottawa,Canada,Male,1969,6,21
+41,Native Hawaiian Americans,San Jose,American,Male,1984,7,26
+42,Dravidians,Delhi,Indian,Female,1986,9,15
+43,Latino Americans,New York,American,Female,1977,6,14
+44,White Americans,Chicago,American,Male,1978,4,22
+45,Indo Aryan,Delhi,Indian,Male,1986,12,8
+46,Dravidians,Delhi,Indian,Male,1967,1,23
+47,Telugu People,Hyderabad,Indian,Male,1986,1,5
+48,Dravidians,Delhi,Indian,Female,1971,12,23
+49,Latino Americans,Houston,American,Female,1987,8,19
+50,Han Chinese,Hangzhou,Chinese,Male,1988,4,14
+51,Native Hawaiian Americans,San Jose,American,Female,1976,9,25
+52,Dravidians,Delhi,Indian,Male,1976,2,10
+53,Latino Americans,Houston,American,Male,1968,7,10
+54,Latino Americans,Houston,American,Female,1968,12,24
+55,White Americans,Chicago,American,Male,1977,3,16
+56,Indo Aryan,Mumbai,Indian,Male,1988,7,20
+57,White Americans,Chicago,American,Female,1968,4,3
+58,Indo Aryan,Delhi,Indian,Male,1977,9,20
+59,Latino Americans,New York,American,Male,1977,12,1
+60,White Americans,Chicago,American,Female,1968,10,16
+61,Telugu People,Hyderabad,Indian,Male,1968,9,14
+62,White Americans,Chicago,American,Male,1989,12,26
+63,Indo Aryan,Mumbai,Indian,Female,1971,6,27
+64,White Americans,San Jose,American,Female,1986,9,11
+65,African Americans,San Jose,American,Male,1986,7,20
+66,Latino Americans,New York,American,Male,1976,6,14
+67,Han Chinese,Hangzhou,Chinese,Male,1988,6,26
+68,African Americans,Victoria,Canada,Male,1977,7,12
+69,Punjabis,Delhi,Indian,Male,1987,3,20
+70,Latino Americans,Dallas,American,Female,1972,3,2
+71,Native Hawaiian Americans,San Jose,American,Female,1985,8,4
+72,White Americans,San Jose,American,Male,1971,8,22
+73,Latino Americans,New York,American,Female,1972,9,24
+74,Latino Americans,New York,American,Female,1983,3,12
+75,Uyghus,Beijing,Chinese,Male,1970,2,28
+76,Latino Americans,Houston,American,Male,1974,2,24
+77,Punjabis,Delhi,Indian,Female,1978,4,12
+78,Han Chinese,Hangzhou,Chinese,Male,1976,3,26
+79,African Americans,San Jose,American,Male,1965,6,2
+80,Latino Americans,New York,American,Male,1979,4,23
+81,Latino Americans,New York,American,Female,1989,11,2
+82,Latino Americans,Dallas,American,Male,1981,5,5
+83,Han Chinese,Hangzhou,Chinese,Female,1990,2,23
+84,Uyghus,Beijing,Chinese,Female,1974,2,24
+85,Indo Aryan,Mumbai,Indian,Female,1972,1,4
+86,Latino Americans,New York,American,Female,1971,4,17
+87,Indo Aryan,Mumbai,Indian,Female,1975,3,6
+88,Latino Americans,New York,American,Female,1980,12,16
+89,White Americans,Chicago,American,Female,1969,4,27
+90,African Americans,Victoria,Canada,Male,1969,8,23
+91,White Americans,Chicago,American,Male,1976,8,5
+92,Latino Americans,New York,American,Female,1990,2,27
+93,Dravidians,Delhi,Indian,Male,1973,6,28
+94,Latino Americans,Houston,American,Female,1981,9,23
+95,Indo Aryan,Mumbai,Indian,Male,1972,6,15
+96,Mongols,Shanghai,Chinese,Female,1972,9,20
+97,Native Hawaiian Americans,San Jose,American,Male,1968,5,27
+98,White Americans,Chicago,American,Male,1965,8,22
+99,Native Hawaiian Americans,San Jose,American,Male,1970,10,8
+100,Native Hawaiian Americans,San Jose,American,Male,1985,1,16
+101,Latino Americans,Dallas,American,Male,1985,2,3
+102,White Americans,Ottawa,Canada,Female,1988,4,24
+103,Latino Americans,Dallas,American,Female,1980,8,15
+104,Latino Americans,New York,American,Male,1987,1,1
+105,White Americans,Ottawa,Canada,Male,1972,11,18
+106,White Americans,Chicago,American,Male,1990,7,22
+107,Latino Americans,New York,American,Female,1973,3,16
+108,Han Chinese,Hangzhou,Chinese,Female,1971,2,14
+109,White Americans,Chicago,American,Male,1981,1,17
+110,African Americans,Victoria,Canada,Female,1975,9,3
+111,African Americans,San Jose,American,Male,1966,3,19
+112,White Americans,Chicago,American,Male,1982,9,20
+113,Latino Americans,Houston,American,Female,1974,2,3
+114,White Americans,Chicago,American,Female,1980,12,16
+115,White Americans,San Jose,American,Male,1981,2,8
+116,White Americans,Ottawa,Canada,Male,1986,7,3
+117,Indo Aryan,Mumbai,Indian,Male,1966,5,5
+118,Uyghus,Beijing,Chinese,Female,1987,7,28
+119,White Americans,Chicago,American,Male,1988,1,13
+120,African Americans,San Jose,American,Male,1968,1,5
+121,White Americans,Chicago,American,Male,1990,6,22
+122,Telugu People,Hyderabad,Indian,Male,1977,12,3
+123,Uyghus,Beijing,Chinese,Female,1973,6,19
+124,Latino Americans,Dallas,American,Male,1981,7,15
+125,Latino Americans,Dallas,American,Male,1971,1,27
+126,White Americans,San Jose,American,Female,1983,5,10
+127,White Americans,Chicago,American,Female,1977,4,5
+128,White Americans,Chicago,American,Male,1985,12,16
+129,Latino Americans,Dallas,American,Male,1976,8,25
+130,Latino Americans,New York,American,Female,1981,11,16
+131,Native Hawaiian Americans,San Jose,American,Male,1982,10,28
+132,Uyghus,Beijing,Chinese,Male,1984,4,6
+133,Native Hawaiian Americans,San Jose,American,Female,1970,10,12
+134,Latino Americans,New York,American,Male,1975,7,1
+135,African Americans,San Jose,American,Male,1976,9,4
+136,White Americans,Chicago,American,Male,1978,10,9
+137,Bengalis,Delhi,Indian,Male,1970,2,9
+138,Native Hawaiian Americans,San Jose,American,Male,1984,4,21
+139,Indo Aryan,Mumbai,Indian,Male,1990,8,26
+140,White Americans,Chicago,American,Female,1967,3,11
+141,Indo Aryan,Mumbai,Indian,Male,1990,8,15
+142,White Americans,Chicago,American,Male,1984,6,28
+143,Punjabis,Delhi,Indian,Male,1969,1,3
+144,Latino Americans,Dallas,American,Male,1972,10,23
+145,Uyghus,Beijing,Chinese,Female,1967,5,12
+146,Uyghus,Beijing,Chinese,Male,1985,7,16
+147,Latino Americans,Dallas,American,Male,1972,1,7
+148,Latino Americans,Houston,American,Male,1981,2,25
+149,Latino Americans,Dallas,American,Female,1987,5,21
+150,African Americans,San Jose,American,Male,1975,6,26
+151,Native Hawaiian Americans,San Jose,American,Male,1967,6,16
+152,White Americans,Ottawa,Canada,Female,1975,8,19
+153,Latino Americans,Houston,American,Male,1983,12,23
+154,Latino Americans,Dallas,American,Male,1979,2,4
+155,Dravidians,Delhi,Indian,Male,1968,6,10
+156,Latino Americans,Houston,American,Male,1981,2,11
+157,Native Hawaiian Americans,San Jose,American,Male,1970,12,21
+158,Native Hawaiian Americans,San Jose,American,Female,1989,1,19
+159,African Americans,San Jose,American,Male,1976,9,17
+160,White Americans,San Jose,American,Male,1979,5,26
+161,Punjabis,Delhi,Indian,Male,1990,2,23
+162,African Americans,Victoria,Canada,Male,1984,6,15
+163,Telugu People,Hyderabad,Indian,Male,1988,9,8
+164,Native Hawaiian Americans,San Jose,American,Female,1982,4,5
+165,Telugu People,Mumbai,Indian,Male,1969,11,9
+166,African Americans,San Jose,American,Male,1973,8,1
+167,White Americans,Ottawa,Canada,Female,1970,2,5
+168,White Americans,Chicago,American,Male,1978,12,21
+169,Latino Americans,Houston,American,Male,1975,11,15
+170,Punjabis,Delhi,Indian,Male,1977,10,22
+171,Punjabis,Delhi,Indian,Male,1971,11,9
+172,White Americans,Chicago,American,Male,1965,10,27
+173,Latino Americans,Houston,American,Female,1984,12,8
+174,Native Hawaiian Americans,San Jose,American,Female,1965,6,23
+175,Latino Americans,Houston,American,Male,1988,1,27
+176,Dravidians,Delhi,Indian,Male,1985,11,2
+177,Latino Americans,New York,American,Male,1976,3,7
+178,Latino Americans,Dallas,American,Male,1983,7,10
+179,Latino Americans,Houston,American,Male,1988,11,1
+180,Latino Americans,New York,American,Female,1987,6,6
+181,Latino Americans,Dallas,American,Female,1975,4,2
+182,Uyghus,Beijing,Chinese,Female,1981,10,28
+183,White Americans,Chicago,American,Male,1967,12,1
+184,Indo Aryan,Mumbai,Indian,Male,1983,6,3
+185,Latino Americans,Houston,American,Male,1975,11,8
+186,Latino Americans,New York,American,Male,1986,11,19
+187,White Americans,Chicago,American,Female,1990,4,27
+188,Latino Americans,Houston,American,Male,1980,9,9
+189,White Americans,Chicago,American,Male,1978,7,28
+190,Latino Americans,New York,American,Male,1978,2,11
+191,Latino Americans,Dallas,American,Male,1969,12,10
+192,African Americans,San Jose,American,Male,1981,8,4
+193,Dravidians,Delhi,Indian,Female,1973,10,24
+194,Latino Americans,Houston,American,Male,1986,5,7
+195,Uyghus,Beijing,Chinese,Transgender,1975,11,16
+196,White Americans,Chicago,American,Male,1984,11,14
+197,White Americans,Chicago,American,Male,1968,2,12
+198,Bengalis,Delhi,Indian,Male,1969,7,25
+199,Latino Americans,Dallas,American,Female,1970,2,9
+200,Latino Americans,New York,American,Male,1969,9,16
+201,Latino Americans,Dallas,American,Male,1990,8,21
+202,Latino Americans,Houston,American,Male,1975,5,2
+203,White Americans,Chicago,American,Female,1976,2,26
+204,African Americans,San Jose,American,Male,1965,12,21
+205,White Americans,Ottawa,Canada,Male,1978,11,21
+206,White Americans,San Jose,American,Female,1969,5,16
+207,Latino Americans,Dallas,American,Male,1972,1,20
+208,Punjabis,Delhi,Indian,Female,1965,9,10
+209,Latino Americans,Houston,American,Female,1986,11,10
+210,Latino Americans,Houston,American,Male,1968,3,3
+211,Uyghus,Beijing,Chinese,Male,1975,1,8
+212,Latino Americans,New York,American,Male,1973,8,10
+213,Native Hawaiian Americans,San Jose,American,Male,1971,11,11
+214,Latino Americans,Houston,American,Female,1977,2,2
+215,Latino Americans,Houston,American,Male,1975,12,7
+216,Latino Americans,New York,American,Female,1989,1,18
+217,African Americans,San Jose,American,Female,1967,3,16
+218,Latino Americans,Dallas,American,Female,1989,5,10
+219,Latino Americans,Houston,American,Male,1986,7,22
+220,Indo Aryan,Mumbai,Indian,Female,1983,2,21
+221,Native Hawaiian Americans,San Jose,American,Male,1989,5,26
+222,Latino Americans,New York,American,Female,1981,6,13
+223,Latino Americans,Houston,American,Female,1977,8,19
+224,Latino Americans,New York,American,Male,1979,12,23
+225,Uyghus,Beijing,Chinese,Male,1985,1,10
+226,White Americans,Chicago,American,Male,1981,11,3
+227,Latino Americans,Dallas,American,Male,1987,3,20
+228,Latino Americans,Dallas,American,Male,1968,12,20
+229,Latino Americans,Dallas,American,Male,1972,6,17
+230,Indo Aryan,Mumbai,Indian,Male,1965,8,3
+231,White Americans,Chicago,American,Male,1979,4,16
+232,Latino Americans,Houston,American,Female,1985,1,10
+233,Han Chinese,Shanghai,Chinese,Male,1978,5,22
+234,White Americans,Chicago,American,Male,1970,5,25
+235,Latino Americans,Houston,American,Female,1967,7,18
+236,Indo Aryan,Mumbai,Indian,Male,1975,3,23
+237,African Americans,San Jose,American,Male,1965,1,27
+238,White Americans,Chicago,American,Female,1970,11,16
+239,Mongols,Beijing,Chinese,Male,1968,3,28
+240,White Americans,Chicago,American,Male,1988,9,5
+241,Indo Aryan,Mumbai,Indian,Male,1968,6,27
+242,White Americans,Chicago,American,Female,1970,4,3
+243,Indo Aryan,Mumbai,Indian,Male,1980,2,3
+244,White Americans,San Jose,American,Female,1970,5,24
+245,White Americans,Chicago,American,Male,1972,9,6
+246,Latino Americans,New York,American,Female,1975,8,8
+247,Latino Americans,Houston,American,Male,1965,2,10
+248,Latino Americans,Dallas,American,Male,1968,1,21
+249,Latino Americans,Dallas,American,Male,1970,7,16
+250,Dravidians,Delhi,Indian,Female,1972,3,1
+251,White Americans,Chicago,American,Male,1974,9,19
+252,Telugu People,Hyderabad,Indian,Female,1977,1,10
+253,Mongols,Beijing,Chinese,Male,1975,9,22
+254,Latino Americans,Houston,American,Female,1985,12,4
+255,White Americans,Chicago,American,Male,1985,12,17
+256,Han Chinese,Shanghai,Chinese,Female,1990,4,12
+257,African Americans,San Jose,American,Male,1968,5,2
+258,Latino Americans,Houston,American,Female,1974,3,22
+259,White Americans,Chicago,American,Male,1989,4,23
+260,Indo Aryan,Mumbai,Indian,Male,1977,10,21
+261,Latino Americans,Dallas,American,Male,1978,3,15
+262,Indo Aryan,Mumbai,Indian,Male,1971,5,23
+263,Dravidians,Delhi,Indian,Male,1968,1,22
+264,Dravidians,Delhi,Indian,Male,1972,2,7
+265,Latino Americans,New York,American,Male,1986,1,11
+266,White Americans,Chicago,American,Male,1983,1,17
+267,Latino Americans,New York,American,Female,1985,12,23
+268,Latino Americans,Dallas,American,Male,1982,4,1
+269,White Americans,Chicago,American,Female,1968,8,1
+270,Native Hawaiian Americans,San Jose,American,Female,1986,3,15
+271,Native Hawaiian Americans,San Jose,American,Male,1965,12,9
+272,Latino Americans,New York,American,Male,1969,12,18
+273,White Americans,Chicago,American,Male,1990,5,25
+274,Indo Aryan,Mumbai,Indian,Male,1984,5,18
+275,White Americans,Chicago,American,Male,1982,11,8
+276,White Americans,Chicago,American,Female,1972,11,8
+277,White Americans,Chicago,American,Male,1976,2,24
+278,Native Hawaiian Americans,San Jose,American,Male,1975,10,24
+279,Telugu People,Hyderabad,Indian,Male,1985,8,19
+280,Indo Aryan,Mumbai,Indian,Female,1988,11,11
+281,White Americans,Chicago,American,Female,1980,12,12
+282,Native Hawaiian Americans,San Jose,American,Female,1979,8,26
+283,Indo Aryan,Delhi,Indian,Female,1982,7,4
+284,Latino Americans,Houston,American,Female,1967,4,7
+285,Han Chinese,Hangzhou,Chinese,Male,1988,2,5
+286,Latino Americans,Houston,American,Male,1972,8,2
+287,Native Hawaiian Americans,San Jose,American,Female,1981,12,9
+288,White Americans,Chicago,American,Male,1987,4,19
+289,Bengalis,Delhi,Indian,Male,1990,12,10
+290,White Americans,Chicago,American,Male,1988,9,28
+291,Indo Aryan,Mumbai,Indian,Female,1974,10,25
+292,Mongols,Shanghai,Chinese,Female,1973,2,3
+293,White Americans,Chicago,American,Male,1983,3,25
+294,White Americans,Chicago,American,Male,1970,7,9
+295,African Americans,San Jose,American,Male,1973,10,15
+296,Latino Americans,Houston,American,Female,1984,10,2
+297,White Americans,Chicago,American,Female,1968,2,9
+298,White Americans,Chicago,American,Male,1984,7,19
+299,Indo Aryan,Mumbai,Indian,Male,1983,8,23
+300,African Americans,San Jose,American,Female,1966,5,25
+301,Han Chinese,Hangzhou,Chinese,Male,1978,12,7
+302,Latino Americans,Dallas,American,Male,1989,11,24
+303,African Americans,Victoria,Canada,Female,1966,9,18
+304,African Americans,San Jose,American,Female,1977,1,14
+305,African Americans,San Jose,American,Male,1977,9,6
+306,White Americans,Chicago,American,Male,1971,6,18
+307,Latino Americans,Dallas,American,Male,1982,6,24
+308,White Americans,Chicago,American,Female,1967,11,27
+309,Mongols,Beijing,Chinese,Male,1965,9,23
+310,Latino Americans,Dallas,American,Female,1980,9,1
+311,Indo Aryan,Mumbai,Indian,Male,1988,7,13
+312,White Americans,Chicago,American,Male,1977,11,9
+313,African Americans,San Jose,American,Male,1975,1,20
+314,White Americans,San Jose,American,Male,1975,6,8
+315,Bengalis,Delhi,Indian,Male,1980,12,12
+316,White Americans,Ottawa,Canada,Male,1975,7,19
+317,Punjabis,Delhi,Indian,Male,1980,1,4
+318,Punjabis,Delhi,Indian,Male,1966,7,26
+319,Latino Americans,Dallas,American,Male,1969,10,16
+320,Latino Americans,New York,American,Male,1979,7,11
+321,Latino Americans,New York,American,Male,1965,3,27
+322,Latino Americans,Dallas,American,Female,1971,9,22
+323,Punjabis,Delhi,Indian,Male,1984,12,1
+324,White Americans,Chicago,American,Female,1986,11,19
+325,White Americans,Chicago,American,Male,1975,10,2
+326,Latino Americans,Dallas,American,Male,1971,3,23
+327,Latino Americans,Dallas,American,Female,1976,6,23
+328,Latino Americans,New York,American,Male,1966,6,6
+329,African Americans,San Jose,American,Female,1983,1,17
+330,Punjabis,Delhi,Indian,Male,1987,6,17
+331,Indo Aryan,Mumbai,Indian,Female,1979,1,16
+332,Latino Americans,New York,American,Female,1989,11,24
+333,White Americans,Chicago,American,Male,1969,4,3
+334,Indo Aryan,Mumbai,Indian,Male,1969,12,24
+335,Dravidians,Delhi,Indian,Female,1976,5,7
+336,White Americans,Chicago,American,Female,1987,5,24
+337,White Americans,San Jose,American,Male,1971,6,22
+338,White Americans,Chicago,American,Male,1989,3,13
+339,Latino Americans,New York,American,Male,1978,6,8
+340,Latino Americans,Dallas,American,Female,1975,8,15
+341,Mongols,Beijing,Chinese,Female,1971,8,18
+342,Latino Americans,New York,American,Female,1969,9,15
+343,White Americans,Chicago,American,Female,1987,7,17
+344,Punjabis,Delhi,Indian,Female,1969,1,20
+345,White Americans,Ottawa,Canada,Male,1965,9,21
+346,Native Hawaiian Americans,San Jose,American,Male,1972,7,26
+347,White Americans,Chicago,American,Female,1978,11,17
+348,Latino Americans,Houston,American,Female,1965,1,17
+349,White Americans,Chicago,American,Female,1966,10,23
+350,Latino Americans,Houston,American,Male,1981,3,28
+351,White Americans,Ottawa,Canada,Male,1970,4,4
+352,Latino Americans,New York,American,Male,1969,11,2
+353,Mongols,Shanghai,Chinese,Male,1969,5,11
+354,Telugu People,Hyderabad,Indian,Male,1990,11,18
+355,Uyghus,Beijing,Chinese,Male,1970,12,16
+356,Latino Americans,New York,American,Male,1972,6,5
+357,Indo Aryan,Mumbai,Indian,Female,1976,2,3
+358,White Americans,San Jose,American,Male,1975,10,20
+359,Han Chinese,Shanghai,Chinese,Male,1977,4,25
+360,White Americans,Chicago,American,Male,1972,6,5
+361,Latino Americans,Houston,American,Male,1969,7,7
+362,Latino Americans,Houston,American,Male,1981,1,8
+363,Telugu People,Mumbai,Indian,Male,1976,2,7
+364,Native Hawaiian Americans,San Jose,American,Male,1988,6,15
+365,Latino Americans,New York,American,Male,1973,2,11
+366,Indo Aryan,Mumbai,Indian,Male,1965,4,14
+367,Latino Americans,New York,American,Male,1988,5,19
+368,Telugu People,Hyderabad,Indian,Male,1970,2,28
+369,Telugu People,Hyderabad,Indian,Male,1969,9,26
+370,African Americans,San Jose,American,Male,1979,10,1
+371,White Americans,Chicago,American,Male,1983,8,1
+372,Bengalis,Delhi,Indian,Male,1969,11,2
+373,Indo Aryan,Mumbai,Indian,Male,1969,11,7
+374,White Americans,Chicago,American,Male,1971,2,11
+375,Indo Aryan,Mumbai,Indian,Female,1969,2,6
+376,Indo Aryan,Mumbai,Indian,Male,1978,6,1
+377,White Americans,San Jose,American,Female,1975,1,19
+378,Latino Americans,Dallas,American,Male,1983,3,25
+379,Latino Americans,Dallas,American,Male,1983,12,14
+380,White Americans,Chicago,American,Male,1965,8,28
+381,White Americans,Chicago,American,Male,1986,7,19
+382,Latino Americans,Houston,American,Male,1987,3,11
+383,Native Hawaiian Americans,San Jose,American,Female,1982,8,23
+384,Latino Americans,Houston,American,Female,1979,6,3
+385,Telugu People,Hyderabad,Indian,Male,1972,12,10
+386,Latino Americans,Dallas,American,Female,1978,4,2
+387,White Americans,Chicago,American,Female,1987,5,1
+388,Latino Americans,Dallas,American,Male,1972,8,26
+389,White Americans,Chicago,American,Female,1966,12,15
+390,White Americans,Chicago,American,Female,1989,7,15
+391,Telugu People,Hyderabad,Indian,Male,1971,12,2
+392,Mongols,Shanghai,Chinese,Male,1990,8,25
+393,Uyghus,Beijing,Chinese,Male,1980,3,19
+394,Latino Americans,Houston,American,Female,1972,1,27
+395,Native Hawaiian Americans,San Jose,American,Male,1981,7,24
+396,White Americans,Chicago,American,Male,1965,3,23
+397,Latino Americans,New York,American,Male,1978,1,15
+398,Latino Americans,New York,American,Male,1968,5,16
+399,Latino Americans,New York,American,Male,1975,1,7
+400,White Americans,Chicago,American,Male,1976,9,17
+401,Native Hawaiian Americans,San Jose,American,Female,1967,3,2
+402,White Americans,Chicago,American,Female,1975,5,8
+403,Latino Americans,Houston,American,Male,1970,11,15
+404,White Americans,Chicago,American,Female,1965,11,28
+405,African Americans,San Jose,American,Female,1968,8,9
+406,Uyghus,Beijing,Chinese,Male,1975,9,24
+407,Telugu People,Mumbai,Indian,Male,1976,12,26
+408,White Americans,Chicago,American,Male,1967,9,4
+409,Telugu People,Mumbai,Indian,Female,1973,10,20
+410,White Americans,Chicago,American,Female,1971,11,10
+411,Latino Americans,Houston,American,Male,1983,4,18
+412,Latino Americans,Houston,American,Male,1988,7,7
+413,Latino Americans,Dallas,American,Male,1970,6,20
+414,White Americans,Chicago,American,Female,1971,5,5
+415,Latino Americans,Houston,American,Male,1966,7,6
+416,Telugu People,Hyderabad,Indian,Male,1970,3,19
+417,Punjabis,Delhi,Indian,Female,1974,5,20
+418,White Americans,Chicago,American,Male,1978,7,23
+419,Latino Americans,Houston,American,Female,1971,4,2
+420,Latino Americans,Houston,American,Female,1978,2,11
+421,White Americans,San Jose,American,Female,1973,11,26
+422,Latino Americans,New York,American,Male,1965,5,16
+423,Mongols,Beijing,Chinese,Male,1971,12,8
+424,White Americans,San Jose,American,Male,1984,5,6
+425,African Americans,San Jose,American,Female,1972,8,28
+426,White Americans,Chicago,American,Male,1983,7,12
+427,White Americans,Chicago,American,Male,1978,8,25
+428,Indo Aryan,Delhi,Indian,Male,1988,2,18
+429,Native Hawaiian Americans,San Jose,American,Male,1978,3,14
+430,African Americans,San Jose,American,Male,1970,12,15
+431,Native Hawaiian Americans,San Jose,American,Male,1970,12,14
+432,Dravidians,Delhi,Indian,Male,1980,6,12
+433,Latino Americans,Dallas,American,Female,1975,12,7
+434,Uyghus,Beijing,Chinese,Male,1971,2,17
+435,Native Hawaiian Americans,San Jose,American,Female,1965,2,10
+436,Latino Americans,New York,American,Male,1989,3,13
+437,Punjabis,Delhi,Indian,Male,1979,6,14
+438,Punjabis,Delhi,Indian,Female,1989,1,11
+439,White Americans,San Jose,American,Male,1973,4,26
+440,Latino Americans,New York,American,Male,1990,8,19
+441,African Americans,San Jose,American,Male,1983,10,23
+442,Mongols,Beijing,Chinese,Female,1982,4,13
+443,Native Hawaiian Americans,San Jose,American,Male,1983,3,23
+444,Native Hawaiian Americans,San Jose,American,Male,1984,10,3
+445,Latino Americans,Houston,American,Male,1982,10,4
+446,Han Chinese,Hangzhou,Chinese,Male,1979,2,1
+447,White Americans,Chicago,American,Female,1978,7,11
+448,African Americans,Victoria,Canada,Male,1965,12,9
+449,African Americans,Victoria,Canada,Female,1982,5,12
+450,Native Hawaiian Americans,San Jose,American,Female,1977,4,1
+451,Han Chinese,Shanghai,Chinese,Female,1970,1,24
+452,White Americans,Chicago,American,Male,1970,5,24
+453,White Americans,San Jose,American,Female,1967,12,28
+454,White Americans,San Jose,American,Male,1987,6,9
+455,African Americans,San Jose,American,Male,1984,10,7
+456,Native Hawaiian Americans,San Jose,American,Male,1981,2,8
+457,Latino Americans,New York,American,Male,1965,9,9
+458,Latino Americans,Dallas,American,Male,1985,10,1
+459,White Americans,San Jose,American,Female,1987,3,24
+460,White Americans,Chicago,American,Female,1980,2,19
+461,Latino Americans,Dallas,American,Male,1982,7,19
+462,African Americans,San Jose,American,Male,1989,7,20
+463,Latino Americans,Houston,American,Female,1978,4,23
+464,Latino Americans,Houston,American,Male,1976,11,12
+465,African Americans,Victoria,Canada,Female,1985,11,6
+466,Latino Americans,Houston,American,Male,1968,4,21
+467,Native Hawaiian Americans,San Jose,American,Female,1972,1,22
+468,Latino Americans,Dallas,American,Female,1983,10,23
+469,Indo Aryan,Mumbai,Indian,Female,1989,9,27
+470,Native Hawaiian Americans,San Jose,American,Male,1978,11,3
+471,Latino Americans,Houston,American,Male,1984,9,27
+472,African Americans,Victoria,Canada,Female,1983,4,23
+473,White Americans,Chicago,American,Male,1976,6,19
+474,Indo Aryan,Mumbai,Indian,Male,1982,2,16
+475,White Americans,San Jose,American,Female,1979,1,23
+476,Indo Aryan,Mumbai,Indian,Male,1985,3,16
+477,Punjabis,Delhi,Indian,Male,1976,2,24
+478,Punjabis,Delhi,Indian,Male,1987,11,11
+479,Telugu People,Hyderabad,Indian,Female,1970,4,17
+480,Indo Aryan,Delhi,Indian,Male,1965,10,20
+481,African Americans,San Jose,American,Female,1966,1,13
+482,Mongols,Beijing,Chinese,Male,1986,11,28
+483,Punjabis,Delhi,Indian,Female,1972,4,13
+484,Punjabis,Delhi,Indian,Female,1977,9,17
+485,African Americans,San Jose,American,Male,1976,12,6
+486,Latino Americans,New York,American,Female,1979,11,5
+487,Indo Aryan,Mumbai,Indian,Male,1980,5,20
+488,Indo Aryan,Mumbai,Indian,Male,1975,8,14
+489,Bengalis,Delhi,Indian,Male,1965,1,11
+490,White Americans,Chicago,American,Female,1982,4,3
+491,Latino Americans,Dallas,American,Female,1976,5,13
+492,Native Hawaiian Americans,San Jose,American,Female,1972,11,8
+493,Native Hawaiian Americans,San Jose,American,Male,1976,6,28
+494,Indo Aryan,Mumbai,Indian,Male,1982,2,3
+495,White Americans,San Jose,American,Male,1990,8,28
+496,Telugu People,Hyderabad,Indian,Male,1982,7,26
+497,Latino Americans,Houston,American,Male,1969,7,6
+498,African Americans,Victoria,Canada,Male,1969,2,16
+499,Latino Americans,New York,American,Male,1977,5,25
+500,Indo Aryan,Mumbai,Indian,Female,1971,1,4
+501,Latino Americans,Houston,American,Male,1990,6,4
+502,African Americans,San Jose,American,Male,1979,12,25
+503,White Americans,San Jose,American,Female,1971,4,13
+504,White Americans,Chicago,American,Male,1982,1,1
+505,Bengalis,Delhi,Indian,Female,1965,2,1
+506,White Americans,San Jose,American,Male,1973,2,19
+507,Latino Americans,Houston,American,Female,1987,8,11
+508,Native Hawaiian Americans,San Jose,American,Male,1979,10,5
+509,White Americans,Chicago,American,Female,1983,3,8
+510,Indo Aryan,Delhi,Indian,Male,1989,7,2
+511,Latino Americans,Dallas,American,Female,1985,6,26
+512,Latino Americans,Houston,American,Female,1978,4,2
+513,Han Chinese,Hangzhou,Chinese,Male,1976,5,8
+514,White Americans,Chicago,American,Male,1969,12,26
+515,Latino Americans,New York,American,Male,1988,2,7
+516,Latino Americans,Houston,American,Male,1984,1,11
+517,Han Chinese,Hangzhou,Chinese,Male,1967,12,25
+518,Telugu People,Hyderabad,Indian,Female,1976,5,5
+519,Latino Americans,New York,American,Male,1965,8,3
+520,White Americans,Chicago,American,Male,1976,2,5
+521,African Americans,Victoria,Canada,Male,1969,1,2
+522,African Americans,San Jose,American,Female,1986,2,15
+523,White Americans,Chicago,American,Female,1986,1,15
+524,White Americans,Chicago,American,Female,1974,9,6
+525,African Americans,San Jose,American,Male,1978,8,25
+526,Latino Americans,Houston,American,Female,1983,4,17
+527,White Americans,Chicago,American,Male,1990,6,13
+528,Latino Americans,New York,American,Transgender,1980,12,19
+529,Telugu People,Hyderabad,Indian,Male,1981,2,27
+530,Latino Americans,New York,American,Male,1976,12,16
+531,African Americans,San Jose,American,Female,1975,7,8
+532,Punjabis,Delhi,Indian,Male,1978,7,17
+533,Han Chinese,Shanghai,Chinese,Male,1981,4,9
+534,Native Hawaiian Americans,San Jose,American,Female,1988,9,15
+535,Latino Americans,Houston,American,Male,1973,6,9
+536,Indo Aryan,Delhi,Indian,Male,1973,1,1
+537,Indo Aryan,Mumbai,Indian,Male,1980,1,15
+538,Native Hawaiian Americans,San Jose,American,Transgender,1968,9,2
+539,Latino Americans,New York,American,Female,1967,7,18
+540,African Americans,San Jose,American,Male,1968,5,26
+541,Latino Americans,Dallas,American,Female,1981,2,15
+542,Latino Americans,Dallas,American,Female,1989,8,4
+543,Native Hawaiian Americans,San Jose,American,Transgender,1985,7,7
+544,Uyghus,Beijing,Chinese,Male,1970,2,8
+545,Latino Americans,Houston,American,Female,1983,9,21
+546,Mongols,Beijing,Chinese,Male,1976,2,22
+547,Indo Aryan,Mumbai,Indian,Female,1986,4,13
+548,African Americans,San Jose,American,Male,1967,5,5
+549,Bengalis,Delhi,Indian,Female,1987,6,11
+550,Latino Americans,New York,American,Male,1987,9,6
+551,Mongols,Beijing,Chinese,Female,1968,2,22
+552,Latino Americans,Houston,American,Male,1990,2,1
+553,Latino Americans,Dallas,American,Male,1990,8,14
+554,African Americans,San Jose,American,Female,1986,6,21
+555,Dravidians,Delhi,Indian,Male,1976,3,26
+556,White Americans,Chicago,American,Male,1977,12,17
+557,Latino Americans,Dallas,American,Female,1978,11,15
+558,Han Chinese,Hangzhou,Chinese,Male,1989,3,10
+559,Punjabis,Delhi,Indian,Female,1984,12,5
+560,Native Hawaiian Americans,San Jose,American,Male,1977,3,4
+561,Latino Americans,Dallas,American,Male,1986,7,9
+562,Latino Americans,New York,American,Male,1985,8,28
+563,White Americans,Chicago,American,Female,1982,6,23
+564,White Americans,San Jose,American,Male,1975,4,28
+565,Punjabis,Delhi,Indian,Male,1977,6,24
+566,Mongols,Beijing,Chinese,Female,1986,1,15
+567,White Americans,Chicago,American,Male,1967,6,2
+568,Telugu People,Hyderabad,Indian,Male,1985,12,11
+569,White Americans,Chicago,American,Male,1974,3,19
+570,African Americans,Victoria,Canada,Female,1982,6,10
+571,Latino Americans,New York,American,Female,1988,1,12
+572,Native Hawaiian Americans,San Jose,American,Female,1969,12,13
+573,Punjabis,Delhi,Indian,Female,1976,2,21
+574,Latino Americans,New York,American,Male,1981,7,21
+575,Native Hawaiian Americans,San Jose,American,Female,1982,4,21
+576,Latino Americans,New York,American,Female,1970,7,9
+577,Latino Americans,Dallas,American,Male,1969,2,11
+578,Uyghus,Beijing,Chinese,Male,1989,4,16
+579,Latino Americans,Houston,American,Male,1975,3,9
+580,Native Hawaiian Americans,San Jose,American,Female,1968,8,16
+581,White Americans,Ottawa,Canada,Male,1971,11,2
+582,African Americans,San Jose,American,Male,1978,7,9
+583,Latino Americans,Dallas,American,Male,1974,12,14
+584,White Americans,Chicago,American,Female,1982,9,2
+585,White Americans,Chicago,American,Male,1987,6,12
+586,White Americans,Chicago,American,Female,1979,12,19
+587,Indo Aryan,Mumbai,Indian,Female,1978,8,1
+588,Latino Americans,Dallas,American,Female,1985,3,27
+589,Telugu People,Hyderabad,Indian,Male,1970,11,22
+590,White Americans,Ottawa,Canada,Male,1975,3,22
+591,Latino Americans,New York,American,Male,1979,5,25
+592,Native Hawaiian Americans,San Jose,American,Male,1975,10,28
+593,Latino Americans,Houston,American,Male,1971,9,14
+594,African Americans,Victoria,Canada,Female,1968,3,16
+595,Uyghus,Beijing,Chinese,Male,1986,6,20
+596,Latino Americans,Houston,American,Male,1990,6,17
+597,Latino Americans,Dallas,American,Male,1979,9,10
+598,White Americans,San Jose,American,Male,1966,2,3
+599,White Americans,Ottawa,Canada,Male,1968,10,28
+600,Uyghus,Beijing,Chinese,Male,1988,6,14
+601,White Americans,Chicago,American,Male,1975,9,28
+602,Dravidians,Delhi,Indian,Female,1978,12,1
+603,Uyghus,Beijing,Chinese,Female,1976,6,17
+604,Native Hawaiian Americans,San Jose,American,Male,1969,7,26
+605,White Americans,Chicago,American,Female,1988,4,22
+606,Indo Aryan,Mumbai,Indian,Female,1973,7,3
+607,Indo Aryan,Mumbai,Indian,Male,1980,2,20
+608,Latino Americans,New York,American,Male,1985,1,19
+609,Latino Americans,Dallas,American,Female,1965,9,10
+610,Latino Americans,New York,American,Female,1974,6,25
+611,White Americans,Chicago,American,Male,1971,12,3
+612,Indo Aryan,Mumbai,Indian,Female,1982,5,16
+613,Native Hawaiian Americans,San Jose,American,Male,1973,11,2
+614,Native Hawaiian Americans,San Jose,American,Female,1974,5,22
+615,Native Hawaiian Americans,San Jose,American,Male,1971,3,11
+616,White Americans,Chicago,American,Male,1980,8,9
+617,White Americans,Ottawa,Canada,Male,1970,12,9
+618,Latino Americans,New York,American,Male,1983,3,18
+619,White Americans,Chicago,American,Male,1981,3,8
+620,Indo Aryan,Mumbai,Indian,Male,1978,9,20
+621,Indo Aryan,Mumbai,Indian,Male,1974,1,20
+622,Latino Americans,Dallas,American,Male,1990,10,19
+623,African Americans,San Jose,American,Male,1970,9,17
+624,White Americans,Chicago,American,Male,1970,3,14
+625,Native Hawaiian Americans,San Jose,American,Male,1980,10,1
+626,African Americans,San Jose,American,Female,1966,10,8
+627,White Americans,Chicago,American,Female,1988,4,18
+628,Latino Americans,Houston,American,Male,1986,5,19
+629,Latino Americans,Houston,American,Male,1974,10,2
+630,Han Chinese,Hangzhou,Chinese,Male,1984,9,13
+631,Latino Americans,Dallas,American,Male,1986,10,7
+632,Latino Americans,New York,American,Male,1990,11,18
+633,Native Hawaiian Americans,San Jose,American,Female,1979,2,20
+634,Telugu People,Hyderabad,Indian,Female,1975,5,5
+635,White Americans,Chicago,American,Female,1971,10,9
+636,White Americans,San Jose,American,Male,1969,3,15
+637,White Americans,Ottawa,Canada,Male,1989,12,4
+638,White Americans,Chicago,American,Male,1975,10,20
+639,Latino Americans,Dallas,American,Male,1974,5,10
+640,African Americans,San Jose,American,Male,1977,2,2
+641,Latino Americans,New York,American,Male,1984,4,26
+642,White Americans,San Jose,American,Male,1968,9,3
+643,White Americans,San Jose,American,Male,1976,4,15
+644,Han Chinese,Shanghai,Chinese,Female,1982,1,15
+645,Latino Americans,Houston,American,Male,1973,3,17
+646,Dravidians,Delhi,Indian,Male,1984,7,26
+647,Indo Aryan,Mumbai,Indian,Male,1979,1,16
+648,Mongols,Beijing,Chinese,Female,1982,7,23
+649,Latino Americans,Houston,American,Male,1970,8,17
+650,Latino Americans,New York,American,Female,1981,9,2
+651,White Americans,Chicago,American,Female,1977,12,22
+652,Indo Aryan,Mumbai,Indian,Male,1968,5,11
+653,Latino Americans,Houston,American,Male,1968,3,4
+654,Latino Americans,Houston,American,Male,1970,8,4
+655,Mongols,Beijing,Chinese,Male,1979,9,19
+656,White Americans,Chicago,American,Male,1984,4,5
+657,Latino Americans,Houston,American,Female,1990,3,18
+658,Uyghus,Beijing,Chinese,Male,1988,8,21
+659,Latino Americans,Houston,American,Female,1982,5,7
+660,Latino Americans,Houston,American,Female,1975,9,27
+661,African Americans,Victoria,Canada,Male,1973,10,4
+662,White Americans,San Jose,American,Male,1983,1,3
+663,White Americans,Chicago,American,Female,1984,8,27
+664,Telugu People,Mumbai,Indian,Male,1986,7,15
+665,Telugu People,Mumbai,Indian,Male,1977,12,25
+666,White Americans,Chicago,American,Male,1973,7,1
+667,Han Chinese,Hangzhou,Chinese,Female,1979,9,15
+668,White Americans,Ottawa,Canada,Male,1970,12,22
+669,White Americans,Chicago,American,Female,1977,4,22
+670,Latino Americans,New York,American,Male,1975,2,5
+671,Punjabis,Delhi,Indian,Male,1981,5,8
+672,Latino Americans,Houston,American,Female,1965,6,26
+673,Han Chinese,Hangzhou,Chinese,Male,1986,1,5
+674,Latino Americans,Dallas,American,Male,1989,1,11
+675,Indo Aryan,Mumbai,Indian,Female,1973,12,7
+676,Latino Americans,Dallas,American,Male,1966,1,13
+677,Native Hawaiian Americans,San Jose,American,Male,1970,11,16
+678,White Americans,Chicago,American,Male,1987,5,4
+679,White Americans,Chicago,American,Female,1970,10,18
+680,Han Chinese,Hangzhou,Chinese,Female,1968,3,24
+681,Latino Americans,New York,American,Male,1988,12,25
+682,Native Hawaiian Americans,San Jose,American,Male,1978,12,18
+683,Indo Aryan,Mumbai,Indian,Female,1968,2,17
+684,Latino Americans,Dallas,American,Male,1966,6,4
+685,Punjabis,Delhi,Indian,Male,1968,7,1
+686,Native Hawaiian Americans,San Jose,American,Male,1965,2,28
+687,White Americans,Chicago,American,Male,1984,7,16
+688,Native Hawaiian Americans,San Jose,American,Male,1983,4,10
+689,White Americans,Chicago,American,Male,1972,5,27
+690,Han Chinese,Hangzhou,Chinese,Male,1982,9,7
+691,Latino Americans,New York,American,Male,1969,8,7
+692,Dravidians,Delhi,Indian,Female,1973,6,10
+693,White Americans,Chicago,American,Male,1968,1,26
+694,Han Chinese,Shanghai,Chinese,Male,1980,11,10
+695,Punjabis,Delhi,Indian,Female,1984,5,7
+696,Telugu People,Hyderabad,Indian,Male,1968,4,1
+697,Telugu People,Hyderabad,Indian,Male,1988,8,4
+698,Native Hawaiian Americans,San Jose,American,Male,1987,4,23
+699,Punjabis,Delhi,Indian,Male,1978,8,28
+700,Bengalis,Delhi,Indian,Male,1968,11,20
+701,White Americans,Chicago,American,Female,1967,6,16
+702,White Americans,Chicago,American,Male,1967,3,10
+703,Mongols,Beijing,Chinese,Male,1973,2,9
+704,Native Hawaiian Americans,San Jose,American,Female,1972,4,21
+705,White Americans,Chicago,American,Male,1970,2,9
+706,Mongols,Beijing,Chinese,Male,1969,9,20
+707,Dravidians,Delhi,Indian,Male,1965,11,27
+708,African Americans,Victoria,Canada,Male,1970,5,3
+709,Uyghus,Beijing,Chinese,Male,1971,7,19
+710,Latino Americans,Houston,American,Male,1990,11,14
+711,Dravidians,Delhi,Indian,Male,1982,6,3
+712,Latino Americans,Houston,American,Male,1966,3,25
+713,Latino Americans,Houston,American,Female,1989,10,14
+714,Latino Americans,Dallas,American,Female,1966,1,27
+715,Native Hawaiian Americans,San Jose,American,Male,1982,3,22
+716,Latino Americans,Dallas,American,Male,1974,3,20
+717,Punjabis,Delhi,Indian,Male,1966,11,23
+718,Latino Americans,Dallas,American,Female,1977,7,8
+719,White Americans,Chicago,American,Male,1981,10,24
+720,Han Chinese,Shanghai,Chinese,Male,1983,8,28
+721,Indo Aryan,Mumbai,Indian,Female,1980,3,8
+722,Latino Americans,New York,American,Male,1989,6,23
+723,African Americans,San Jose,American,Male,1980,7,7
+724,Latino Americans,New York,American,Male,1972,11,18
+725,African Americans,San Jose,American,Male,1971,9,15
+726,Bengalis,Delhi,Indian,Male,1976,9,27
+727,Telugu People,Hyderabad,Indian,Male,1988,8,18
+728,Telugu People,Hyderabad,Indian,Female,1983,11,10
+729,White Americans,Chicago,American,Male,1986,2,14
+730,Uyghus,Beijing,Chinese,Male,1980,8,26
+731,African Americans,San Jose,American,Male,1969,3,5
+732,Telugu People,Mumbai,Indian,Male,1988,3,19
+733,White Americans,San Jose,American,Male,1973,1,15
+734,Indo Aryan,Mumbai,Indian,Male,1971,12,25
+735,White Americans,San Jose,American,Female,1979,5,18
+736,Han Chinese,Shanghai,Chinese,Male,1986,4,22
+737,Uyghus,Beijing,Chinese,Male,1965,11,28
+738,Dravidians,Delhi,Indian,Female,1969,2,9
+739,Latino Americans,Dallas,American,Female,1968,8,21
+740,African Americans,Victoria,Canada,Male,1988,5,3
+741,Latino Americans,New York,American,Male,1979,8,27
+742,Punjabis,Delhi,Indian,Female,1973,5,6
+743,Punjabis,Delhi,Indian,Female,1968,10,24
+744,Indo Aryan,Delhi,Indian,Male,1981,7,18
+745,White Americans,Chicago,American,Male,1982,11,2
+746,Latino Americans,New York,American,Male,1965,12,11
+747,White Americans,Ottawa,Canada,Male,1965,2,18
+748,White Americans,Chicago,American,Male,1976,10,3
+749,Native Hawaiian Americans,San Jose,American,Female,1968,12,18
+750,African Americans,San Jose,American,Male,1990,4,8
+751,Native Hawaiian Americans,San Jose,American,Male,1988,6,10
+752,African Americans,San Jose,American,Male,1990,9,25
+753,Latino Americans,New York,American,Male,1982,10,1
+754,Latino Americans,New York,American,Male,1969,1,13
+755,Latino Americans,New York,American,Female,1966,8,4
+756,White Americans,Chicago,American,Female,1978,7,14
+757,White Americans,San Jose,American,Male,1973,5,2
+758,White Americans,San Jose,American,Male,1968,1,19
+759,Latino Americans,Dallas,American,Male,1979,3,6
+760,Latino Americans,Houston,American,Male,1985,10,26
+761,Latino Americans,Houston,American,Male,1978,12,27
+762,Latino Americans,New York,American,Male,1974,11,7
+763,Latino Americans,New York,American,Male,1989,11,1
+764,White Americans,Chicago,American,Male,1969,12,17
+765,African Americans,San Jose,American,Male,1985,11,9
+766,Latino Americans,Dallas,American,Male,1968,2,13
+767,Telugu People,Hyderabad,Indian,Male,1985,9,18
+768,White Americans,Chicago,American,Male,1986,5,2
+769,Dravidians,Delhi,Indian,Female,1975,3,4
+770,White Americans,Chicago,American,Male,1970,12,2
+771,Han Chinese,Shanghai,Chinese,Male,1970,10,8
+772,Telugu People,Hyderabad,Indian,Male,1974,2,26
+773,Punjabis,Delhi,Indian,Male,1981,7,13
+774,African Americans,San Jose,American,Male,1988,7,6
+775,Latino Americans,Dallas,American,Male,1970,3,25
+776,Latino Americans,Houston,American,Male,1970,10,17
+777,White Americans,San Jose,American,Male,1967,6,10
+778,African Americans,San Jose,American,Male,1983,9,17
+779,Native Hawaiian Americans,San Jose,American,Female,1980,11,22
+780,White Americans,Chicago,American,Male,1982,6,16
+781,Latino Americans,Houston,American,Male,1985,8,11
+782,Latino Americans,New York,American,Male,1983,9,24
+783,Han Chinese,Hangzhou,Chinese,Female,1973,10,28
+784,Latino Americans,Houston,American,Male,1975,8,11
+785,African Americans,San Jose,American,Female,1979,5,7
+786,Latino Americans,New York,American,Female,1988,3,12
+787,Native Hawaiian Americans,San Jose,American,Female,1967,1,17
+788,Latino Americans,New York,American,Male,1970,12,10
+789,Native Hawaiian Americans,San Jose,American,Male,1966,10,7
+790,Latino Americans,Dallas,American,Female,1968,6,4
+791,White Americans,San Jose,American,Female,1985,10,26
+792,Latino Americans,New York,American,Female,1978,7,11
+793,Latino Americans,Houston,American,Female,1977,1,14
+794,White Americans,Ottawa,Canada,Female,1989,10,21
+795,Latino Americans,Dallas,American,Female,1971,9,25
+796,White Americans,Ottawa,Canada,Male,1972,5,23
+797,Indo Aryan,Mumbai,Indian,Female,1980,6,16
+798,Uyghus,Beijing,Chinese,Male,1977,6,28
+799,Native Hawaiian Americans,San Jose,American,Male,1970,5,15
+800,Punjabis,Delhi,Indian,Female,1965,7,16
+801,Latino Americans,Houston,American,Male,1988,11,27
+802,White Americans,Ottawa,Canada,Male,1977,6,3
+803,Indo Aryan,Delhi,Indian,Male,1974,5,3
+804,Latino Americans,New York,American,Male,1973,11,22
+805,White Americans,Chicago,American,Female,1969,2,1
+806,Indo Aryan,Mumbai,Indian,Male,1968,10,3
+807,Native Hawaiian Americans,San Jose,American,Male,1967,6,4
+808,African Americans,San Jose,American,Female,1966,4,28
+809,Latino Americans,Dallas,American,Female,1990,5,23
+810,Latino Americans,New York,American,Male,1970,10,25
+811,African Americans,Victoria,Canada,Male,1987,5,28
+812,African Americans,San Jose,American,Male,1975,3,27
+813,African Americans,Victoria,Canada,Female,1985,7,23
+814,Telugu People,Mumbai,Indian,Female,1988,12,6
+815,White Americans,Chicago,American,Male,1981,11,25
+816,Native Hawaiian Americans,San Jose,American,Male,1989,6,18
+817,Latino Americans,Houston,American,Female,1979,4,9
+818,White Americans,Chicago,American,Male,1972,4,15
+819,Latino Americans,Dallas,American,Female,1980,3,8
+820,African Americans,San Jose,American,Male,1967,10,26
+821,African Americans,San Jose,American,Male,1974,11,23
+822,White Americans,Chicago,American,Male,1966,2,4
+823,White Americans,Ottawa,Canada,Male,1976,9,10
+824,Latino Americans,New York,American,Male,1966,11,17
+825,Uyghus,Beijing,Chinese,Female,1990,12,10
+826,Indo Aryan,Delhi,Indian,Female,1987,7,27
+827,Native Hawaiian Americans,San Jose,American,Male,1982,8,21
+828,White Americans,Chicago,American,Male,1990,8,16
+829,Bengalis,Delhi,Indian,Male,1978,2,22
+830,Latino Americans,Dallas,American,Male,1973,10,22
+831,White Americans,Chicago,American,Female,1983,4,18
+832,Han Chinese,Hangzhou,Chinese,Male,1980,1,25
+833,Telugu People,Hyderabad,Indian,Male,1973,1,27
+834,Latino Americans,Dallas,American,Male,1973,11,4
+835,African Americans,San Jose,American,Male,1985,4,2
+836,Indo Aryan,Mumbai,Indian,Male,1986,7,27
+837,White Americans,Chicago,American,Male,1987,8,6
+838,White Americans,Chicago,American,Male,1974,4,25
+839,Latino Americans,New York,American,Male,1990,9,3
+840,Uyghus,Beijing,Chinese,Female,1990,5,11
+841,Latino Americans,Houston,American,Female,1989,7,2
+842,Latino Americans,New York,American,Female,1989,4,12
+843,Native Hawaiian Americans,San Jose,American,Female,1978,1,2
+844,Han Chinese,Shanghai,Chinese,Female,1981,4,28
+845,Han Chinese,Shanghai,Chinese,Male,1990,3,16
+846,Bengalis,Delhi,Indian,Male,1974,12,2
+847,Latino Americans,New York,American,Female,1983,10,13
+848,Latino Americans,Houston,American,Female,1979,10,26
+849,Latino Americans,Houston,American,Female,1969,11,17
+850,White Americans,Chicago,American,Female,1977,3,6
+851,Han Chinese,Hangzhou,Chinese,Male,1988,12,17
+852,Native Hawaiian Americans,San Jose,American,Female,1979,1,6
+853,Han Chinese,Shanghai,Chinese,Male,1966,4,16
+854,Latino Americans,Dallas,American,Male,1990,10,19
+855,Telugu People,Hyderabad,Indian,Male,1978,4,27
+856,White Americans,Chicago,American,Male,1971,3,20
+857,Latino Americans,New York,American,Female,1972,7,21
+858,Latino Americans,Houston,American,Female,1965,1,27
+859,African Americans,San Jose,American,Male,1968,8,28
+860,Dravidians,Delhi,Indian,Male,1983,12,27
+861,Latino Americans,Houston,American,Female,1989,12,9
+862,Native Hawaiian Americans,San Jose,American,Male,1969,10,7
+863,Indo Aryan,Mumbai,Indian,Male,1965,2,20
+864,Latino Americans,Dallas,American,Female,1970,2,14
+865,White Americans,Chicago,American,Male,1969,3,12
+866,Latino Americans,New York,American,Male,1982,12,21
+867,White Americans,San Jose,American,Female,1971,10,13
+868,Latino Americans,Houston,American,Male,1982,5,9
+869,Native Hawaiian Americans,San Jose,American,Male,1968,1,4
+870,Latino Americans,Houston,American,Female,1974,10,28
+871,African Americans,San Jose,American,Female,1981,10,21
+872,Latino Americans,New York,American,Male,1969,2,13
+873,Han Chinese,Hangzhou,Chinese,Male,1971,5,11
+874,Latino Americans,Dallas,American,Male,1974,2,23
+875,Latino Americans,New York,American,Male,1990,4,24
+876,Latino Americans,New York,American,Male,1973,12,3
+877,Telugu People,Hyderabad,Indian,Male,1979,7,24
+878,Dravidians,Delhi,Indian,Female,1983,7,5
+879,Latino Americans,Dallas,American,Male,1985,10,15
+880,Latino Americans,Dallas,American,Male,1967,6,24
+881,White Americans,Chicago,American,Female,1972,11,10
+882,Latino Americans,Dallas,American,Male,1985,5,14
+883,Latino Americans,Houston,American,Male,1980,9,7
+884,White Americans,Chicago,American,Male,1968,5,18
+885,Latino Americans,Houston,American,Male,1974,7,20
+886,Latino Americans,Dallas,American,Male,1966,6,4
+887,Latino Americans,Dallas,American,Male,1965,12,21
+888,White Americans,Chicago,American,Male,1965,11,3
+889,Dravidians,Delhi,Indian,Male,1965,5,11
+890,Dravidians,Delhi,Indian,Female,1969,3,28
+891,Latino Americans,New York,American,Male,1986,5,6
+892,White Americans,Chicago,American,Male,1985,4,21
+893,Native Hawaiian Americans,San Jose,American,Male,1980,2,3
+894,White Americans,Chicago,American,Male,1990,12,2
+895,Native Hawaiian Americans,San Jose,American,Male,1983,10,17
+896,Latino Americans,Houston,American,Female,1970,12,17
+897,African Americans,San Jose,American,Male,1982,12,24
+898,Latino Americans,Houston,American,Female,1977,12,15
+899,Uyghus,Beijing,Chinese,Male,1967,12,22
+900,Native Hawaiian Americans,San Jose,American,Male,1980,2,12
+901,African Americans,Victoria,Canada,Female,1982,6,5
+902,Indo Aryan,Mumbai,Indian,Male,1987,10,3
+903,Dravidians,Delhi,Indian,Female,1966,6,15
+904,Uyghus,Beijing,Chinese,Male,1965,8,10
+905,Latino Americans,New York,American,Male,1980,8,6
+906,Latino Americans,Dallas,American,Male,1986,6,12
+907,Han Chinese,Hangzhou,Chinese,Male,1984,4,5
+908,Han Chinese,Hangzhou,Chinese,Male,1978,1,14
+909,White Americans,Chicago,American,Male,1969,6,23
+910,African Americans,San Jose,American,Male,1977,7,25
+911,Han Chinese,Hangzhou,Chinese,Female,1972,2,5
+912,White Americans,Chicago,American,Male,1967,6,11
+913,Latino Americans,Houston,American,Male,1985,3,10
+914,White Americans,Chicago,American,Male,1965,4,5
+915,Bengalis,Delhi,Indian,Male,1966,1,17
+916,African Americans,San Jose,American,Female,1990,3,21
+917,Latino Americans,New York,American,Female,1968,7,26
+918,Latino Americans,Houston,American,Male,1966,2,4
+919,Latino Americans,Houston,American,Male,1979,4,16
+920,Latino Americans,Dallas,American,Male,1969,4,2
+921,Latino Americans,Houston,American,Male,1978,6,22
+922,Mongols,Shanghai,Chinese,Male,1971,7,11
+923,White Americans,San Jose,American,Female,1967,4,21
+924,White Americans,Chicago,American,Male,1979,2,1
+925,White Americans,Chicago,American,Female,1983,8,15
+926,Dravidians,Delhi,Indian,Female,1987,11,25
+927,White Americans,Chicago,American,Male,1984,12,24
+928,White Americans,Chicago,American,Male,1981,10,23
+929,Mongols,Shanghai,Chinese,Male,1973,11,3
+930,Telugu People,Hyderabad,Indian,Male,1974,4,23
+931,Dravidians,Delhi,Indian,Male,1969,1,5
+932,Latino Americans,New York,American,Female,1981,6,16
+933,White Americans,San Jose,American,Female,1973,3,21
+934,White Americans,San Jose,American,Male,1990,1,23
+935,Latino Americans,New York,American,Female,1971,12,23
+936,Indo Aryan,Mumbai,Indian,Male,1981,12,17
+937,Uyghus,Beijing,Chinese,Female,1990,6,25
+938,Indo Aryan,Mumbai,Indian,Male,1986,9,28
+939,Native Hawaiian Americans,San Jose,American,Male,1987,1,17
+940,Bengalis,Delhi,Indian,Male,1965,1,19
+941,Uyghus,Beijing,Chinese,Female,1984,6,19
+942,Native Hawaiian Americans,San Jose,American,Male,1981,11,20
+943,African Americans,San Jose,American,Female,1976,1,9
+944,Indo Aryan,Mumbai,Indian,Female,1980,9,5
+945,Telugu People,Hyderabad,Indian,Male,1982,5,12
+946,African Americans,San Jose,American,Male,1982,2,4
+947,Native Hawaiian Americans,San Jose,American,Male,1982,1,15
+948,African Americans,Victoria,Canada,Female,1977,7,23
+949,Latino Americans,New York,American,Male,1981,1,15
+950,Han Chinese,Hangzhou,Chinese,Male,1986,5,4
+951,White Americans,Chicago,American,Male,1969,1,2
+952,Latino Americans,Dallas,American,Male,1981,5,28
+953,Latino Americans,Houston,American,Male,1981,6,17
+954,White Americans,Chicago,American,Female,1965,1,28
+955,Latino Americans,New York,American,Female,1978,6,10
+956,White Americans,Chicago,American,Female,1986,5,10
+957,Mongols,Shanghai,Chinese,Male,1990,8,28
+958,Telugu People,Mumbai,Indian,Male,1977,1,24
+959,White Americans,Chicago,American,Male,1975,1,13
+960,Latino Americans,Dallas,American,Male,1967,5,28
+961,White Americans,Chicago,American,Female,1976,4,4
+962,African Americans,San Jose,American,Female,1969,11,28
+963,Native Hawaiian Americans,San Jose,American,Male,1967,3,19
+964,White Americans,Chicago,American,Male,1980,11,16
+965,African Americans,San Jose,American,Female,1973,5,22
+966,Indo Aryan,Delhi,Indian,Male,1981,12,22
+967,White Americans,Chicago,American,Male,1985,8,4
+968,Telugu People,Hyderabad,Indian,Male,1974,4,3
+969,Punjabis,Delhi,Indian,Male,1970,11,2
+970,White Americans,Ottawa,Canada,Male,1966,1,16
+971,African Americans,San Jose,American,Female,1967,7,2
+972,Han Chinese,Shanghai,Chinese,Female,1985,8,19
+973,Latino Americans,New York,American,Male,1978,9,2
+974,Native Hawaiian Americans,San Jose,American,Female,1971,1,7
+975,White Americans,Chicago,American,Female,1979,3,25
+976,Latino Americans,Dallas,American,Male,1990,6,5
+977,White Americans,San Jose,American,Male,1967,3,16
+978,Telugu People,Hyderabad,Indian,Male,1966,5,4
+979,Native Hawaiian Americans,San Jose,American,Female,1981,7,3
+980,Native Hawaiian Americans,San Jose,American,Male,1967,8,26
+981,White Americans,Chicago,American,Male,1980,9,13
+982,White Americans,San Jose,American,Male,1966,10,13
+983,Latino Americans,Houston,American,Male,1978,5,24
+984,Indo Aryan,Delhi,Indian,Female,1972,9,24
+985,Latino Americans,Houston,American,Female,1973,3,25
+986,Dravidians,Delhi,Indian,Male,1975,12,1
+987,Indo Aryan,Delhi,Indian,Female,1968,8,24
+988,White Americans,Chicago,American,Female,1980,1,3
+989,White Americans,Chicago,American,Male,1972,11,22
+990,White Americans,Chicago,American,Female,1990,1,11
+991,Punjabis,Delhi,Indian,Male,1967,9,23
+992,Latino Americans,New York,American,Female,1974,6,16
+993,Latino Americans,New York,American,Male,1971,2,27
+994,White Americans,Chicago,American,Male,1980,7,28
+995,White Americans,Chicago,American,Male,1983,10,3
+996,Telugu People,Hyderabad,Indian,Male,1980,4,12
+997,Latino Americans,New York,American,Male,1986,7,11
+998,White Americans,San Jose,American,Male,1969,4,4
+999,Latino Americans,Houston,American,Male,1983,7,11
+1000,African Americans,San Jose,American,Male,1986,8,18
