@@ -1,0 +1,1800 @@
+id,start_year,start_month,end_year,end_month,job_title,department
+1,1994.0,12,2000.0,3,Associate Backend Engineer,IT Department
+1,2001.0,3,2006.0,10,Backend Engineer,IT Department
+1,2006.0,10,2010.0,3,Backend Engineer II,IT Department
+2,1995.0,12,2001.0,11,Associate Frontend Engineer,IT Department
+2,2002.0,11,2007.0,1,Frontend Engineer,IT Department
+2,2007.0,1,2011.0,12,Frontend Engineer II,IT Department
+3,1988.0,12,1994.0,10,Associate Data Analyst,Analytics Department
+3,1994.0,10,1999.0,5,Data Analyst,Analytics Department
+3,1999.0,5,2011.0,10,Data Analyst II,Analytics Department
+4,1993.0,12,1999.0,9,Associate Frontend Engineer,IT Department
+4,1999.0,9,2004.0,3,Frontend Engineer,IT Department
+4,2004.0,3,2016.0,9,Frontend Engineer II,IT Department
+5,1997.0,7,2003.0,3,Associate Frontend Engineer,IT Department
+5,2003.0,3,2008.0,6,Frontend Engineer,IT Department
+5,2008.0,6,2012.0,2,Backend Engineer II,IT Department
+6,1993.0,12,1999.0,12,Associate Backend Engineer,Analytics Department
+6,2000.0,12,2005.0,10,Backend Engineer,Analytics Department
+6,2005.0,10,2017.0,11,Backend Engineer II,Analytics Department
+7,1998.0,12,2004.0,10,Associate Data Analyst,Analytics Department
+7,2004.0,10,2009.0,9,Data Analyst,Analytics Department
+7,2010.0,9,2011.0,11,Data Analyst II,Analytics Department
+8,1996.0,5,2002.0,12,Associate Backend Engineer,IT Department
+8,2002.0,12,2007.0,12,Backend Engineer,IT Department
+8,2008.0,12,2012.0,8,Backend Engineer II,IT Department
+9,1992.0,5,1998.0,10,Associate Manager,Administration Department
+9,1998.0,10,2003.0,9,Assistant Manager,Administration Department
+9,2003.0,9,2015.0,9,Manager,Administration Department
+10,2008.0,12,2012.0,2,Associate Frontend Engineer,IT Department
+11,1990.0,12,1996.0,2,Associate Backend Engineer,IT Department
+11,1996.0,2,2001.0,3,Backend Engineer,IT Department
+11,2001.0,3,2013.0,8,Backend Engineer II,IT Department
+12,1990.0,5,1996.0,5,Associate Manager,Administration Department
+12,1997.0,5,2002.0,1,Assistant Manager,Administration Department
+12,2002.0,1,2014.0,11,Manager,Administration Department
+13,2002.0,5,2008.0,2,Associate Data Analyst,Analytics Department
+14,2010.0,12,2014.0,11,Associate Data Analyst,Analytics Department
+16,1991.0,5,1997.0,8,Associate Backend Engineer,Analytics Department
+16,1997.0,8,2002.0,9,Backend Engineer,Analytics Department
+16,2003.0,9,2015.0,4,Backend Engineer II,Analytics Department
+17,2005.0,4,2011.0,7,Associate Data Analyst,Analytics Department
+18,2003.0,7,2009.0,1,Associate Frontend Engineer,IT Department
+19,2011.0,12,2015.0,12,Associate Backend Engineer,IT Department
+20,1999.0,12,2005.0,6,Associate Backend Engineer,Analytics Department
+20,2005.0,6,2010.0,1,Backend Engineer,Analytics Department
+20,2010.0,1,2011.0,12,Backend Engineer II,Analytics Department
+21,1994.0,4,2000.0,6,Associate Frontend Engineer,IT Department
+21,2001.0,6,2006.0,4,Frontend Engineer,IT Department
+21,2006.0,4,2010.0,10,Frontend Engineer II,IT Department
+22,1992.0,4,1998.0,9,Associate Data Analyst,Analytics Department
+22,1998.0,9,2003.0,11,Data Analyst,Analytics Department
+22,2003.0,11,2015.0,8,Data Analyst II,Analytics Department
+23,1992.0,12,1998.0,10,Associate Backend Engineer,IT Department
+23,1999.0,10,2004.0,7,Backend Engineer,IT Department
+23,2004.0,7,2016.0,9,Backend Engineer II,IT Department
+24,1988.0,5,1994.0,5,Associate Data Analyst,Analytics Department
+24,1994.0,5,1999.0,10,Data Analyst,Analytics Department
+24,1999.0,10,2011.0,12,Data Analyst II,Analytics Department
+25,2009.0,12,2013.0,5,Associate Frontend Engineer,IT Department
+26,2006.0,7,2010.0,5,Associate Data Analyst,Analytics Department
+27,2005.0,12,2011.0,9,Associate Backend Engineer,Analytics Department
+28,1991.0,12,1997.0,2,Associate Frontend Engineer,IT Department
+28,1998.0,2,2003.0,2,Frontend Engineer,IT Department
+28,2003.0,2,2015.0,11,Frontend Engineer II,IT Department
+29,2008.0,5,2012.0,3,Associate Data Analyst,Analytics Department
+30,2006.0,12,2010.0,8,Associate Backend Engineer,Analytics Department
+31,2011.0,12,2015.0,11,Associate Backend Engineer,Analytics Department
+32,1998.0,12,2004.0,1,Associate Backend Engineer,Analytics Department
+32,2004.0,1,2009.0,9,Backend Engineer,Analytics Department
+33,2002.0,12,2008.0,9,Associate Frontend Engineer,IT Department
+34,2005.0,5,2011.0,6,Associate Backend Engineer,Analytics Department
+35,2006.0,7,2010.0,5,Associate Backend Engineer,Analytics Department
+36,2009.0,5,2013.0,10,Associate Data Analyst,Analytics Department
+37,1996.0,12,2002.0,3,Associate Data Analyst,Analytics Department
+37,2002.0,3,2007.0,12,Data Analyst,Analytics Department
+37,2007.0,12,2011.0,2,Data Analyst II,Analytics Department
+38,1999.0,5,2005.0,3,Associate Backend Engineer,Analytics Department
+38,2005.0,3,2010.0,8,Backend Engineer,Analytics Department
+38,2010.0,8,2011.0,9,Backend Engineer II,Analytics Department
+39,1989.0,7,1995.0,12,Associate Frontend Engineer,IT Department
+39,1995.0,12,2000.0,2,Frontend Engineer,IT Department
+39,2001.0,2,2013.0,8,Frontend Engineer II,IT Department
+40,1990.0,12,1996.0,11,Associate Backend Engineer,IT Department
+40,1997.0,11,2002.0,1,Backend Engineer,IT Department
+40,2002.0,1,2014.0,5,Backend Engineer II,IT Department
+41,2008.0,12,2012.0,7,Associate Frontend Engineer,IT Department
+42,2012.0,12,2016.0,3,Associate Data Analyst,Analytics Department
+43,2000.0,7,2006.0,3,Associate Data Analyst,Analytics Department
+44,1999.0,5,2005.0,9,Associate Backend Engineer,Analytics Department
+45,2009.0,12,2013.0,12,Associate Backend Engineer,IT Department
+46,1987.0,5,1993.0,9,Associate Frontend Engineer,IT Department
+46,1994.0,9,1999.0,3,Frontend Engineer,IT Department
+46,1999.0,3,2011.0,10,Frontend Engineer II,IT Department
+47,2010.0,5,2014.0,10,Associate Data Analyst,Analytics Department
+48,2000.0,12,2006.0,4,Associate Backend Engineer,IT Department
+49,2008.0,12,2012.0,4,Associate Backend Engineer,IT Department
+50,2009.0,12,2013.0,10,Associate Data Analyst,Analytics Department
+51,1999.0,12,2005.0,6,Associate Backend Engineer,Analytics Department
+51,2005.0,6,2010.0,11,Backend Engineer,Analytics Department
+51,2010.0,11,2011.0,11,Backend Engineer II,Analytics Department
+52,1997.0,12,2003.0,5,Associate Backend Engineer,Analytics Department
+52,2003.0,5,2008.0,2,Backend Engineer,Analytics Department
+53,1990.0,12,1996.0,2,Associate Manager,Administration Department
+53,1997.0,2,2002.0,10,Assistant Manager,Administration Department
+53,2003.0,10,2015.0,5,Manager,Administration Department
+54,1993.0,5,1999.0,11,Associate Frontend Engineer,IT Department
+54,1999.0,11,2004.0,11,Frontend Engineer,IT Department
+54,2004.0,11,2016.0,9,Backend Engineer II,IT Department
+55,2005.0,4,2011.0,4,Associate Data Analyst,Analytics Department
+57,1996.0,12,2002.0,4,Associate Data Analyst,Analytics Department
+57,2002.0,4,2007.0,10,Data Analyst,Analytics Department
+57,2007.0,10,2011.0,7,Data Analyst II,Analytics Department
+58,2002.0,5,2008.0,3,Associate Manager,Administration Department
+59,2003.0,5,2009.0,4,Associate Backend Engineer,IT Department
+60,1989.0,5,1995.0,8,Associate Manager,Administration Department
+60,1996.0,8,2001.0,11,Assistant Manager,Administration Department
+60,2001.0,11,2013.0,5,Manager,Administration Department
+61,1990.0,12,1996.0,11,Associate Backend Engineer,Analytics Department
+61,1996.0,11,2001.0,12,Backend Engineer,Analytics Department
+61,2001.0,12,2013.0,1,Backend Engineer II,Analytics Department
+63,1994.0,5,2000.0,9,Associate Data Analyst,Analytics Department
+63,2001.0,9,2006.0,11,Data Analyst,Analytics Department
+63,2006.0,11,2010.0,4,Data Analyst II,Analytics Department
+64,2008.0,7,2012.0,1,Associate Backend Engineer,Analytics Department
+65,2011.0,12,2015.0,3,Associate Data Analyst,Analytics Department
+66,1999.0,12,2005.0,10,Associate Data Analyst,Analytics Department
+66,2005.0,10,2010.0,3,Data Analyst,Analytics Department
+66,2011.0,3,2012.0,12,Data Analyst II,Analytics Department
+67,2012.0,12,2016.0,6,Associate Frontend Engineer,IT Department
+68,1999.0,12,2005.0,4,Associate Backend Engineer,IT Department
+68,2005.0,4,2010.0,3,Backend Engineer,IT Department
+68,2010.0,3,2011.0,4,Backend Engineer II,IT Department
+69,2010.0,5,2014.0,3,Associate Backend Engineer,Analytics Department
+70,1994.0,12,2000.0,4,Associate Data Analyst,Analytics Department
+70,2000.0,4,2005.0,4,Data Analyst,Analytics Department
+70,2006.0,4,2010.0,11,Data Analyst II,Analytics Department
+71,2009.0,5,2013.0,3,Associate Backend Engineer,Analytics Department
+72,1993.0,12,1999.0,12,Associate Data Analyst,Analytics Department
+72,1999.0,12,2004.0,2,Data Analyst,Analytics Department
+72,2004.0,2,2016.0,2,Data Analyst II,Analytics Department
+73,1996.0,4,2002.0,1,Associate Backend Engineer,IT Department
+73,2003.0,1,2008.0,11,Backend Engineer,IT Department
+74,2004.0,12,2010.0,4,Associate Data Analyst,Analytics Department
+75,2000.0,12,2006.0,12,Associate Frontend Engineer,IT Department
+76,1995.0,4,2001.0,6,Associate Data Analyst,Analytics Department
+76,2001.0,6,2006.0,7,Data Analyst,Analytics Department
+76,2006.0,7,2010.0,4,Data Analyst II,Analytics Department
+77,2000.0,12,2006.0,10,Associate Data Analyst,Analytics Department
+78,2002.0,5,2008.0,3,Associate Backend Engineer,IT Department
+79,1987.0,7,1993.0,2,Associate Data Analyst,Analytics Department
+79,1994.0,2,1999.0,4,Data Analyst,Analytics Department
+79,1999.0,4,2011.0,2,Data Analyst II,Analytics Department
+80,2001.0,12,2007.0,5,Associate Frontend Engineer,IT Department
+81,2012.0,12,2016.0,9,Associate Backend Engineer,IT Department
+82,2003.0,5,2009.0,5,Associate Backend Engineer,IT Department
+84,1995.0,12,2001.0,6,Associate Backend Engineer,Analytics Department
+84,2001.0,6,2006.0,7,Backend Engineer,Analytics Department
+84,2006.0,7,2010.0,8,Backend Engineer II,Analytics Department
+85,1999.0,12,2005.0,8,Associate Data Analyst,Analytics Department
+86,1998.0,12,2004.0,1,Associate Data Analyst,Analytics Department
+86,2005.0,1,2010.0,11,Data Analyst,Analytics Department
+86,2011.0,11,2012.0,6,Data Analyst II,Analytics Department
+87,2000.0,12,2006.0,5,Associate Backend Engineer,Analytics Department
+88,2004.0,7,2010.0,1,Associate Data Analyst,Analytics Department
+89,2003.0,7,2009.0,3,Associate Backend Engineer,Analytics Department
+90,1997.0,12,2003.0,12,Associate Backend Engineer,Analytics Department
+90,2003.0,12,2008.0,12,Backend Engineer,Analytics Department
+91,2000.0,12,2006.0,4,Associate Manager,Administration Department
+93,1996.0,5,2002.0,10,Associate Backend Engineer,IT Department
+93,2002.0,10,2007.0,9,Backend Engineer,IT Department
+93,2008.0,9,2012.0,5,Backend Engineer II,IT Department
+95,1997.0,12,2003.0,9,Associate Frontend Engineer,IT Department
+95,2004.0,9,2009.0,3,Frontend Engineer,IT Department
+95,2010.0,3,2011.0,6,Frontend Engineer II,IT Department
+96,1995.0,12,2001.0,5,Associate Backend Engineer,Analytics Department
+96,2001.0,5,2006.0,4,Backend Engineer,Analytics Department
+96,2007.0,4,2011.0,7,Backend Engineer II,Analytics Department
+97,1993.0,12,1999.0,5,Associate Backend Engineer,IT Department
+97,2000.0,5,2005.0,1,Backend Engineer,IT Department
+97,2006.0,1,2010.0,8,Backend Engineer II,IT Department
+98,1991.0,7,1997.0,8,Associate Data Analyst,Analytics Department
+98,1997.0,8,2002.0,10,Data Analyst,Analytics Department
+98,2003.0,10,2015.0,12,Data Analyst II,Analytics Department
+99,1996.0,12,2002.0,10,Associate Data Analyst,Analytics Department
+99,2002.0,10,2007.0,6,Data Analyst,Analytics Department
+99,2007.0,6,2011.0,3,Data Analyst II,Analytics Department
+100,2011.0,12,2015.0,7,Associate Backend Engineer,Analytics Department
+101,2008.0,12,2012.0,12,Associate Backend Engineer,IT Department
+102,2010.0,5,2014.0,12,Associate Data Analyst,Analytics Department
+103,2002.0,5,2008.0,3,Associate Backend Engineer,Analytics Department
+105,1995.0,5,2001.0,1,Associate Frontend Engineer,IT Department
+105,2001.0,1,2006.0,3,Frontend Engineer,IT Department
+105,2006.0,3,2010.0,8,Backend Engineer II,IT Department
+106,2012.0,12,2016.0,1,Associate Backend Engineer,Analytics Department
+107,1996.0,5,2002.0,4,Associate Frontend Engineer,IT Department
+107,2003.0,4,2008.0,12,Frontend Engineer,IT Department
+107,2008.0,12,2012.0,9,Frontend Engineer II,IT Department
+108,1995.0,7,2001.0,11,Associate Data Analyst,Analytics Department
+108,2001.0,11,2006.0,11,Data Analyst,Analytics Department
+108,2007.0,11,2011.0,10,Data Analyst II,Analytics Department
+109,2011.0,12,2015.0,7,Associate Frontend Engineer,IT Department
+110,1999.0,7,2005.0,2,Associate Backend Engineer,Analytics Department
+111,1991.0,7,1997.0,1,Associate Backend Engineer,Analytics Department
+111,1997.0,1,2002.0,7,Backend Engineer,Analytics Department
+111,2003.0,7,2015.0,8,Backend Engineer II,Analytics Department
+112,2003.0,12,2009.0,12,Associate Backend Engineer,Analytics Department
+113,1998.0,12,2004.0,12,Associate Data Analyst,Analytics Department
+113,2004.0,12,2009.0,2,Data Analyst,Analytics Department
+113,2010.0,2,2011.0,10,Data Analyst II,Analytics Department
+114,2006.0,5,2010.0,1,Associate Backend Engineer,Analytics Department
+115,2005.0,5,2011.0,9,Associate Backend Engineer,IT Department
+117,1988.0,5,1994.0,10,Associate Backend Engineer,Analytics Department
+117,1994.0,10,1999.0,8,Backend Engineer,Analytics Department
+117,2000.0,8,2012.0,10,Backend Engineer II,Analytics Department
+118,2008.0,12,2012.0,5,Associate Backend Engineer,IT Department
+119,2012.0,12,2016.0,11,Associate Frontend Engineer,IT Department
+120,1992.0,7,1998.0,8,Associate Data Analyst,Analytics Department
+120,1998.0,8,2003.0,9,Data Analyst,Analytics Department
+120,2004.0,9,2016.0,9,Data Analyst II,Analytics Department
+121,2011.0,12,2015.0,10,Associate Backend Engineer,Analytics Department
+122,2002.0,12,2008.0,1,Associate Frontend Engineer,IT Department
+123,1993.0,5,1999.0,11,Associate Frontend Engineer,IT Department
+123,2000.0,11,2005.0,10,Frontend Engineer,IT Department
+123,2005.0,10,2017.0,1,Frontend Engineer II,IT Department
+124,2010.0,5,2014.0,8,Associate Backend Engineer,IT Department
+125,1994.0,12,2000.0,5,Associate Backend Engineer,Analytics Department
+125,2001.0,5,2006.0,12,Backend Engineer,Analytics Department
+125,2007.0,12,2011.0,1,Backend Engineer II,Analytics Department
+126,2004.0,7,2010.0,2,Associate Manager,Administration Department
+127,1997.0,12,2003.0,8,Associate Frontend Engineer,IT Department
+127,2004.0,8,2009.0,8,Frontend Engineer,IT Department
+128,2008.0,5,2012.0,12,Associate Frontend Engineer,IT Department
+129,1996.0,12,2002.0,9,Associate Frontend Engineer,IT Department
+129,2003.0,9,2008.0,7,Frontend Engineer,IT Department
+129,2008.0,7,2012.0,9,Frontend Engineer II,IT Department
+130,2007.0,7,2011.0,4,Associate Data Analyst,Analytics Department
+131,2003.0,12,2009.0,10,Associate Data Analyst,Analytics Department
+132,2011.0,12,2015.0,12,Associate Data Analyst,Analytics Department
+133,1995.0,12,2001.0,10,Associate Backend Engineer,Analytics Department
+133,2001.0,10,2006.0,1,Backend Engineer,Analytics Department
+133,2007.0,1,2011.0,11,Backend Engineer II,Analytics Department
+134,1999.0,5,2005.0,7,Associate Data Analyst,Analytics Department
+135,1998.0,7,2004.0,6,Associate Frontend Engineer,IT Department
+135,2005.0,6,2010.0,11,Frontend Engineer,IT Department
+135,2010.0,11,2011.0,4,Backend Engineer II,IT Department
+136,1997.0,12,2003.0,10,Associate Backend Engineer,Analytics Department
+136,2004.0,10,2009.0,2,Backend Engineer,Analytics Department
+137,1996.0,4,2002.0,7,Associate Data Analyst,Analytics Department
+137,2002.0,7,2007.0,7,Data Analyst,Analytics Department
+137,2007.0,7,2011.0,9,Data Analyst II,Analytics Department
+138,2005.0,12,2011.0,7,Associate Data Analyst,Analytics Department
+139,2011.0,12,2015.0,8,Associate Frontend Engineer,IT Department
+140,1991.0,4,1997.0,11,Associate Data Analyst,Analytics Department
+140,1997.0,11,2002.0,5,Data Analyst,Analytics Department
+140,2002.0,5,2014.0,11,Data Analyst II,Analytics Department
+141,2010.0,12,2014.0,3,Associate Manager,Administration Department
+142,2008.0,12,2012.0,6,Associate Manager,Administration Department
+143,1995.0,4,2001.0,5,Associate Frontend Engineer,IT Department
+143,2001.0,5,2006.0,7,Frontend Engineer,IT Department
+143,2006.0,7,2010.0,1,Frontend Engineer II,IT Department
+144,1993.0,4,1999.0,10,Associate Backend Engineer,Analytics Department
+144,2000.0,10,2005.0,2,Backend Engineer,Analytics Department
+144,2006.0,2,2010.0,4,Backend Engineer II,Analytics Department
+145,1991.0,4,1997.0,2,Associate Backend Engineer,Analytics Department
+145,1998.0,2,2003.0,1,Backend Engineer,Analytics Department
+145,2003.0,1,2015.0,2,Backend Engineer II,Analytics Department
+146,2007.0,5,2011.0,8,Associate Data Analyst,Analytics Department
+147,1994.0,12,2000.0,12,Associate Backend Engineer,IT Department
+147,2000.0,12,2005.0,3,Backend Engineer,IT Department
+147,2005.0,3,2017.0,3,Backend Engineer II,IT Department
+148,2006.0,5,2010.0,6,Associate Data Analyst,Analytics Department
+149,2008.0,5,2012.0,2,Associate Data Analyst,Analytics Department
+150,2000.0,5,2006.0,8,Associate Data Analyst,Analytics Department
+151,1989.0,5,1995.0,7,Associate Backend Engineer,Analytics Department
+151,1996.0,7,2001.0,6,Backend Engineer,Analytics Department
+151,2002.0,6,2014.0,4,Backend Engineer II,Analytics Department
+152,2000.0,12,2006.0,4,Associate Data Analyst,Analytics Department
+153,2007.0,12,2011.0,11,Associate Data Analyst,Analytics Department
+154,2004.0,5,2010.0,7,Associate Frontend Engineer,IT Department
+155,1994.0,5,2000.0,12,Associate Manager,Administration Department
+155,2000.0,12,2005.0,10,Assistant Manager,Administration Department
+155,2006.0,10,2010.0,2,Manager,Administration Department
+156,2005.0,5,2011.0,1,Associate Manager,Administration Department
+157,1990.0,12,1996.0,9,Associate Data Analyst,Analytics Department
+157,1997.0,9,2002.0,4,Data Analyst,Analytics Department
+157,2002.0,4,2014.0,12,Data Analyst II,Analytics Department
+159,2002.0,7,2008.0,9,Associate Backend Engineer,IT Department
+160,2004.0,5,2010.0,12,Associate Frontend Engineer,IT Department
+162,2004.0,12,2010.0,2,Associate Manager,Administration Department
+163,2011.0,12,2015.0,2,Associate Backend Engineer,Analytics Department
+164,2004.0,5,2010.0,8,Associate Data Analyst,Analytics Department
+165,1996.0,5,2002.0,6,Associate Backend Engineer,IT Department
+165,2003.0,6,2008.0,9,Backend Engineer,IT Department
+166,1996.0,12,2002.0,2,Associate Frontend Engineer,IT Department
+166,2003.0,2,2008.0,12,Frontend Engineer,IT Department
+166,2008.0,12,2012.0,4,Frontend Engineer II,IT Department
+167,1994.0,5,2000.0,8,Associate Frontend Engineer,IT Department
+167,2001.0,8,2006.0,3,Frontend Engineer,IT Department
+167,2007.0,3,2011.0,3,Frontend Engineer II,IT Department
+168,2007.0,12,2011.0,4,Associate Backend Engineer,IT Department
+169,1996.0,5,2002.0,1,Associate Data Analyst,Analytics Department
+169,2003.0,1,2008.0,4,Data Analyst,Analytics Department
+170,2002.0,7,2008.0,2,Associate Data Analyst,Analytics Department
+171,1995.0,12,2001.0,1,Associate Backend Engineer,Analytics Department
+171,2002.0,1,2007.0,4,Backend Engineer,Analytics Department
+171,2008.0,4,2012.0,12,Backend Engineer II,Analytics Department
+172,1987.0,5,1993.0,7,Associate Backend Engineer,Analytics Department
+172,1993.0,7,1998.0,5,Backend Engineer,Analytics Department
+172,1998.0,5,2010.0,8,Backend Engineer II,Analytics Department
+173,2007.0,4,2011.0,7,Associate Backend Engineer,IT Department
+174,1994.0,12,2000.0,3,Associate Backend Engineer,Analytics Department
+174,2001.0,3,2006.0,5,Backend Engineer,Analytics Department
+174,2007.0,5,2011.0,12,Backend Engineer II,Analytics Department
+175,2010.0,5,2014.0,9,Associate Frontend Engineer,IT Department
+176,2005.0,5,2011.0,11,Associate Backend Engineer,IT Department
+177,1998.0,12,2004.0,12,Associate Data Analyst,Analytics Department
+177,2005.0,12,2010.0,3,Data Analyst,Analytics Department
+177,2010.0,3,2011.0,11,Data Analyst II,Analytics Department
+178,2005.0,5,2011.0,8,Associate Backend Engineer,IT Department
+179,2010.0,4,2014.0,9,Associate Data Analyst,Analytics Department
+181,2002.0,12,2008.0,7,Associate Backend Engineer,Analytics Department
+182,2002.0,12,2008.0,12,Associate Data Analyst,Analytics Department
+183,1991.0,5,1997.0,9,Associate Data Analyst,Analytics Department
+183,1998.0,9,2003.0,8,Data Analyst,Analytics Department
+183,2004.0,8,2016.0,7,Data Analyst II,Analytics Department
+184,2010.0,4,2014.0,4,Associate Frontend Engineer,IT Department
+185,1999.0,4,2005.0,1,Associate Manager,Administration Department
+185,2005.0,1,2010.0,4,Assistant Manager,Administration Department
+185,2011.0,4,2012.0,12,Manager,Administration Department
+186,2012.0,5,2016.0,4,Associate Backend Engineer,IT Department
+188,2003.0,5,2009.0,11,Associate Backend Engineer,IT Department
+189,2003.0,12,2009.0,5,Associate Frontend Engineer,IT Department
+190,2001.0,12,2007.0,1,Associate Data Analyst,Analytics Department
+191,1992.0,12,1998.0,8,Associate Backend Engineer,Analytics Department
+191,1998.0,8,2003.0,10,Backend Engineer,Analytics Department
+191,2004.0,10,2016.0,10,Backend Engineer II,Analytics Department
+192,2000.0,12,2006.0,3,Associate Frontend Engineer,IT Department
+193,2004.0,7,2010.0,2,Associate Backend Engineer,IT Department
+194,2010.0,5,2014.0,7,Associate Data Analyst,Analytics Department
+195,1998.0,5,2004.0,12,Associate Data Analyst,Analytics Department
+195,2005.0,12,2010.0,4,Data Analyst,Analytics Department
+195,2010.0,4,2011.0,9,Data Analyst II,Analytics Department
+196,2012.0,12,2016.0,7,Associate Data Analyst,Analytics Department
+197,1991.0,5,1997.0,6,Associate Data Analyst,Analytics Department
+197,1997.0,6,2002.0,9,Data Analyst,Analytics Department
+197,2003.0,9,2015.0,6,Data Analyst II,Analytics Department
+198,1995.0,12,2001.0,7,Associate Data Analyst,Administration Department
+198,2002.0,7,2007.0,2,Assistant Manager,Administration Department
+198,2008.0,2,2012.0,2,Manager,Administration Department
+199,1994.0,12,2000.0,10,Associate Backend Engineer,IT Department
+199,2001.0,10,2006.0,10,Backend Engineer,IT Department
+199,2007.0,10,2011.0,6,Backend Engineer II,IT Department
+200,1992.0,12,1998.0,9,Associate Backend Engineer,Analytics Department
+200,1999.0,9,2004.0,6,Backend Engineer,Analytics Department
+200,2004.0,6,2016.0,7,Backend Engineer II,Analytics Department
+201,2010.0,4,2014.0,9,Associate Backend Engineer,IT Department
+202,2001.0,5,2007.0,4,Associate Frontend Engineer,IT Department
+203,1999.0,7,2005.0,8,Associate Backend Engineer,Analytics Department
+203,2005.0,8,2010.0,8,Backend Engineer,Analytics Department
+203,2010.0,8,2011.0,1,Backend Engineer II,Analytics Department
+204,1986.0,12,1992.0,10,Associate Backend Engineer,IT Department
+204,1993.0,10,1998.0,5,Backend Engineer,IT Department
+204,1998.0,5,2010.0,6,Backend Engineer II,IT Department
+205,1998.0,12,2004.0,11,Associate Manager,Administration Department
+205,2005.0,11,2010.0,6,Assistant Manager,Administration Department
+205,2010.0,6,2011.0,5,Manager,Administration Department
+206,1992.0,12,1998.0,3,Associate Data Analyst,Administration Department
+206,1999.0,3,2004.0,8,Assistant Manager,Administration Department
+206,2004.0,8,2016.0,10,Manager,Administration Department
+207,1995.0,12,2001.0,4,Associate Data Analyst,Analytics Department
+207,2002.0,4,2007.0,2,Data Analyst,Analytics Department
+207,2008.0,2,2012.0,4,Data Analyst II,Analytics Department
+208,1986.0,12,1992.0,1,Associate Backend Engineer,IT Department
+208,1992.0,1,1997.0,10,Backend Engineer,IT Department
+208,1998.0,10,2010.0,2,Backend Engineer II,IT Department
+209,2008.0,5,2012.0,10,Associate Data Analyst,Analytics Department
+210,1995.0,5,2001.0,12,Associate Backend Engineer,Analytics Department
+210,2001.0,12,2006.0,8,Backend Engineer,Analytics Department
+210,2006.0,8,2010.0,7,Backend Engineer II,Analytics Department
+211,2002.0,12,2008.0,8,Associate Data Analyst,Analytics Department
+212,1996.0,12,2002.0,10,Associate Frontend Engineer,IT Department
+212,2002.0,10,2007.0,3,Frontend Engineer,IT Department
+212,2008.0,3,2012.0,12,Backend Engineer II,IT Department
+213,1992.0,4,1998.0,8,Associate Frontend Engineer,IT Department
+213,1998.0,8,2003.0,5,Frontend Engineer,IT Department
+213,2003.0,5,2015.0,8,Frontend Engineer II,IT Department
+214,2001.0,12,2007.0,8,Associate Backend Engineer,IT Department
+215,2004.0,12,2010.0,8,Associate Frontend Engineer,IT Department
+216,2009.0,12,2013.0,7,Associate Backend Engineer,IT Department
+217,1992.0,7,1998.0,7,Associate Backend Engineer,Analytics Department
+217,1999.0,7,2004.0,11,Backend Engineer,Analytics Department
+217,2004.0,11,2016.0,7,Backend Engineer II,Analytics Department
+220,2004.0,12,2010.0,5,Associate Frontend Engineer,IT Department
+221,2012.0,7,2016.0,6,Associate Backend Engineer,IT Department
+222,2004.0,12,2010.0,8,Associate Data Analyst,Analytics Department
+223,1998.0,12,2004.0,9,Associate Backend Engineer,IT Department
+223,2004.0,9,2009.0,10,Backend Engineer,IT Department
+223,2010.0,10,2011.0,1,Backend Engineer II,IT Department
+224,1999.0,12,2005.0,1,Associate Backend Engineer,Analytics Department
+224,2005.0,1,2010.0,11,Backend Engineer,Analytics Department
+224,2010.0,11,2011.0,7,Backend Engineer II,Analytics Department
+225,2010.0,5,2014.0,8,Associate Backend Engineer,IT Department
+226,2003.0,5,2009.0,11,Associate Backend Engineer,Analytics Department
+227,2010.0,12,2014.0,9,Associate Backend Engineer,IT Department
+228,1990.0,5,1996.0,6,Associate Frontend Engineer,IT Department
+228,1996.0,6,2001.0,1,Frontend Engineer,IT Department
+228,2001.0,1,2013.0,3,Frontend Engineer II,IT Department
+229,2001.0,12,2007.0,4,Associate Data Analyst,Administration Department
+230,1990.0,5,1996.0,7,Associate Frontend Engineer,IT Department
+230,1996.0,7,2001.0,11,Frontend Engineer,IT Department
+230,2001.0,11,2013.0,11,Backend Engineer II,IT Department
+231,2001.0,5,2007.0,10,Associate Data Analyst,Analytics Department
+232,2008.0,5,2012.0,3,Associate Backend Engineer,IT Department
+233,2003.0,12,2009.0,3,Associate Data Analyst,Analytics Department
+234,1992.0,5,1998.0,3,Associate Frontend Engineer,IT Department
+234,1999.0,3,2004.0,4,Frontend Engineer,IT Department
+234,2005.0,4,2017.0,7,Frontend Engineer II,IT Department
+235,1991.0,12,1997.0,8,Associate Backend Engineer,IT Department
+235,1998.0,8,2003.0,10,Backend Engineer,IT Department
+235,2004.0,10,2016.0,10,Backend Engineer II,IT Department
+236,2001.0,12,2007.0,6,Associate Backend Engineer,Analytics Department
+237,1987.0,12,1993.0,10,Associate Backend Engineer,Analytics Department
+237,1994.0,10,1999.0,7,Backend Engineer,Analytics Department
+237,1999.0,7,2011.0,5,Backend Engineer II,Analytics Department
+238,1994.0,12,2000.0,3,Associate Data Analyst,Analytics Department
+238,2001.0,3,2006.0,1,Data Analyst,Analytics Department
+238,2007.0,1,2011.0,11,Data Analyst II,Analytics Department
+239,1992.0,5,1998.0,1,Associate Frontend Engineer,IT Department
+239,1998.0,1,2003.0,10,Frontend Engineer,IT Department
+239,2003.0,10,2015.0,1,Frontend Engineer II,IT Department
+240,2011.0,7,2015.0,3,Associate Data Analyst,Analytics Department
+241,1989.0,5,1995.0,11,Associate Data Analyst,Analytics Department
+241,1995.0,11,2000.0,6,Data Analyst,Analytics Department
+241,2001.0,6,2013.0,4,Data Analyst II,Analytics Department
+242,1990.0,12,1996.0,7,Associate Backend Engineer,IT Department
+242,1996.0,7,2001.0,2,Backend Engineer,IT Department
+242,2002.0,2,2014.0,1,Backend Engineer II,IT Department
+243,2003.0,12,2009.0,6,Associate Manager,Administration Department
+244,1992.0,12,1998.0,11,Associate Data Analyst,Analytics Department
+244,1998.0,11,2003.0,6,Data Analyst,Analytics Department
+244,2003.0,6,2015.0,11,Data Analyst II,Analytics Department
+245,1995.0,12,2001.0,10,Associate Data Analyst,Analytics Department
+245,2002.0,10,2007.0,9,Data Analyst,Analytics Department
+245,2007.0,9,2011.0,3,Data Analyst II,Analytics Department
+246,1998.0,5,2004.0,1,Associate Data Analyst,Analytics Department
+246,2004.0,1,2009.0,9,Data Analyst,Analytics Department
+246,2010.0,9,2011.0,7,Data Analyst II,Analytics Department
+247,1991.0,5,1997.0,6,Associate Data Analyst,Administration Department
+247,1998.0,6,2003.0,9,Assistant Manager,Administration Department
+247,2004.0,9,2016.0,8,Manager,Administration Department
+248,1997.0,12,2003.0,4,Associate Data Analyst,Analytics Department
+248,2003.0,4,2008.0,3,Data Analyst,Analytics Department
+248,2008.0,3,2012.0,3,Data Analyst II,Analytics Department
+249,1996.0,7,2002.0,3,Associate Data Analyst,Analytics Department
+249,2002.0,3,2007.0,4,Data Analyst,Analytics Department
+249,2008.0,4,2012.0,6,Data Analyst II,Analytics Department
+250,1993.0,12,1999.0,7,Associate Backend Engineer,Analytics Department
+250,1999.0,7,2004.0,9,Backend Engineer,Analytics Department
+250,2005.0,9,2017.0,9,Backend Engineer II,Analytics Department
+251,1996.0,4,2002.0,2,Associate Data Analyst,Analytics Department
+251,2003.0,2,2008.0,2,Data Analyst,Analytics Department
+251,2008.0,2,2012.0,9,Data Analyst II,Analytics Department
+252,2002.0,7,2008.0,10,Associate Frontend Engineer,IT Department
+253,1996.0,5,2002.0,2,Associate Manager,Administration Department
+253,2002.0,2,2007.0,4,Assistant Manager,Administration Department
+253,2007.0,4,2011.0,12,Manager,Administration Department
+254,2008.0,5,2012.0,8,Associate Frontend Engineer,IT Department
+255,2008.0,5,2012.0,9,Associate Frontend Engineer,IT Department
+257,1992.0,4,1998.0,8,Associate Frontend Engineer,IT Department
+257,1998.0,8,2003.0,7,Frontend Engineer,IT Department
+257,2004.0,7,2016.0,7,Frontend Engineer II,IT Department
+258,1998.0,5,2004.0,8,Associate Data Analyst,Analytics Department
+258,2004.0,8,2009.0,3,Data Analyst,Analytics Department
+260,2004.0,4,2010.0,4,Associate Backend Engineer,Analytics Department
+261,1999.0,12,2005.0,5,Associate Backend Engineer,Analytics Department
+261,2005.0,5,2010.0,3,Backend Engineer,Analytics Department
+261,2010.0,3,2011.0,8,Backend Engineer II,Analytics Department
+262,1995.0,5,2001.0,6,Associate Backend Engineer,Analytics Department
+262,2002.0,6,2007.0,5,Backend Engineer,Analytics Department
+262,2008.0,5,2012.0,1,Backend Engineer II,Analytics Department
+263,1996.0,12,2002.0,5,Associate Data Analyst,Analytics Department
+263,2002.0,5,2007.0,9,Data Analyst,Analytics Department
+263,2008.0,9,2012.0,9,Data Analyst II,Analytics Department
+264,1996.0,5,2002.0,5,Associate Data Analyst,Analytics Department
+264,2002.0,5,2007.0,2,Data Analyst,Analytics Department
+264,2008.0,2,2012.0,6,Data Analyst II,Analytics Department
+265,2010.0,5,2014.0,12,Associate Frontend Engineer,IT Department
+267,2008.0,4,2012.0,2,Associate Backend Engineer,IT Department
+268,2005.0,12,2011.0,6,Associate Data Analyst,Analytics Department
+269,1988.0,12,1994.0,3,Associate Frontend Engineer,IT Department
+269,1995.0,3,2000.0,5,Frontend Engineer,IT Department
+269,2000.0,5,2012.0,10,Frontend Engineer II,IT Department
+270,2010.0,5,2014.0,7,Associate Data Analyst,Analytics Department
+271,1990.0,5,1996.0,9,Associate Backend Engineer,Analytics Department
+271,1997.0,9,2002.0,10,Backend Engineer,Analytics Department
+271,2002.0,10,2014.0,7,Backend Engineer II,Analytics Department
+272,1996.0,5,2002.0,4,Associate Data Analyst,Analytics Department
+272,2002.0,4,2007.0,2,Data Analyst,Analytics Department
+272,2007.0,2,2011.0,5,Data Analyst II,Analytics Department
+274,2005.0,12,2011.0,12,Associate Data Analyst,Analytics Department
+275,2004.0,12,2010.0,9,Associate Manager,Administration Department
+276,1993.0,12,1999.0,9,Associate Backend Engineer,IT Department
+276,1999.0,9,2004.0,7,Backend Engineer,IT Department
+276,2004.0,7,2016.0,8,Backend Engineer II,IT Department
+277,2003.0,12,2009.0,7,Associate Data Analyst,Analytics Department
+278,1996.0,12,2002.0,9,Associate Data Analyst,Analytics Department
+278,2003.0,9,2008.0,8,Data Analyst,Analytics Department
+278,2008.0,8,2012.0,7,Data Analyst II,Analytics Department
+279,2005.0,12,2011.0,11,Associate Backend Engineer,IT Department
+280,2011.0,5,2015.0,4,Associate Frontend Engineer,IT Department
+281,2000.0,12,2006.0,8,Associate Backend Engineer,IT Department
+282,2001.0,5,2007.0,12,Associate Frontend Engineer,IT Department
+283,2004.0,5,2010.0,4,Associate Frontend Engineer,IT Department
+284,1991.0,12,1997.0,8,Associate Backend Engineer,Analytics Department
+284,1998.0,8,2003.0,2,Backend Engineer,Analytics Department
+284,2004.0,2,2016.0,6,Backend Engineer II,Analytics Department
+285,2012.0,7,2016.0,1,Associate Backend Engineer,Analytics Department
+286,1993.0,12,1999.0,1,Associate Data Analyst,Analytics Department
+286,1999.0,1,2004.0,8,Data Analyst,Analytics Department
+286,2004.0,8,2016.0,5,Data Analyst II,Analytics Department
+287,2002.0,5,2008.0,9,Associate Frontend Engineer,IT Department
+288,2009.0,7,2013.0,8,Associate Backend Engineer,Analytics Department
+289,2011.0,12,2015.0,6,Associate Data Analyst,Analytics Department
+290,2009.0,12,2013.0,5,Associate Frontend Engineer,IT Department
+291,2002.0,12,2008.0,5,Associate Manager,Administration Department
+292,1995.0,5,2001.0,11,Associate Backend Engineer,IT Department
+292,2001.0,11,2006.0,9,Backend Engineer,IT Department
+292,2007.0,9,2011.0,11,Backend Engineer II,IT Department
+293,2008.0,7,2012.0,8,Associate Backend Engineer,Analytics Department
+294,1998.0,7,2004.0,11,Associate Data Analyst,Analytics Department
+294,2004.0,11,2009.0,12,Data Analyst,Analytics Department
+295,1997.0,12,2003.0,2,Associate Backend Engineer,IT Department
+295,2003.0,2,2008.0,10,Backend Engineer,IT Department
+295,2008.0,10,2012.0,4,Backend Engineer II,IT Department
+297,1992.0,4,1998.0,6,Associate Frontend Engineer,IT Department
+297,1998.0,6,2003.0,7,Frontend Engineer,IT Department
+297,2003.0,7,2015.0,2,Frontend Engineer II,IT Department
+298,2006.0,5,2010.0,7,Associate Data Analyst,Analytics Department
+299,2011.0,5,2015.0,12,Associate Data Analyst,Analytics Department
+300,1988.0,12,1994.0,2,Associate Data Analyst,Analytics Department
+300,1995.0,2,2000.0,11,Data Analyst,Analytics Department
+300,2000.0,11,2012.0,4,Data Analyst II,Analytics Department
+301,2004.0,12,2010.0,12,Associate Data Analyst,Analytics Department
+302,2012.0,12,2016.0,3,Associate Backend Engineer,IT Department
+303,1986.0,12,1992.0,2,Associate Manager,Administration Department
+303,1992.0,2,1997.0,10,Assistant Manager,Administration Department
+303,1997.0,10,2009.0,12,Manager,Administration Department
+304,2003.0,12,2009.0,11,Associate Data Analyst,Analytics Department
+305,1998.0,12,2004.0,11,Associate Data Analyst,Analytics Department
+305,2004.0,11,2009.0,12,Data Analyst,Analytics Department
+306,1991.0,12,1997.0,3,Associate Frontend Engineer,IT Department
+306,1997.0,3,2002.0,8,Frontend Engineer,IT Department
+306,2003.0,8,2015.0,9,Frontend Engineer II,IT Department
+307,2006.0,5,2010.0,4,Associate Data Analyst,Analytics Department
+308,1988.0,5,1994.0,2,Associate Frontend Engineer,IT Department
+308,1995.0,2,2000.0,4,Frontend Engineer,IT Department
+308,2000.0,4,2012.0,1,Frontend Engineer II,IT Department
+309,1989.0,12,1995.0,1,Associate Backend Engineer,IT Department
+309,1996.0,1,2001.0,8,Backend Engineer,IT Department
+309,2001.0,8,2013.0,12,Backend Engineer II,IT Department
+310,2006.0,7,2010.0,12,Associate Backend Engineer,IT Department
+311,2011.0,5,2015.0,11,Associate Manager,Administration Department
+312,2003.0,12,2009.0,6,Associate Data Analyst,Analytics Department
+313,1998.0,4,2004.0,9,Associate Data Analyst,Analytics Department
+313,2004.0,9,2009.0,9,Data Analyst,Analytics Department
+314,1998.0,12,2004.0,9,Associate Data Analyst,Analytics Department
+314,2005.0,9,2010.0,6,Data Analyst,Analytics Department
+314,2010.0,6,2011.0,6,Data Analyst II,Analytics Department
+315,2004.0,5,2010.0,7,Associate Frontend Engineer,IT Department
+316,1999.0,7,2005.0,1,Associate Backend Engineer,Analytics Department
+316,2005.0,1,2010.0,4,Backend Engineer,Analytics Department
+316,2010.0,4,2011.0,7,Backend Engineer II,Analytics Department
+317,2004.0,12,2010.0,6,Associate Data Analyst,Analytics Department
+318,1994.0,7,2000.0,7,Associate Data Analyst,Analytics Department
+318,2001.0,7,2006.0,8,Data Analyst,Analytics Department
+318,2006.0,8,2010.0,5,Data Analyst II,Analytics Department
+319,1990.0,12,1996.0,11,Associate Backend Engineer,Analytics Department
+319,1997.0,11,2002.0,8,Backend Engineer,Analytics Department
+319,2002.0,8,2014.0,3,Backend Engineer II,Analytics Department
+320,2003.0,12,2009.0,1,Associate Backend Engineer,IT Department
+321,1987.0,12,1993.0,1,Associate Data Analyst,Analytics Department
+321,1993.0,1,1998.0,1,Data Analyst,Analytics Department
+321,1999.0,1,2011.0,8,Data Analyst II,Analytics Department
+322,1996.0,7,2002.0,12,Associate Backend Engineer,Analytics Department
+322,2002.0,12,2007.0,1,Backend Engineer,Analytics Department
+322,2007.0,1,2011.0,8,Backend Engineer II,Analytics Department
+323,2009.0,5,2013.0,5,Associate Backend Engineer,IT Department
+324,2012.0,7,2016.0,8,Associate Backend Engineer,IT Department
+325,2003.0,5,2009.0,5,Associate Data Analyst,Analytics Department
+326,1994.0,12,2000.0,12,Associate Backend Engineer,Analytics Department
+326,2001.0,12,2006.0,5,Backend Engineer,Analytics Department
+326,2006.0,5,2010.0,2,Backend Engineer II,Analytics Department
+327,1999.0,12,2005.0,9,Associate Data Analyst,Analytics Department
+328,1989.0,5,1995.0,9,Associate Backend Engineer,IT Department
+328,1995.0,9,2000.0,3,Backend Engineer,IT Department
+328,2001.0,3,2013.0,8,Backend Engineer II,IT Department
+329,2003.0,12,2009.0,11,Associate Data Analyst,Analytics Department
+331,2001.0,7,2007.0,9,Associate Data Analyst,Analytics Department
+333,1994.0,4,2000.0,1,Associate Frontend Engineer,IT Department
+333,2000.0,1,2005.0,1,Frontend Engineer,IT Department
+333,2005.0,1,2017.0,9,Frontend Engineer II,IT Department
+334,1991.0,5,1997.0,11,Associate Data Analyst,Analytics Department
+334,1998.0,11,2003.0,11,Data Analyst,Analytics Department
+334,2003.0,11,2015.0,9,Data Analyst II,Analytics Department
+335,1999.0,12,2005.0,2,Associate Backend Engineer,IT Department
+335,2005.0,2,2010.0,10,Backend Engineer,IT Department
+335,2010.0,10,2011.0,5,Backend Engineer II,IT Department
+336,2009.0,12,2013.0,5,Associate Frontend Engineer,IT Department
+337,1997.0,7,2003.0,9,Associate Data Analyst,Analytics Department
+337,2003.0,9,2008.0,2,Data Analyst,Analytics Department
+337,2008.0,2,2012.0,5,Data Analyst II,Analytics Department
+339,2000.0,5,2006.0,2,Associate Backend Engineer,IT Department
+340,1998.0,12,2004.0,8,Associate Frontend Engineer,IT Department
+340,2004.0,8,2009.0,4,Frontend Engineer,IT Department
+341,1995.0,12,2001.0,7,Associate Manager,Administration Department
+341,2002.0,7,2007.0,12,Assistant Manager,Administration Department
+341,2008.0,12,2012.0,10,Manager,Administration Department
+342,1991.0,12,1997.0,1,Associate Backend Engineer,Analytics Department
+342,1997.0,1,2002.0,12,Backend Engineer,Analytics Department
+342,2002.0,12,2014.0,6,Backend Engineer II,Analytics Department
+343,2009.0,12,2013.0,2,Associate Frontend Engineer,IT Department
+344,1999.0,12,2005.0,5,Associate Frontend Engineer,IT Department
+344,2005.0,5,2010.0,9,Frontend Engineer,IT Department
+344,2010.0,9,2011.0,12,Frontend Engineer II,IT Department
+345,1988.0,4,1994.0,1,Associate Backend Engineer,IT Department
+345,1994.0,1,1999.0,5,Backend Engineer,IT Department
+345,2000.0,5,2012.0,4,Backend Engineer II,IT Department
+346,2004.0,12,2010.0,9,Associate Backend Engineer,Analytics Department
+347,2003.0,7,2009.0,11,Associate Data Analyst,Analytics Department
+348,1986.0,12,1992.0,2,Associate Data Analyst,Analytics Department
+348,1993.0,2,1998.0,7,Data Analyst,Analytics Department
+348,1998.0,7,2010.0,7,Data Analyst II,Analytics Department
+349,1988.0,4,1994.0,7,Associate Data Analyst,Analytics Department
+349,1994.0,7,1999.0,8,Data Analyst,Analytics Department
+349,2000.0,8,2012.0,2,Data Analyst II,Analytics Department
+350,2003.0,12,2009.0,2,Associate Backend Engineer,IT Department
+351,2002.0,12,2008.0,1,Associate Backend Engineer,IT Department
+352,1992.0,12,1998.0,10,Associate Backend Engineer,Analytics Department
+352,1999.0,10,2004.0,2,Backend Engineer,Analytics Department
+352,2004.0,2,2016.0,4,Backend Engineer II,Analytics Department
+353,1990.0,12,1996.0,4,Associate Backend Engineer,Analytics Department
+353,1997.0,4,2002.0,4,Backend Engineer,Analytics Department
+353,2002.0,4,2014.0,10,Backend Engineer II,Analytics Department
+355,1990.0,5,1996.0,7,Associate Data Analyst,Analytics Department
+355,1996.0,7,2001.0,10,Data Analyst,Analytics Department
+355,2001.0,10,2013.0,3,Data Analyst II,Analytics Department
+356,1994.0,12,2000.0,4,Associate Data Analyst,Analytics Department
+356,2000.0,4,2005.0,6,Data Analyst,Analytics Department
+356,2005.0,6,2017.0,4,Data Analyst II,Analytics Department
+357,1998.0,7,2004.0,12,Associate Backend Engineer,IT Department
+357,2004.0,12,2009.0,7,Backend Engineer,IT Department
+358,2000.0,12,2006.0,5,Associate Data Analyst,Analytics Department
+359,2001.0,5,2007.0,1,Associate Backend Engineer,Analytics Department
+360,1997.0,5,2003.0,12,Associate Backend Engineer,Analytics Department
+360,2003.0,12,2008.0,4,Backend Engineer,Analytics Department
+361,1992.0,12,1998.0,6,Associate Frontend Engineer,IT Department
+361,1998.0,6,2003.0,4,Frontend Engineer,IT Department
+361,2003.0,4,2015.0,12,Frontend Engineer II,IT Department
+362,2009.0,12,2013.0,11,Associate Data Analyst,Analytics Department
+363,2000.0,4,2006.0,9,Associate Data Analyst,Analytics Department
+364,2010.0,12,2014.0,9,Associate Backend Engineer,IT Department
+365,1992.0,12,1998.0,5,Associate Frontend Engineer,IT Department
+365,1999.0,5,2004.0,9,Frontend Engineer,IT Department
+365,2004.0,9,2016.0,11,Backend Engineer II,IT Department
+366,1988.0,12,1994.0,12,Associate Data Analyst,Analytics Department
+366,1995.0,12,2000.0,4,Data Analyst,Analytics Department
+366,2000.0,4,2012.0,8,Data Analyst II,Analytics Department
+368,1992.0,12,1998.0,8,Associate Frontend Engineer,IT Department
+368,1998.0,8,2003.0,9,Frontend Engineer,IT Department
+368,2004.0,9,2016.0,8,Backend Engineer II,IT Department
+369,1993.0,12,1999.0,6,Associate Backend Engineer,IT Department
+369,1999.0,6,2004.0,12,Backend Engineer,IT Department
+369,2005.0,12,2017.0,12,Backend Engineer II,IT Department
+370,2003.0,4,2009.0,9,Associate Data Analyst,Analytics Department
+371,2011.0,12,2015.0,3,Associate Data Analyst,Analytics Department
+372,1991.0,12,1997.0,6,Associate Backend Engineer,IT Department
+372,1998.0,6,2003.0,6,Backend Engineer,IT Department
+372,2003.0,6,2015.0,7,Backend Engineer II,IT Department
+373,1993.0,12,1999.0,2,Associate Frontend Engineer,IT Department
+373,1999.0,2,2004.0,9,Frontend Engineer,IT Department
+373,2005.0,9,2017.0,4,Backend Engineer II,IT Department
+374,1993.0,12,1999.0,2,Associate Data Analyst,Analytics Department
+374,2000.0,2,2005.0,10,Data Analyst,Analytics Department
+374,2005.0,10,2017.0,4,Data Analyst II,Analytics Department
+375,1994.0,5,2000.0,4,Associate Data Analyst,Analytics Department
+375,2000.0,4,2005.0,8,Data Analyst,Analytics Department
+375,2005.0,8,2017.0,4,Data Analyst II,Analytics Department
+376,2005.0,5,2011.0,1,Associate Backend Engineer,Analytics Department
+377,1997.0,7,2003.0,5,Associate Data Analyst,Analytics Department
+377,2003.0,5,2008.0,1,Data Analyst,Analytics Department
+377,2008.0,1,2012.0,10,Data Analyst II,Analytics Department
+378,2005.0,5,2011.0,9,Associate Data Analyst,Analytics Department
+379,2003.0,5,2009.0,5,Associate Data Analyst,Analytics Department
+380,1984.0,12,1990.0,3,Associate Backend Engineer,IT Department
+380,1990.0,3,2000.0,12,Backend Engineer,IT Department
+380,2000.0,12,2012.0,5,Backend Engineer II,IT Department
+381,2010.0,5,2014.0,1,Associate Frontend Engineer,IT Department
+383,2007.0,12,2011.0,2,Associate Data Analyst,Analytics Department
+384,1999.0,12,2005.0,9,Associate Backend Engineer,Analytics Department
+384,2005.0,9,2010.0,12,Backend Engineer,Analytics Department
+384,2010.0,12,2011.0,9,Backend Engineer II,Analytics Department
+385,1992.0,12,1998.0,10,Associate Data Analyst,Analytics Department
+385,1998.0,10,2003.0,7,Data Analyst,Analytics Department
+385,2003.0,7,2015.0,10,Data Analyst II,Analytics Department
+386,1999.0,12,2005.0,2,Associate Data Analyst,Analytics Department
+387,2008.0,5,2012.0,2,Associate Data Analyst,Analytics Department
+388,1994.0,4,2000.0,5,Associate Data Analyst,Analytics Department
+388,2000.0,5,2005.0,8,Data Analyst,Analytics Department
+388,2005.0,8,2017.0,9,Data Analyst II,Analytics Department
+389,1997.0,12,2003.0,10,Associate Data Analyst,Analytics Department
+389,2004.0,10,2009.0,1,Data Analyst,Analytics Department
+389,2010.0,1,2011.0,8,Data Analyst II,Analytics Department
+390,2011.0,7,2015.0,8,Associate Data Analyst,Analytics Department
+391,1994.0,12,2000.0,5,Associate Backend Engineer,Analytics Department
+391,2001.0,5,2006.0,8,Backend Engineer,Analytics Department
+391,2006.0,8,2010.0,7,Backend Engineer II,Analytics Department
+392,2012.0,12,2016.0,8,Associate Frontend Engineer,IT Department
+393,2003.0,5,2009.0,2,Associate Data Analyst,Analytics Department
+394,1996.0,5,2002.0,12,Associate Backend Engineer,Analytics Department
+394,2002.0,12,2007.0,5,Backend Engineer,Analytics Department
+394,2008.0,5,2012.0,8,Backend Engineer II,Analytics Department
+395,2002.0,12,2008.0,12,Associate Frontend Engineer,IT Department
+396,1995.0,5,2001.0,2,Associate Manager,Administration Department
+396,2001.0,2,2006.0,9,Assistant Manager,Administration Department
+396,2007.0,9,2011.0,4,Manager,Administration Department
+397,1999.0,12,2005.0,10,Associate Data Analyst,Analytics Department
+397,2005.0,10,2010.0,10,Data Analyst,Analytics Department
+397,2010.0,10,2011.0,3,Data Analyst II,Analytics Department
+398,1989.0,12,1995.0,4,Associate Data Analyst,Analytics Department
+398,1995.0,4,2000.0,1,Data Analyst,Analytics Department
+398,2000.0,1,2012.0,9,Data Analyst II,Analytics Department
+399,1999.0,12,2005.0,9,Associate Data Analyst,Analytics Department
+400,1997.0,12,2003.0,3,Associate Frontend Engineer,IT Department
+400,2003.0,3,2008.0,10,Frontend Engineer,IT Department
+400,2008.0,10,2012.0,3,Backend Engineer II,IT Department
+401,1993.0,7,1999.0,7,Associate Frontend Engineer,IT Department
+401,1999.0,7,2004.0,9,Frontend Engineer,IT Department
+401,2005.0,9,2017.0,9,Frontend Engineer II,IT Department
+402,2002.0,7,2008.0,10,Associate Backend Engineer,IT Department
+403,1998.0,5,2004.0,2,Associate Data Analyst,Analytics Department
+403,2004.0,2,2009.0,4,Data Analyst,Analytics Department
+403,2010.0,4,2011.0,12,Data Analyst II,Analytics Department
+404,1995.0,5,2001.0,4,Associate Backend Engineer,Analytics Department
+404,2001.0,4,2006.0,3,Backend Engineer,Analytics Department
+404,2007.0,3,2011.0,12,Backend Engineer II,Analytics Department
+405,1992.0,5,1998.0,6,Associate Data Analyst,Analytics Department
+405,1999.0,6,2004.0,2,Data Analyst,Analytics Department
+405,2005.0,2,2017.0,9,Data Analyst II,Analytics Department
+406,1998.0,12,2004.0,6,Associate Data Analyst,Analytics Department
+406,2005.0,6,2010.0,2,Data Analyst,Analytics Department
+406,2011.0,2,2012.0,9,Data Analyst II,Analytics Department
+407,1999.0,4,2005.0,4,Associate Backend Engineer,Analytics Department
+407,2005.0,4,2010.0,6,Backend Engineer,Analytics Department
+407,2010.0,6,2011.0,7,Backend Engineer II,Analytics Department
+408,1993.0,5,1999.0,7,Associate Data Analyst,Analytics Department
+408,2000.0,7,2005.0,5,Data Analyst,Analytics Department
+408,2006.0,5,2010.0,3,Data Analyst II,Analytics Department
+409,1995.0,5,2001.0,1,Associate Backend Engineer,IT Department
+409,2001.0,1,2006.0,10,Backend Engineer,IT Department
+409,2006.0,10,2010.0,5,Backend Engineer II,IT Department
+410,1994.0,5,2000.0,1,Associate Backend Engineer,Analytics Department
+410,2000.0,1,2005.0,12,Backend Engineer,Analytics Department
+410,2006.0,12,2010.0,12,Backend Engineer II,Analytics Department
+411,2008.0,7,2012.0,4,Associate Backend Engineer,Analytics Department
+412,2007.0,12,2011.0,11,Associate Backend Engineer,Analytics Department
+413,1994.0,12,2000.0,6,Associate Backend Engineer,Analytics Department
+413,2000.0,6,2005.0,7,Backend Engineer,Analytics Department
+413,2005.0,7,2017.0,3,Backend Engineer II,Analytics Department
+414,1995.0,12,2001.0,3,Associate Backend Engineer,Analytics Department
+414,2002.0,3,2007.0,12,Backend Engineer,Analytics Department
+414,2007.0,12,2011.0,10,Backend Engineer II,Analytics Department
+415,1989.0,5,1995.0,5,Associate Backend Engineer,Analytics Department
+415,1995.0,5,2000.0,12,Backend Engineer,Analytics Department
+415,2000.0,12,2012.0,3,Backend Engineer II,Analytics Department
+416,1992.0,12,1998.0,9,Associate Data Analyst,Analytics Department
+416,1998.0,9,2003.0,7,Data Analyst,Analytics Department
+416,2004.0,7,2016.0,3,Data Analyst II,Analytics Department
+417,2001.0,5,2007.0,12,Associate Frontend Engineer,IT Department
+418,2000.0,12,2006.0,4,Associate Backend Engineer,IT Department
+419,1995.0,5,2001.0,8,Associate Data Analyst,Analytics Department
+419,2002.0,8,2007.0,3,Data Analyst,Analytics Department
+419,2007.0,3,2011.0,3,Data Analyst II,Analytics Department
+420,2000.0,12,2006.0,8,Associate Frontend Engineer,IT Department
+421,1998.0,5,2004.0,9,Associate Backend Engineer,Analytics Department
+421,2005.0,9,2010.0,5,Backend Engineer,Analytics Department
+421,2011.0,5,2012.0,7,Backend Engineer II,Analytics Department
+422,1990.0,12,1996.0,11,Associate Backend Engineer,Analytics Department
+422,1996.0,11,2001.0,8,Backend Engineer,Analytics Department
+422,2001.0,8,2013.0,6,Backend Engineer II,Analytics Department
+423,2001.0,12,2007.0,10,Associate Backend Engineer,Analytics Department
+424,2006.0,12,2010.0,5,Associate Backend Engineer,Analytics Department
+425,2001.0,12,2007.0,3,Associate Data Analyst,Analytics Department
+426,2008.0,12,2012.0,12,Associate Backend Engineer,Analytics Department
+427,2003.0,5,2009.0,4,Associate Data Analyst,Analytics Department
+428,2010.0,5,2014.0,7,Associate Backend Engineer,Analytics Department
+429,2001.0,12,2007.0,6,Associate Backend Engineer,IT Department
+430,1993.0,12,1999.0,1,Associate Data Analyst,Analytics Department
+430,1999.0,1,2004.0,5,Data Analyst,Analytics Department
+430,2004.0,5,2016.0,4,Data Analyst II,Analytics Department
+431,1991.0,12,1997.0,3,Associate Backend Engineer,Analytics Department
+431,1997.0,3,2002.0,9,Backend Engineer,Analytics Department
+431,2002.0,9,2014.0,11,Backend Engineer II,Analytics Department
+432,2002.0,12,2008.0,9,Associate Backend Engineer,Analytics Department
+433,1997.0,5,2003.0,9,Associate Data Analyst,Analytics Department
+433,2004.0,9,2009.0,1,Data Analyst,Analytics Department
+434,1999.0,12,2005.0,3,Associate Data Analyst,Analytics Department
+434,2005.0,3,2010.0,6,Data Analyst,Analytics Department
+434,2011.0,6,2012.0,9,Data Analyst II,Analytics Department
+435,1985.0,12,1991.0,5,Associate Backend Engineer,Analytics Department
+435,1991.0,5,1996.0,11,Backend Engineer,Analytics Department
+435,1996.0,11,2008.0,10,Backend Engineer II,Analytics Department
+437,2003.0,12,2009.0,5,Associate Data Analyst,Administration Department
+438,2012.0,12,2016.0,4,Associate Data Analyst,Analytics Department
+439,1996.0,12,2002.0,6,Associate Backend Engineer,IT Department
+439,2002.0,6,2007.0,4,Backend Engineer,IT Department
+439,2007.0,4,2011.0,5,Backend Engineer II,IT Department
+441,2005.0,12,2011.0,10,Associate Backend Engineer,Analytics Department
+442,2004.0,12,2010.0,7,Associate Frontend Engineer,IT Department
+443,2004.0,5,2010.0,2,Associate Manager,Administration Department
+444,2006.0,5,2010.0,1,Associate Data Analyst,Analytics Department
+445,2002.0,12,2008.0,3,Associate Frontend Engineer,IT Department
+446,2002.0,5,2008.0,10,Associate Data Analyst,Analytics Department
+447,2001.0,4,2007.0,1,Associate Frontend Engineer,IT Department
+448,1988.0,12,1994.0,5,Associate Backend Engineer,Analytics Department
+448,1994.0,5,1999.0,1,Backend Engineer,Analytics Department
+448,1999.0,1,2011.0,2,Backend Engineer II,Analytics Department
+449,2003.0,12,2009.0,10,Associate Backend Engineer,Analytics Department
+450,2001.0,5,2007.0,2,Associate Backend Engineer,Analytics Department
+451,1994.0,5,2000.0,10,Associate Frontend Engineer,IT Department
+451,2001.0,10,2006.0,8,Frontend Engineer,IT Department
+451,2007.0,8,2011.0,2,Backend Engineer II,IT Department
+452,1991.0,5,1997.0,9,Associate Backend Engineer,Analytics Department
+452,1998.0,9,2003.0,6,Backend Engineer,Analytics Department
+452,2003.0,6,2015.0,4,Backend Engineer II,Analytics Department
+453,1997.0,5,2003.0,4,Associate Backend Engineer,IT Department
+453,2004.0,4,2009.0,3,Backend Engineer,IT Department
+454,2010.0,7,2014.0,4,Associate Frontend Engineer,IT Department
+455,2010.0,12,2014.0,4,Associate Backend Engineer,Analytics Department
+456,2004.0,12,2010.0,1,Associate Backend Engineer,IT Department
+457,1986.0,12,1992.0,3,Associate Data Analyst,Analytics Department
+457,1992.0,3,1997.0,11,Data Analyst,Analytics Department
+457,1998.0,11,2010.0,4,Data Analyst II,Analytics Department
+458,2008.0,12,2012.0,3,Associate Frontend Engineer,IT Department
+459,2010.0,12,2014.0,12,Associate Backend Engineer,Analytics Department
+460,2001.0,12,2007.0,4,Associate Frontend Engineer,IT Department
+461,2004.0,7,2010.0,2,Associate Backend Engineer,IT Department
+463,2009.0,4,2013.0,10,Associate Data Analyst,Analytics Department
+464,2003.0,4,2009.0,7,Associate Manager,Administration Department
+465,2012.0,4,2016.0,6,Associate Backend Engineer,Analytics Department
+466,1995.0,5,2001.0,12,Associate Backend Engineer,IT Department
+466,2002.0,12,2007.0,7,Backend Engineer,IT Department
+466,2007.0,7,2011.0,8,Backend Engineer II,IT Department
+467,1992.0,12,1998.0,9,Associate Data Analyst,Administration Department
+467,1998.0,9,2003.0,7,Assistant Manager,Administration Department
+467,2003.0,7,2015.0,7,Manager,Administration Department
+468,2007.0,12,2011.0,9,Associate Data Analyst,Administration Department
+469,2012.0,7,2016.0,9,Associate Backend Engineer,IT Department
+470,2000.0,4,2006.0,4,Associate Data Analyst,Analytics Department
+471,2003.0,12,2009.0,4,Associate Data Analyst,Analytics Department
+472,2005.0,12,2011.0,7,Associate Backend Engineer,Analytics Department
+473,1998.0,5,2004.0,11,Associate Backend Engineer,IT Department
+473,2004.0,11,2009.0,2,Backend Engineer,IT Department
+474,2003.0,12,2009.0,12,Associate Backend Engineer,IT Department
+475,2006.0,12,2010.0,8,Associate Data Analyst,Analytics Department
+476,2006.0,5,2010.0,5,Associate Data Analyst,Analytics Department
+477,1998.0,5,2004.0,4,Associate Backend Engineer,Analytics Department
+477,2005.0,4,2010.0,3,Backend Engineer,Analytics Department
+477,2010.0,3,2011.0,4,Backend Engineer II,Analytics Department
+478,2012.0,4,2016.0,4,Associate Backend Engineer,IT Department
+479,1999.0,5,2005.0,12,Associate Backend Engineer,IT Department
+480,1987.0,7,1993.0,3,Associate Frontend Engineer,IT Department
+480,1993.0,3,1998.0,11,Frontend Engineer,IT Department
+480,1998.0,11,2010.0,10,Frontend Engineer II,IT Department
+481,1987.0,4,1993.0,3,Associate Data Analyst,Analytics Department
+481,1994.0,3,1999.0,2,Data Analyst,Analytics Department
+481,1999.0,2,2011.0,5,Data Analyst II,Analytics Department
+482,2012.0,12,2016.0,1,Associate Manager,Administration Department
+483,1997.0,5,2003.0,4,Associate Backend Engineer,Analytics Department
+483,2004.0,4,2009.0,1,Backend Engineer,Analytics Department
+484,2000.0,4,2006.0,3,Associate Backend Engineer,Analytics Department
+485,1997.0,5,2003.0,5,Associate Backend Engineer,IT Department
+485,2003.0,5,2008.0,7,Backend Engineer,IT Department
+485,2008.0,7,2012.0,1,Backend Engineer II,IT Department
+486,2005.0,12,2011.0,2,Associate Backend Engineer,IT Department
+487,2009.0,7,2013.0,3,Associate Backend Engineer,Analytics Department
+488,2005.0,12,2011.0,5,Associate Data Analyst,Analytics Department
+489,1986.0,5,1992.0,10,Associate Data Analyst,Analytics Department
+489,1993.0,10,1998.0,12,Data Analyst,Analytics Department
+489,1998.0,12,2010.0,9,Data Analyst II,Analytics Department
+490,2006.0,7,2010.0,4,Associate Data Analyst,Analytics Department
+491,2000.0,5,2006.0,7,Associate Backend Engineer,Analytics Department
+492,1994.0,5,2000.0,11,Associate Data Analyst,Analytics Department
+492,2001.0,11,2006.0,4,Data Analyst,Analytics Department
+492,2007.0,4,2011.0,5,Data Analyst II,Analytics Department
+493,2004.0,12,2010.0,4,Associate Backend Engineer,IT Department
+494,2006.0,5,2010.0,7,Associate Frontend Engineer,IT Department
+495,2012.0,12,2016.0,10,Associate Data Analyst,Analytics Department
+496,2004.0,12,2010.0,9,Associate Manager,Administration Department
+497,1994.0,7,2000.0,4,Associate Data Analyst,Analytics Department
+497,2001.0,4,2006.0,8,Data Analyst,Analytics Department
+497,2006.0,8,2010.0,1,Data Analyst II,Analytics Department
+498,1992.0,12,1998.0,2,Associate Backend Engineer,Analytics Department
+498,1998.0,2,2003.0,10,Backend Engineer,Analytics Department
+498,2004.0,10,2016.0,11,Backend Engineer II,Analytics Department
+499,2000.0,5,2006.0,7,Associate Backend Engineer,Analytics Department
+500,1994.0,12,2000.0,12,Associate Backend Engineer,Analytics Department
+500,2001.0,12,2006.0,5,Backend Engineer,Analytics Department
+500,2006.0,5,2010.0,6,Backend Engineer II,Analytics Department
+501,2012.0,4,2016.0,1,Associate Frontend Engineer,IT Department
+502,2008.0,4,2012.0,9,Associate Data Analyst,Administration Department
+503,1992.0,4,1998.0,3,Associate Frontend Engineer,IT Department
+503,1998.0,3,2003.0,6,Frontend Engineer,IT Department
+503,2003.0,6,2015.0,5,Frontend Engineer II,IT Department
+504,2005.0,5,2011.0,4,Associate Backend Engineer,Analytics Department
+505,1990.0,7,1996.0,6,Associate Backend Engineer,Analytics Department
+505,1996.0,6,2001.0,4,Backend Engineer,Analytics Department
+505,2001.0,4,2013.0,1,Backend Engineer II,Analytics Department
+506,1993.0,4,1999.0,1,Associate Data Analyst,Analytics Department
+506,1999.0,1,2004.0,7,Data Analyst,Analytics Department
+506,2004.0,7,2016.0,4,Data Analyst II,Analytics Department
+507,2011.0,5,2015.0,1,Associate Backend Engineer,Analytics Department
+508,2007.0,5,2011.0,6,Associate Backend Engineer,Analytics Department
+509,2003.0,5,2009.0,8,Associate Data Analyst,Analytics Department
+511,2007.0,5,2011.0,7,Associate Frontend Engineer,IT Department
+512,2000.0,4,2006.0,9,Associate Backend Engineer,IT Department
+513,2000.0,5,2006.0,8,Associate Data Analyst,Analytics Department
+514,1992.0,5,1998.0,5,Associate Data Analyst,Analytics Department
+514,1999.0,5,2004.0,9,Data Analyst,Analytics Department
+514,2004.0,9,2016.0,9,Data Analyst II,Analytics Department
+515,2009.0,7,2013.0,12,Associate Backend Engineer,Analytics Department
+516,2008.0,12,2012.0,4,Associate Backend Engineer,Analytics Department
+517,1989.0,5,1995.0,4,Associate Backend Engineer,IT Department
+517,1995.0,4,2000.0,12,Backend Engineer,IT Department
+517,2001.0,12,2013.0,11,Backend Engineer II,IT Department
+518,2005.0,12,2011.0,3,Associate Backend Engineer,Analytics Department
+519,1986.0,12,1992.0,2,Associate Data Analyst,Analytics Department
+519,1993.0,2,1998.0,3,Data Analyst,Analytics Department
+519,1998.0,3,2010.0,8,Data Analyst II,Analytics Department
+520,1998.0,12,2004.0,2,Associate Frontend Engineer,IT Department
+520,2005.0,2,2010.0,10,Frontend Engineer,IT Department
+520,2011.0,10,2012.0,2,Backend Engineer II,IT Department
+521,1994.0,12,2000.0,8,Associate Manager,Administration Department
+521,2001.0,8,2006.0,8,Assistant Manager,Administration Department
+521,2006.0,8,2010.0,2,Manager,Administration Department
+522,2008.0,4,2012.0,11,Associate Data Analyst,Analytics Department
+523,2011.0,7,2015.0,9,Associate Data Analyst,Analytics Department
+524,1997.0,12,2003.0,10,Associate Data Analyst,Analytics Department
+524,2004.0,10,2009.0,9,Data Analyst,Analytics Department
+524,2010.0,9,2011.0,7,Data Analyst II,Analytics Department
+525,2006.0,5,2010.0,11,Associate Frontend Engineer,IT Department
+526,2003.0,12,2009.0,6,Associate Data Analyst,Analytics Department
+528,2002.0,4,2008.0,4,Associate Manager,Administration Department
+529,2001.0,12,2007.0,2,Associate Backend Engineer,Analytics Department
+530,1997.0,12,2003.0,11,Associate Frontend Engineer,IT Department
+530,2003.0,11,2008.0,9,Frontend Engineer,IT Department
+530,2008.0,9,2012.0,2,Frontend Engineer II,IT Department
+531,2004.0,5,2010.0,9,Associate Backend Engineer,Analytics Department
+532,2001.0,5,2007.0,7,Associate Backend Engineer,Analytics Department
+533,2005.0,7,2011.0,8,Associate Backend Engineer,Analytics Department
+535,1998.0,5,2004.0,10,Associate Data Analyst,Analytics Department
+535,2005.0,10,2010.0,11,Data Analyst,Analytics Department
+535,2011.0,11,2012.0,2,Data Analyst II,Analytics Department
+536,1996.0,12,2002.0,11,Associate Data Analyst,Analytics Department
+536,2003.0,11,2008.0,2,Data Analyst,Analytics Department
+536,2008.0,2,2012.0,11,Data Analyst II,Analytics Department
+537,2011.0,12,2015.0,7,Associate Frontend Engineer,IT Department
+538,1987.0,12,1993.0,2,Associate Data Analyst,Analytics Department
+538,1994.0,2,1999.0,3,Data Analyst,Analytics Department
+538,1999.0,3,2011.0,8,Data Analyst II,Analytics Department
+539,1995.0,5,2001.0,6,Associate Data Analyst,Analytics Department
+539,2001.0,6,2006.0,2,Data Analyst,Analytics Department
+539,2007.0,2,2011.0,5,Data Analyst II,Analytics Department
+540,1992.0,5,1998.0,4,Associate Backend Engineer,IT Department
+540,1998.0,4,2003.0,6,Backend Engineer,IT Department
+540,2004.0,6,2016.0,1,Backend Engineer II,IT Department
+541,2002.0,12,2008.0,4,Associate Data Analyst,Analytics Department
+542,2012.0,12,2016.0,10,Associate Data Analyst,Analytics Department
+543,2008.0,12,2012.0,2,Associate Data Analyst,Analytics Department
+544,1992.0,12,1998.0,11,Associate Data Analyst,Analytics Department
+544,1998.0,11,2003.0,9,Data Analyst,Analytics Department
+544,2003.0,9,2015.0,10,Data Analyst II,Analytics Department
+545,2004.0,12,2010.0,4,Associate Frontend Engineer,IT Department
+546,2005.0,4,2011.0,2,Associate Frontend Engineer,IT Department
+547,2007.0,4,2011.0,8,Associate Data Analyst,Analytics Department
+548,1992.0,4,1998.0,12,Associate Backend Engineer,Analytics Department
+548,1998.0,12,2003.0,12,Backend Engineer,Analytics Department
+548,2003.0,12,2015.0,8,Backend Engineer II,Analytics Department
+549,2008.0,12,2012.0,3,Associate Backend Engineer,Analytics Department
+550,2007.0,12,2011.0,6,Associate Backend Engineer,IT Department
+551,1991.0,7,1997.0,4,Associate Data Analyst,Analytics Department
+551,1997.0,4,2002.0,7,Data Analyst,Analytics Department
+551,2003.0,7,2015.0,3,Data Analyst II,Analytics Department
+554,2010.0,12,2014.0,11,Associate Backend Engineer,IT Department
+555,2002.0,12,2008.0,1,Associate Backend Engineer,IT Department
+556,2005.0,12,2011.0,2,Associate Data Analyst,Administration Department
+557,2001.0,5,2007.0,9,Associate Backend Engineer,Analytics Department
+558,2009.0,5,2013.0,12,Associate Frontend Engineer,IT Department
+559,2008.0,12,2012.0,5,Associate Frontend Engineer,IT Department
+560,2000.0,7,2006.0,5,Associate Backend Engineer,Analytics Department
+561,2008.0,12,2012.0,10,Associate Data Analyst,Administration Department
+562,2008.0,5,2012.0,3,Associate Data Analyst,Analytics Department
+563,2002.0,12,2008.0,9,Associate Data Analyst,Analytics Department
+564,1996.0,12,2002.0,6,Associate Manager,Administration Department
+564,2003.0,6,2008.0,5,Assistant Manager,Administration Department
+564,2008.0,5,2012.0,9,Manager,Administration Department
+565,1998.0,5,2004.0,11,Associate Frontend Engineer,IT Department
+565,2004.0,11,2009.0,11,Frontend Engineer,IT Department
+566,2008.0,12,2012.0,3,Associate Data Analyst,Analytics Department
+567,1988.0,12,1994.0,5,Associate Backend Engineer,IT Department
+567,1994.0,5,1999.0,9,Backend Engineer,IT Department
+567,2000.0,9,2012.0,6,Backend Engineer II,IT Department
+568,2012.0,12,2016.0,1,Associate Frontend Engineer,IT Department
+569,1994.0,5,2000.0,12,Associate Data Analyst,Analytics Department
+569,2000.0,12,2005.0,2,Data Analyst,Analytics Department
+569,2005.0,2,2017.0,4,Data Analyst II,Analytics Department
+570,2004.0,4,2010.0,1,Associate Data Analyst,Analytics Department
+572,1992.0,12,1998.0,5,Associate Backend Engineer,IT Department
+572,1999.0,5,2004.0,11,Backend Engineer,IT Department
+572,2004.0,11,2016.0,3,Backend Engineer II,IT Department
+573,1997.0,5,2003.0,8,Associate Frontend Engineer,IT Department
+573,2004.0,8,2009.0,8,Frontend Engineer,IT Department
+574,2006.0,12,2010.0,9,Associate Frontend Engineer,IT Department
+575,2004.0,5,2010.0,1,Associate Data Analyst,Analytics Department
+576,1999.0,12,2005.0,12,Associate Data Analyst,Analytics Department
+577,1996.0,5,2002.0,3,Associate Frontend Engineer,IT Department
+577,2002.0,3,2007.0,7,Frontend Engineer,IT Department
+577,2007.0,7,2011.0,4,Frontend Engineer II,IT Department
+578,2012.0,12,2016.0,12,Associate Data Analyst,Analytics Department
+579,1997.0,12,2003.0,5,Associate Backend Engineer,Analytics Department
+579,2003.0,5,2008.0,3,Backend Engineer,Analytics Department
+579,2008.0,3,2012.0,1,Backend Engineer II,Analytics Department
+580,1987.0,12,1993.0,8,Associate Frontend Engineer,IT Department
+580,1993.0,8,1998.0,11,Frontend Engineer,IT Department
+580,1998.0,11,2010.0,8,Frontend Engineer II,IT Department
+581,2000.0,5,2006.0,1,Associate Frontend Engineer,IT Department
+582,2001.0,12,2007.0,9,Associate Data Analyst,Analytics Department
+583,1997.0,5,2003.0,3,Associate Frontend Engineer,IT Department
+583,2003.0,3,2008.0,10,Frontend Engineer,IT Department
+583,2008.0,10,2012.0,12,Backend Engineer II,IT Department
+584,2003.0,5,2009.0,2,Associate Manager,Administration Department
+585,2011.0,5,2015.0,2,Associate Frontend Engineer,IT Department
+586,2003.0,5,2009.0,5,Associate Backend Engineer,IT Department
+587,1999.0,12,2005.0,6,Associate Frontend Engineer,IT Department
+587,2005.0,6,2010.0,8,Frontend Engineer,IT Department
+587,2011.0,8,2012.0,9,Frontend Engineer II,IT Department
+588,2006.0,5,2010.0,5,Associate Data Analyst,Analytics Department
+589,1993.0,12,1999.0,1,Associate Data Analyst,Analytics Department
+589,2000.0,1,2005.0,12,Data Analyst,Analytics Department
+589,2006.0,12,2010.0,5,Data Analyst II,Analytics Department
+590,1997.0,4,2003.0,7,Associate Backend Engineer,Analytics Department
+590,2003.0,7,2008.0,12,Backend Engineer,Analytics Department
+591,2001.0,4,2007.0,10,Associate Backend Engineer,Analytics Department
+592,1998.0,12,2004.0,2,Associate Data Analyst,Administration Department
+592,2004.0,2,2009.0,5,Assistant Manager,Administration Department
+593,2001.0,5,2007.0,10,Associate Backend Engineer,Analytics Department
+594,1991.0,5,1997.0,1,Associate Backend Engineer,IT Department
+594,1998.0,1,2003.0,12,Backend Engineer,IT Department
+594,2003.0,12,2015.0,9,Backend Engineer II,IT Department
+595,2010.0,12,2014.0,10,Associate Backend Engineer,Analytics Department
+597,2005.0,4,2011.0,3,Associate Backend Engineer,Analytics Department
+598,1987.0,12,1993.0,9,Associate Data Analyst,Analytics Department
+598,1993.0,9,1998.0,11,Data Analyst,Analytics Department
+598,1998.0,11,2010.0,3,Data Analyst II,Analytics Department
+599,1993.0,5,1999.0,2,Associate Data Analyst,Analytics Department
+599,2000.0,2,2005.0,5,Data Analyst,Analytics Department
+599,2006.0,5,2010.0,4,Data Analyst II,Analytics Department
+600,2010.0,12,2014.0,11,Associate Backend Engineer,IT Department
+601,1997.0,5,2003.0,11,Associate Manager,Administration Department
+601,2003.0,11,2008.0,8,Assistant Manager,Administration Department
+602,2001.0,12,2007.0,4,Associate Frontend Engineer,IT Department
+603,1998.0,4,2004.0,5,Associate Backend Engineer,Analytics Department
+603,2004.0,5,2009.0,12,Backend Engineer,Analytics Department
+604,1991.0,12,1997.0,9,Associate Data Analyst,Analytics Department
+604,1998.0,9,2003.0,7,Data Analyst,Analytics Department
+604,2003.0,7,2015.0,11,Data Analyst II,Analytics Department
+605,2011.0,5,2015.0,11,Associate Backend Engineer,IT Department
+606,1999.0,7,2005.0,4,Associate Frontend Engineer,IT Department
+606,2005.0,4,2010.0,10,Frontend Engineer,IT Department
+606,2010.0,10,2011.0,12,Backend Engineer II,IT Department
+607,2003.0,7,2009.0,10,Associate Frontend Engineer,IT Department
+608,2008.0,12,2012.0,8,Associate Backend Engineer,IT Department
+609,1988.0,12,1994.0,11,Associate Data Analyst,Analytics Department
+609,1995.0,11,2000.0,11,Data Analyst,Analytics Department
+609,2000.0,11,2012.0,11,Data Analyst II,Analytics Department
+610,1996.0,12,2002.0,5,Associate Backend Engineer,IT Department
+610,2002.0,5,2007.0,11,Backend Engineer,IT Department
+610,2007.0,11,2011.0,9,Backend Engineer II,IT Department
+611,1997.0,5,2003.0,11,Associate Backend Engineer,Analytics Department
+611,2003.0,11,2008.0,8,Backend Engineer,Analytics Department
+612,2004.0,5,2010.0,6,Associate Data Analyst,Analytics Department
+613,1995.0,12,2001.0,6,Associate Backend Engineer,Analytics Department
+613,2001.0,6,2006.0,6,Backend Engineer,Analytics Department
+613,2007.0,6,2011.0,10,Backend Engineer II,Analytics Department
+614,2003.0,4,2009.0,6,Associate Data Analyst,Analytics Department
+615,1995.0,12,2001.0,5,Associate Frontend Engineer,IT Department
+615,2001.0,5,2006.0,11,Frontend Engineer,IT Department
+615,2007.0,11,2011.0,5,Frontend Engineer II,IT Department
+616,2002.0,5,2008.0,5,Associate Data Analyst,Analytics Department
+617,1994.0,12,2000.0,9,Associate Backend Engineer,IT Department
+617,2001.0,9,2006.0,2,Backend Engineer,IT Department
+617,2007.0,2,2011.0,2,Backend Engineer II,IT Department
+618,2006.0,7,2010.0,11,Associate Frontend Engineer,IT Department
+619,2002.0,12,2008.0,7,Associate Frontend Engineer,IT Department
+620,1999.0,5,2005.0,5,Associate Frontend Engineer,IT Department
+621,1999.0,12,2005.0,10,Associate Data Analyst,Analytics Department
+621,2005.0,10,2010.0,2,Data Analyst,Analytics Department
+621,2011.0,2,2012.0,12,Data Analyst II,Analytics Department
+623,1992.0,5,1998.0,8,Associate Data Analyst,Analytics Department
+623,1999.0,8,2004.0,3,Data Analyst,Analytics Department
+623,2004.0,3,2016.0,10,Data Analyst II,Analytics Department
+624,1993.0,12,1999.0,10,Associate Backend Engineer,Analytics Department
+624,1999.0,10,2004.0,6,Backend Engineer,Analytics Department
+624,2004.0,6,2016.0,6,Backend Engineer II,Analytics Department
+625,2004.0,5,2010.0,8,Associate Backend Engineer,Analytics Department
+626,1991.0,5,1997.0,6,Associate Backend Engineer,IT Department
+626,1997.0,6,2002.0,11,Backend Engineer,IT Department
+626,2003.0,11,2015.0,10,Backend Engineer II,IT Department
+627,2010.0,12,2014.0,1,Associate Frontend Engineer,IT Department
+628,2012.0,12,2016.0,4,Associate Data Analyst,Analytics Department
+629,1995.0,12,2001.0,1,Associate Backend Engineer,IT Department
+629,2002.0,1,2007.0,1,Backend Engineer,IT Department
+629,2007.0,1,2011.0,9,Backend Engineer II,IT Department
+630,2005.0,12,2011.0,6,Associate Backend Engineer,Analytics Department
+631,2009.0,12,2013.0,8,Associate Manager,Administration Department
+632,2011.0,12,2015.0,11,Associate Backend Engineer,Analytics Department
+633,2000.0,5,2006.0,7,Associate Backend Engineer,IT Department
+634,2002.0,5,2008.0,6,Associate Backend Engineer,Analytics Department
+635,1995.0,5,2001.0,3,Associate Data Analyst,Analytics Department
+635,2001.0,3,2006.0,3,Data Analyst,Analytics Department
+635,2006.0,3,2010.0,9,Data Analyst II,Analytics Department
+636,1990.0,4,1996.0,9,Associate Frontend Engineer,IT Department
+636,1997.0,9,2002.0,6,Frontend Engineer,IT Department
+636,2002.0,6,2014.0,1,Frontend Engineer II,IT Department
+638,1998.0,4,2004.0,11,Associate Backend Engineer,Analytics Department
+638,2005.0,11,2010.0,2,Backend Engineer,Analytics Department
+638,2011.0,2,2012.0,9,Backend Engineer II,Analytics Department
+639,2003.0,12,2009.0,11,Associate Backend Engineer,IT Department
+640,1998.0,12,2004.0,7,Associate Backend Engineer,IT Department
+640,2004.0,7,2009.0,2,Backend Engineer,IT Department
+641,2005.0,12,2011.0,4,Associate Backend Engineer,IT Department
+642,1988.0,12,1994.0,5,Associate Manager,Administration Department
+642,1994.0,5,1999.0,6,Assistant Manager,Administration Department
+642,1999.0,6,2011.0,5,Manager,Administration Department
+643,1998.0,7,2004.0,7,Associate Frontend Engineer,IT Department
+643,2004.0,7,2009.0,6,Frontend Engineer,IT Department
+644,2004.0,5,2010.0,3,Associate Data Analyst,Analytics Department
+645,1996.0,5,2002.0,7,Associate Backend Engineer,Analytics Department
+645,2002.0,7,2007.0,11,Backend Engineer,Analytics Department
+645,2008.0,11,2012.0,1,Backend Engineer II,Analytics Department
+646,2007.0,12,2011.0,3,Associate Frontend Engineer,IT Department
+647,2011.0,12,2015.0,12,Associate Data Analyst,Analytics Department
+648,2007.0,4,2011.0,11,Associate Frontend Engineer,IT Department
+649,1995.0,12,2001.0,8,Associate Backend Engineer,Analytics Department
+649,2002.0,8,2007.0,11,Backend Engineer,Analytics Department
+649,2007.0,11,2011.0,1,Backend Engineer II,Analytics Department
+650,2007.0,5,2011.0,5,Associate Data Analyst,Analytics Department
+651,2004.0,5,2010.0,3,Associate Data Analyst,Analytics Department
+652,1998.0,5,2004.0,9,Associate Backend Engineer,IT Department
+652,2004.0,9,2009.0,2,Backend Engineer,IT Department
+652,2010.0,2,2011.0,10,Backend Engineer II,IT Department
+653,1996.0,5,2002.0,9,Associate Backend Engineer,Analytics Department
+653,2002.0,9,2007.0,2,Backend Engineer,Analytics Department
+653,2007.0,2,2011.0,7,Backend Engineer II,Analytics Department
+654,1993.0,12,1999.0,12,Associate Frontend Engineer,IT Department
+654,2000.0,12,2005.0,9,Frontend Engineer,IT Department
+654,2006.0,9,2010.0,4,Frontend Engineer II,IT Department
+655,2000.0,5,2006.0,2,Associate Data Analyst,Analytics Department
+656,2006.0,4,2010.0,10,Associate Frontend Engineer,IT Department
+659,2004.0,12,2010.0,5,Associate Frontend Engineer,IT Department
+660,1998.0,12,2004.0,3,Associate Backend Engineer,Analytics Department
+660,2004.0,3,2009.0,7,Backend Engineer,Analytics Department
+661,1993.0,12,1999.0,6,Associate Data Analyst,Analytics Department
+661,1999.0,6,2004.0,7,Data Analyst,Analytics Department
+661,2004.0,7,2016.0,3,Data Analyst II,Analytics Department
+662,2007.0,12,2011.0,2,Associate Backend Engineer,IT Department
+663,2006.0,12,2010.0,12,Associate Manager,Administration Department
+664,2010.0,5,2014.0,10,Associate Backend Engineer,IT Department
+665,1998.0,4,2004.0,9,Associate Backend Engineer,IT Department
+665,2004.0,9,2009.0,3,Backend Engineer,IT Department
+666,1997.0,5,2003.0,5,Associate Manager,Administration Department
+666,2004.0,5,2009.0,10,Assistant Manager,Administration Department
+666,2010.0,10,2011.0,3,Manager,Administration Department
+667,2000.0,5,2006.0,10,Associate Data Analyst,Analytics Department
+668,1999.0,12,2005.0,10,Associate Backend Engineer,IT Department
+668,2005.0,10,2010.0,6,Backend Engineer,IT Department
+668,2010.0,6,2011.0,10,Backend Engineer II,IT Department
+669,1998.0,12,2004.0,6,Associate Backend Engineer,Analytics Department
+669,2004.0,6,2009.0,10,Backend Engineer,Analytics Department
+670,1995.0,12,2001.0,11,Associate Frontend Engineer,IT Department
+670,2002.0,11,2007.0,7,Frontend Engineer,IT Department
+670,2007.0,7,2011.0,12,Frontend Engineer II,IT Department
+671,2001.0,12,2007.0,12,Associate Data Analyst,Analytics Department
+672,1990.0,5,1996.0,9,Associate Backend Engineer,IT Department
+672,1996.0,9,2001.0,5,Backend Engineer,IT Department
+672,2002.0,5,2014.0,4,Backend Engineer II,IT Department
+673,2010.0,7,2014.0,10,Associate Backend Engineer,Analytics Department
+674,2011.0,12,2015.0,10,Associate Backend Engineer,Analytics Department
+675,1995.0,5,2001.0,9,Associate Data Analyst,Analytics Department
+675,2001.0,9,2006.0,1,Data Analyst,Analytics Department
+675,2006.0,1,2010.0,4,Data Analyst II,Analytics Department
+676,1988.0,5,1994.0,8,Associate Frontend Engineer,IT Department
+676,1994.0,8,1999.0,7,Frontend Engineer,IT Department
+676,1999.0,7,2011.0,2,Frontend Engineer II,IT Department
+677,1992.0,4,1998.0,7,Associate Data Analyst,Analytics Department
+677,1998.0,7,2003.0,9,Data Analyst,Analytics Department
+677,2004.0,9,2016.0,7,Data Analyst II,Analytics Department
+678,2010.0,12,2014.0,6,Associate Frontend Engineer,IT Department
+679,1991.0,12,1997.0,6,Associate Data Analyst,Analytics Department
+679,1997.0,6,2002.0,3,Data Analyst,Analytics Department
+679,2002.0,3,2014.0,12,Data Analyst II,Analytics Department
+680,1989.0,12,1995.0,7,Associate Data Analyst,Analytics Department
+680,1996.0,7,2001.0,6,Data Analyst,Analytics Department
+680,2002.0,6,2014.0,11,Data Analyst II,Analytics Department
+681,2010.0,12,2014.0,2,Associate Data Analyst,Analytics Department
+682,2002.0,12,2008.0,2,Associate Backend Engineer,Analytics Department
+683,1989.0,4,1995.0,7,Associate Backend Engineer,Analytics Department
+683,1995.0,7,2000.0,4,Backend Engineer,Analytics Department
+683,2000.0,4,2012.0,6,Backend Engineer II,Analytics Department
+684,1988.0,4,1994.0,3,Associate Data Analyst,Analytics Department
+684,1995.0,3,2000.0,5,Data Analyst,Analytics Department
+684,2000.0,5,2012.0,7,Data Analyst II,Analytics Department
+685,1991.0,12,1997.0,2,Associate Backend Engineer,IT Department
+685,1998.0,2,2003.0,1,Backend Engineer,IT Department
+685,2003.0,1,2015.0,10,Backend Engineer II,IT Department
+686,1992.0,5,1998.0,5,Associate Backend Engineer,Analytics Department
+686,1999.0,5,2004.0,2,Backend Engineer,Analytics Department
+686,2005.0,2,2017.0,6,Backend Engineer II,Analytics Department
+687,2006.0,12,2010.0,1,Associate Backend Engineer,Analytics Department
+688,2011.0,12,2015.0,6,Associate Backend Engineer,Analytics Department
+689,2003.0,12,2009.0,6,Associate Frontend Engineer,IT Department
+690,2010.0,4,2014.0,2,Associate Backend Engineer,IT Department
+691,1990.0,5,1996.0,9,Associate Backend Engineer,Analytics Department
+691,1996.0,9,2001.0,1,Backend Engineer,Analytics Department
+691,2002.0,1,2014.0,5,Backend Engineer II,Analytics Department
+692,1993.0,12,1999.0,6,Associate Backend Engineer,Analytics Department
+692,1999.0,6,2004.0,9,Backend Engineer,Analytics Department
+692,2004.0,9,2016.0,4,Backend Engineer II,Analytics Department
+693,1989.0,12,1995.0,7,Associate Data Analyst,Analytics Department
+693,1996.0,7,2001.0,11,Data Analyst,Analytics Department
+693,2001.0,11,2013.0,6,Data Analyst II,Analytics Department
+694,2000.0,12,2006.0,11,Associate Frontend Engineer,IT Department
+695,2009.0,7,2013.0,3,Associate Data Analyst,Analytics Department
+696,1991.0,12,1997.0,6,Associate Backend Engineer,Analytics Department
+696,1997.0,6,2002.0,11,Backend Engineer,Analytics Department
+696,2003.0,11,2015.0,7,Backend Engineer II,Analytics Department
+697,2010.0,12,2014.0,9,Associate Backend Engineer,Analytics Department
+699,2004.0,5,2010.0,4,Associate Frontend Engineer,IT Department
+700,1989.0,7,1995.0,1,Associate Backend Engineer,Analytics Department
+700,1995.0,1,2000.0,3,Backend Engineer,Analytics Department
+700,2000.0,3,2012.0,1,Backend Engineer II,Analytics Department
+701,1988.0,5,1994.0,7,Associate Frontend Engineer,IT Department
+701,1994.0,7,1999.0,5,Frontend Engineer,IT Department
+701,1999.0,5,2011.0,4,Frontend Engineer II,IT Department
+702,1990.0,5,1996.0,10,Associate Backend Engineer,IT Department
+702,1996.0,10,2001.0,3,Backend Engineer,IT Department
+702,2001.0,3,2013.0,1,Backend Engineer II,IT Department
+703,2001.0,7,2007.0,3,Associate Frontend Engineer,IT Department
+704,1993.0,12,1999.0,2,Associate Manager,Administration Department
+704,1999.0,2,2004.0,12,Assistant Manager,Administration Department
+704,2004.0,12,2016.0,2,Manager,Administration Department
+705,1990.0,12,1996.0,9,Associate Data Analyst,Analytics Department
+705,1997.0,9,2002.0,12,Data Analyst,Analytics Department
+705,2002.0,12,2014.0,3,Data Analyst II,Analytics Department
+706,1991.0,4,1997.0,3,Associate Backend Engineer,Analytics Department
+706,1997.0,3,2002.0,8,Backend Engineer,Analytics Department
+706,2002.0,8,2014.0,7,Backend Engineer II,Analytics Department
+707,1986.0,4,1992.0,2,Associate Backend Engineer,IT Department
+707,1992.0,2,1997.0,1,Backend Engineer,IT Department
+707,1997.0,1,2009.0,7,Backend Engineer II,IT Department
+708,1998.0,7,2004.0,12,Associate Backend Engineer,Analytics Department
+708,2004.0,12,2009.0,2,Backend Engineer,Analytics Department
+709,1994.0,5,2000.0,4,Associate Backend Engineer,Analytics Department
+709,2001.0,4,2006.0,6,Backend Engineer,Analytics Department
+709,2007.0,6,2011.0,9,Backend Engineer II,Analytics Department
+711,2005.0,12,2011.0,12,Associate Data Analyst,Analytics Department
+712,1990.0,5,1996.0,6,Associate Frontend Engineer,IT Department
+712,1996.0,6,2001.0,4,Frontend Engineer,IT Department
+712,2001.0,4,2013.0,6,Backend Engineer II,IT Department
+713,2012.0,5,2016.0,8,Associate Data Analyst,Analytics Department
+714,1989.0,5,1995.0,11,Associate Backend Engineer,IT Department
+714,1996.0,11,2001.0,4,Backend Engineer,IT Department
+714,2002.0,4,2014.0,7,Backend Engineer II,IT Department
+715,2008.0,5,2012.0,10,Associate Data Analyst,Analytics Department
+716,1997.0,4,2003.0,6,Associate Backend Engineer,Analytics Department
+716,2004.0,6,2009.0,9,Backend Engineer,Analytics Department
+717,1995.0,7,2001.0,4,Associate Data Analyst,Analytics Department
+717,2001.0,4,2006.0,3,Data Analyst,Analytics Department
+717,2006.0,3,2010.0,10,Data Analyst II,Analytics Department
+718,2004.0,12,2010.0,2,Associate Frontend Engineer,IT Department
+719,2001.0,12,2007.0,5,Associate Frontend Engineer,IT Department
+720,2007.0,12,2011.0,3,Associate Backend Engineer,IT Department
+721,2001.0,5,2007.0,5,Associate Backend Engineer,Analytics Department
+722,2009.0,12,2013.0,7,Associate Backend Engineer,Analytics Department
+723,2003.0,12,2009.0,9,Associate Backend Engineer,Analytics Department
+724,1994.0,5,2000.0,3,Associate Manager,Administration Department
+724,2000.0,3,2005.0,1,Assistant Manager,Administration Department
+724,2006.0,1,2010.0,7,Manager,Administration Department
+725,1991.0,4,1997.0,11,Associate Backend Engineer,Analytics Department
+725,1998.0,11,2003.0,5,Backend Engineer,Analytics Department
+725,2003.0,5,2015.0,2,Backend Engineer II,Analytics Department
+726,1999.0,5,2005.0,8,Associate Manager,Administration Department
+726,2005.0,8,2010.0,9,Assistant Manager,Administration Department
+726,2011.0,9,2012.0,1,Manager,Administration Department
+727,2011.0,12,2015.0,7,Associate Backend Engineer,Analytics Department
+728,2010.0,12,2014.0,7,Associate Backend Engineer,IT Department
+729,2008.0,7,2012.0,7,Associate Backend Engineer,IT Department
+730,2009.0,5,2013.0,11,Associate Frontend Engineer,IT Department
+731,1990.0,12,1996.0,10,Associate Backend Engineer,IT Department
+731,1997.0,10,2002.0,10,Backend Engineer,IT Department
+731,2002.0,10,2014.0,6,Backend Engineer II,IT Department
+732,2008.0,12,2012.0,6,Associate Data Analyst,Analytics Department
+733,1995.0,12,2001.0,8,Associate Backend Engineer,Analytics Department
+733,2001.0,8,2006.0,3,Backend Engineer,Analytics Department
+733,2007.0,3,2011.0,7,Backend Engineer II,Analytics Department
+734,1993.0,12,1999.0,11,Associate Frontend Engineer,IT Department
+734,1999.0,11,2004.0,11,Frontend Engineer,IT Department
+734,2004.0,11,2016.0,10,Backend Engineer II,IT Department
+735,2000.0,5,2006.0,4,Associate Backend Engineer,Analytics Department
+737,1988.0,12,1994.0,11,Associate Backend Engineer,Analytics Department
+737,1995.0,11,2000.0,7,Backend Engineer,Analytics Department
+737,2000.0,7,2012.0,1,Backend Engineer II,Analytics Department
+738,1988.0,12,1994.0,12,Associate Backend Engineer,Analytics Department
+738,1994.0,12,1999.0,10,Backend Engineer,Analytics Department
+738,1999.0,10,2011.0,9,Backend Engineer II,Analytics Department
+739,1990.0,12,1996.0,8,Associate Frontend Engineer,IT Department
+739,1997.0,8,2002.0,10,Frontend Engineer,IT Department
+739,2002.0,10,2014.0,11,Frontend Engineer II,IT Department
+740,2012.0,12,2016.0,2,Associate Backend Engineer,Analytics Department
+741,2001.0,12,2007.0,9,Associate Backend Engineer,IT Department
+742,1995.0,5,2001.0,6,Associate Backend Engineer,Analytics Department
+742,2001.0,6,2006.0,7,Backend Engineer,Analytics Department
+742,2007.0,7,2011.0,12,Backend Engineer II,Analytics Department
+743,1996.0,5,2002.0,4,Associate Backend Engineer,IT Department
+743,2003.0,4,2008.0,3,Backend Engineer,IT Department
+743,2008.0,3,2012.0,9,Backend Engineer II,IT Department
+744,2003.0,12,2009.0,2,Associate Frontend Engineer,IT Department
+745,2007.0,5,2011.0,9,Associate Backend Engineer,Analytics Department
+746,1988.0,5,1994.0,1,Associate Data Analyst,Analytics Department
+746,1994.0,1,1999.0,6,Data Analyst,Analytics Department
+746,2000.0,6,2012.0,9,Data Analyst II,Analytics Department
+747,1990.0,12,1996.0,1,Associate Backend Engineer,IT Department
+747,1997.0,1,2002.0,11,Backend Engineer,IT Department
+747,2003.0,11,2015.0,4,Backend Engineer II,IT Department
+748,2000.0,12,2006.0,1,Associate Backend Engineer,IT Department
+749,1995.0,12,2001.0,6,Associate Data Analyst,Analytics Department
+749,2002.0,6,2007.0,11,Data Analyst,Analytics Department
+749,2008.0,11,2012.0,9,Data Analyst II,Analytics Department
+750,2012.0,5,2016.0,11,Associate Data Analyst,Analytics Department
+751,2008.0,12,2012.0,9,Associate Backend Engineer,Analytics Department
+752,2012.0,5,2016.0,6,Associate Backend Engineer,IT Department
+753,2004.0,12,2010.0,3,Associate Frontend Engineer,IT Department
+754,1996.0,12,2002.0,1,Associate Frontend Engineer,IT Department
+754,2003.0,1,2008.0,6,Frontend Engineer,IT Department
+755,1986.0,5,1992.0,3,Associate Data Analyst,Analytics Department
+755,1993.0,3,1998.0,11,Data Analyst,Analytics Department
+755,1998.0,11,2010.0,10,Data Analyst II,Analytics Department
+756,1999.0,12,2005.0,12,Associate Backend Engineer,IT Department
+757,1995.0,4,2001.0,5,Associate Frontend Engineer,IT Department
+757,2001.0,5,2006.0,11,Frontend Engineer,IT Department
+757,2006.0,11,2010.0,12,Frontend Engineer II,IT Department
+758,1992.0,5,1998.0,6,Associate Backend Engineer,Analytics Department
+758,1998.0,6,2003.0,2,Backend Engineer,Analytics Department
+758,2004.0,2,2016.0,1,Backend Engineer II,Analytics Department
+759,2002.0,12,2008.0,5,Associate Backend Engineer,IT Department
+760,2006.0,12,2010.0,1,Associate Data Analyst,Analytics Department
+761,1998.0,12,2004.0,4,Associate Backend Engineer,Analytics Department
+761,2005.0,4,2010.0,6,Backend Engineer,Analytics Department
+761,2011.0,6,2012.0,10,Backend Engineer II,Analytics Department
+762,2001.0,12,2007.0,7,Associate Frontend Engineer,IT Department
+763,2011.0,12,2015.0,8,Associate Backend Engineer,Analytics Department
+764,1989.0,12,1995.0,6,Associate Backend Engineer,IT Department
+764,1995.0,6,2000.0,6,Backend Engineer,IT Department
+764,2000.0,6,2012.0,8,Backend Engineer II,IT Department
+765,2006.0,5,2010.0,9,Associate Data Analyst,Analytics Department
+766,1992.0,5,1998.0,3,Associate Backend Engineer,Analytics Department
+766,1998.0,3,2003.0,10,Backend Engineer,Analytics Department
+766,2004.0,10,2016.0,10,Backend Engineer II,Analytics Department
+767,2010.0,5,2014.0,6,Associate Backend Engineer,Analytics Department
+768,2008.0,12,2012.0,3,Associate Data Analyst,Analytics Department
+769,1998.0,12,2004.0,3,Associate Manager,Administration Department
+769,2004.0,3,2009.0,2,Assistant Manager,Administration Department
+770,1993.0,7,1999.0,5,Associate Frontend Engineer,IT Department
+770,1999.0,5,2004.0,7,Frontend Engineer,IT Department
+770,2005.0,7,2017.0,8,Backend Engineer II,IT Department
+771,1992.0,12,1998.0,11,Associate Data Analyst,Analytics Department
+771,1998.0,11,2003.0,1,Data Analyst,Analytics Department
+771,2004.0,1,2016.0,2,Data Analyst II,Analytics Department
+772,1999.0,5,2005.0,4,Associate Backend Engineer,IT Department
+773,2003.0,5,2009.0,8,Associate Data Analyst,Analytics Department
+774,2012.0,5,2016.0,10,Associate Backend Engineer,Analytics Department
+775,1994.0,12,2000.0,4,Associate Backend Engineer,Analytics Department
+775,2000.0,4,2005.0,11,Backend Engineer,Analytics Department
+775,2005.0,11,2017.0,9,Backend Engineer II,Analytics Department
+776,1993.0,12,1999.0,12,Associate Backend Engineer,Analytics Department
+776,1999.0,12,2004.0,3,Backend Engineer,Analytics Department
+776,2005.0,3,2017.0,5,Backend Engineer II,Analytics Department
+777,1989.0,12,1995.0,11,Associate Data Analyst,Analytics Department
+777,1996.0,11,2001.0,5,Data Analyst,Analytics Department
+777,2002.0,5,2014.0,2,Data Analyst II,Analytics Department
+778,2003.0,4,2009.0,4,Associate Backend Engineer,Analytics Department
+779,2001.0,5,2007.0,11,Associate Manager,Administration Department
+780,2004.0,12,2010.0,10,Associate Frontend Engineer,IT Department
+781,2008.0,12,2012.0,10,Associate Frontend Engineer,IT Department
+782,2011.0,12,2015.0,3,Associate Frontend Engineer,IT Department
+783,1995.0,12,2001.0,2,Associate Backend Engineer,Analytics Department
+783,2001.0,2,2006.0,12,Backend Engineer,Analytics Department
+783,2007.0,12,2011.0,1,Backend Engineer II,Analytics Department
+784,2002.0,5,2008.0,8,Associate Data Analyst,Analytics Department
+785,2002.0,4,2008.0,11,Associate Frontend Engineer,IT Department
+786,2009.0,5,2013.0,10,Associate Backend Engineer,Analytics Department
+787,1990.0,12,1996.0,6,Associate Backend Engineer,IT Department
+787,1996.0,6,2001.0,10,Backend Engineer,IT Department
+787,2001.0,10,2013.0,10,Backend Engineer II,IT Department
+788,1995.0,5,2001.0,4,Associate Data Analyst,Analytics Department
+788,2001.0,4,2006.0,1,Data Analyst,Analytics Department
+788,2006.0,1,2010.0,12,Data Analyst II,Analytics Department
+789,1990.0,7,1996.0,10,Associate Backend Engineer,IT Department
+789,1996.0,10,2001.0,9,Backend Engineer,IT Department
+789,2001.0,9,2013.0,3,Backend Engineer II,IT Department
+790,1992.0,5,1998.0,12,Associate Data Analyst,Analytics Department
+790,1998.0,12,2003.0,2,Data Analyst,Analytics Department
+790,2003.0,2,2015.0,1,Data Analyst II,Analytics Department
+791,2007.0,7,2011.0,11,Associate Backend Engineer,Analytics Department
+792,2001.0,12,2007.0,9,Associate Data Analyst,Analytics Department
+793,2001.0,12,2007.0,5,Associate Backend Engineer,Analytics Department
+795,1999.0,12,2005.0,8,Associate Data Analyst,Analytics Department
+796,2002.0,7,2008.0,6,Associate Data Analyst,Analytics Department
+797,2001.0,12,2007.0,5,Associate Backend Engineer,Analytics Department
+798,2000.0,5,2006.0,4,Associate Manager,Administration Department
+799,1998.0,5,2004.0,10,Associate Backend Engineer,Analytics Department
+799,2004.0,10,2009.0,5,Backend Engineer,Analytics Department
+800,1989.0,7,1995.0,1,Associate Backend Engineer,IT Department
+800,1995.0,1,2000.0,7,Backend Engineer,IT Department
+800,2000.0,7,2012.0,8,Backend Engineer II,IT Department
+801,2010.0,12,2014.0,12,Associate Data Analyst,Analytics Department
+802,2003.0,12,2009.0,4,Associate Data Analyst,Analytics Department
+803,1996.0,12,2002.0,12,Associate Manager,Administration Department
+803,2002.0,12,2007.0,4,Assistant Manager,Administration Department
+803,2008.0,4,2012.0,2,Manager,Administration Department
+804,1994.0,4,2000.0,4,Associate Backend Engineer,Analytics Department
+804,2000.0,4,2005.0,9,Backend Engineer,Analytics Department
+804,2005.0,9,2017.0,5,Backend Engineer II,Analytics Department
+805,1993.0,7,1999.0,10,Associate Frontend Engineer,IT Department
+805,1999.0,10,2004.0,8,Frontend Engineer,IT Department
+805,2005.0,8,2017.0,12,Frontend Engineer II,IT Department
+806,1988.0,5,1994.0,7,Associate Backend Engineer,Analytics Department
+806,1995.0,7,2000.0,11,Backend Engineer,Analytics Department
+806,2000.0,11,2012.0,8,Backend Engineer II,Analytics Department
+807,1988.0,4,1994.0,2,Associate Data Analyst,Analytics Department
+807,1995.0,2,2000.0,3,Data Analyst,Analytics Department
+807,2001.0,3,2013.0,4,Data Analyst II,Analytics Department
+808,1988.0,5,1994.0,7,Associate Data Analyst,Analytics Department
+808,1994.0,7,1999.0,11,Data Analyst,Analytics Department
+808,1999.0,11,2011.0,12,Data Analyst II,Analytics Department
+809,2012.0,12,2016.0,1,Associate Frontend Engineer,IT Department
+810,1996.0,4,2002.0,5,Associate Data Analyst,Analytics Department
+810,2003.0,5,2008.0,1,Data Analyst,Analytics Department
+810,2008.0,1,2012.0,5,Data Analyst II,Analytics Department
+811,2007.0,12,2011.0,6,Associate Backend Engineer,IT Department
+812,1996.0,12,2002.0,11,Associate Backend Engineer,IT Department
+812,2002.0,11,2007.0,10,Backend Engineer,IT Department
+812,2007.0,10,2011.0,8,Backend Engineer II,IT Department
+813,2007.0,12,2011.0,4,Associate Data Analyst,Analytics Department
+815,2002.0,12,2008.0,3,Associate Manager,Administration Department
+817,2003.0,12,2009.0,5,Associate Frontend Engineer,IT Department
+818,1993.0,12,1999.0,10,Associate Data Analyst,Analytics Department
+818,2000.0,10,2005.0,5,Data Analyst,Analytics Department
+818,2005.0,5,2017.0,8,Data Analyst II,Analytics Department
+819,2003.0,4,2009.0,5,Associate Backend Engineer,Analytics Department
+820,1993.0,7,1999.0,3,Associate Backend Engineer,IT Department
+820,1999.0,3,2004.0,10,Backend Engineer,IT Department
+820,2004.0,10,2016.0,10,Backend Engineer II,IT Department
+821,1997.0,5,2003.0,12,Associate Data Analyst,Administration Department
+821,2003.0,12,2008.0,3,Assistant Manager,Administration Department
+822,1990.0,12,1996.0,5,Associate Frontend Engineer,IT Department
+822,1996.0,5,2001.0,2,Frontend Engineer,IT Department
+822,2002.0,2,2014.0,4,Frontend Engineer II,IT Department
+823,1998.0,12,2004.0,3,Associate Frontend Engineer,IT Department
+823,2004.0,3,2009.0,10,Frontend Engineer,IT Department
+823,2010.0,10,2011.0,2,Frontend Engineer II,IT Department
+824,1991.0,5,1997.0,10,Associate Backend Engineer,Analytics Department
+824,1998.0,10,2003.0,1,Backend Engineer,Analytics Department
+824,2003.0,1,2015.0,7,Backend Engineer II,Analytics Department
+825,2012.0,12,2016.0,7,Associate Backend Engineer,Analytics Department
+827,2010.0,5,2014.0,1,Associate Data Analyst,Analytics Department
+829,2002.0,12,2008.0,7,Associate Data Analyst,Administration Department
+830,2001.0,4,2007.0,4,Associate Backend Engineer,IT Department
+831,2005.0,5,2011.0,6,Associate Backend Engineer,Analytics Department
+832,2003.0,12,2009.0,8,Associate Data Analyst,Analytics Department
+833,1997.0,12,2003.0,4,Associate Data Analyst,Analytics Department
+833,2003.0,4,2008.0,11,Data Analyst,Analytics Department
+833,2008.0,11,2012.0,7,Data Analyst II,Analytics Department
+834,1997.0,5,2003.0,3,Associate Backend Engineer,IT Department
+834,2003.0,3,2008.0,2,Backend Engineer,IT Department
+835,2008.0,12,2012.0,2,Associate Manager,Administration Department
+836,2007.0,12,2011.0,1,Associate Backend Engineer,Analytics Department
+838,1996.0,12,2002.0,3,Associate Data Analyst,Administration Department
+838,2002.0,3,2007.0,8,Assistant Manager,Administration Department
+838,2007.0,8,2011.0,2,Manager,Administration Department
+839,2012.0,5,2016.0,6,Associate Frontend Engineer,IT Department
+842,2010.0,5,2014.0,10,Associate Data Analyst,Analytics Department
+843,2000.0,12,2006.0,9,Associate Data Analyst,Analytics Department
+844,2003.0,12,2009.0,4,Associate Backend Engineer,Analytics Department
+845,2011.0,5,2015.0,12,Associate Data Analyst,Analytics Department
+846,1998.0,7,2004.0,11,Associate Frontend Engineer,IT Department
+846,2005.0,11,2010.0,10,Frontend Engineer,IT Department
+846,2011.0,10,2012.0,4,Frontend Engineer II,IT Department
+847,2009.0,5,2013.0,12,Associate Frontend Engineer,IT Department
+848,2005.0,7,2011.0,2,Associate Data Analyst,Analytics Department
+849,1993.0,12,1999.0,3,Associate Backend Engineer,Analytics Department
+849,2000.0,3,2005.0,11,Backend Engineer,Analytics Department
+849,2005.0,11,2017.0,8,Backend Engineer II,Analytics Department
+850,1999.0,12,2005.0,1,Associate Data Analyst,Analytics Department
+850,2005.0,1,2010.0,1,Data Analyst,Analytics Department
+850,2011.0,1,2012.0,3,Data Analyst II,Analytics Department
+851,2010.0,12,2014.0,10,Associate Backend Engineer,IT Department
+852,2002.0,12,2008.0,6,Associate Frontend Engineer,IT Department
+853,1991.0,12,1997.0,2,Associate Backend Engineer,IT Department
+853,1997.0,2,2002.0,9,Backend Engineer,IT Department
+853,2002.0,9,2014.0,7,Backend Engineer II,IT Department
+855,2003.0,7,2009.0,6,Associate Data Analyst,Analytics Department
+856,1996.0,12,2002.0,3,Associate Data Analyst,Analytics Department
+856,2003.0,3,2008.0,1,Data Analyst,Analytics Department
+856,2008.0,1,2012.0,9,Data Analyst II,Analytics Department
+857,1996.0,7,2002.0,7,Associate Backend Engineer,Analytics Department
+857,2003.0,7,2008.0,12,Backend Engineer,Analytics Department
+857,2008.0,12,2012.0,10,Backend Engineer II,Analytics Department
+858,1986.0,4,1992.0,4,Associate Backend Engineer,Analytics Department
+858,1993.0,4,1998.0,9,Backend Engineer,Analytics Department
+858,1998.0,9,2010.0,8,Backend Engineer II,Analytics Department
+859,1996.0,12,2002.0,7,Associate Data Analyst,Analytics Department
+859,2002.0,7,2007.0,2,Data Analyst,Analytics Department
+859,2008.0,2,2012.0,10,Data Analyst II,Analytics Department
+860,2005.0,5,2011.0,1,Associate Backend Engineer,IT Department
+861,2010.0,5,2014.0,8,Associate Frontend Engineer,IT Department
+862,1990.0,5,1996.0,6,Associate Manager,Administration Department
+862,1996.0,6,2001.0,8,Assistant Manager,Administration Department
+862,2001.0,8,2013.0,10,Manager,Administration Department
+863,1988.0,5,1994.0,11,Associate Backend Engineer,IT Department
+863,1994.0,11,1999.0,8,Backend Engineer,IT Department
+863,2000.0,8,2012.0,3,Backend Engineer II,IT Department
+864,1993.0,5,1999.0,9,Associate Frontend Engineer,IT Department
+864,1999.0,9,2004.0,3,Frontend Engineer,IT Department
+864,2004.0,3,2016.0,8,Backend Engineer II,IT Department
+865,1992.0,5,1998.0,11,Associate Backend Engineer,Analytics Department
+865,1998.0,11,2003.0,11,Backend Engineer,Analytics Department
+865,2004.0,11,2016.0,5,Backend Engineer II,Analytics Department
+866,2004.0,12,2010.0,10,Associate Backend Engineer,IT Department
+867,1993.0,12,1999.0,3,Associate Backend Engineer,IT Department
+867,1999.0,3,2004.0,10,Backend Engineer,IT Department
+867,2005.0,10,2017.0,3,Backend Engineer II,IT Department
+868,2003.0,12,2009.0,1,Associate Frontend Engineer,IT Department
+869,1991.0,5,1997.0,9,Associate Backend Engineer,IT Department
+869,1997.0,9,2002.0,10,Backend Engineer,IT Department
+869,2002.0,10,2014.0,3,Backend Engineer II,IT Department
+870,1998.0,12,2004.0,7,Associate Data Analyst,Analytics Department
+870,2004.0,7,2009.0,10,Data Analyst,Analytics Department
+870,2010.0,10,2011.0,6,Data Analyst II,Analytics Department
+871,2006.0,5,2010.0,5,Associate Frontend Engineer,IT Department
+872,1994.0,12,2000.0,9,Associate Backend Engineer,Analytics Department
+872,2001.0,9,2006.0,4,Backend Engineer,Analytics Department
+872,2006.0,4,2010.0,8,Backend Engineer II,Analytics Department
+873,1994.0,12,2000.0,4,Associate Backend Engineer,Analytics Department
+873,2000.0,4,2005.0,8,Backend Engineer,Analytics Department
+873,2005.0,8,2017.0,6,Backend Engineer II,Analytics Department
+874,1995.0,12,2001.0,8,Associate Data Analyst,Analytics Department
+874,2002.0,8,2007.0,5,Data Analyst,Analytics Department
+874,2007.0,5,2011.0,2,Data Analyst II,Analytics Department
+875,2011.0,12,2015.0,8,Associate Data Analyst,Analytics Department
+876,1996.0,12,2002.0,2,Associate Frontend Engineer,IT Department
+876,2002.0,2,2007.0,4,Frontend Engineer,IT Department
+876,2007.0,4,2011.0,3,Frontend Engineer II,IT Department
+877,2000.0,12,2006.0,8,Associate Backend Engineer,Analytics Department
+878,2008.0,5,2012.0,5,Associate Manager,Administration Department
+879,2007.0,12,2011.0,6,Associate Backend Engineer,Analytics Department
+880,1990.0,4,1996.0,7,Associate Data Analyst,Analytics Department
+880,1997.0,7,2002.0,2,Data Analyst,Analytics Department
+880,2003.0,2,2015.0,1,Data Analyst II,Analytics Department
+881,1995.0,5,2001.0,3,Associate Data Analyst,Analytics Department
+881,2002.0,3,2007.0,4,Data Analyst,Analytics Department
+881,2007.0,4,2011.0,6,Data Analyst II,Analytics Department
+882,2008.0,5,2012.0,5,Associate Backend Engineer,Analytics Department
+883,2009.0,4,2013.0,9,Associate Data Analyst,Analytics Department
+884,1996.0,5,2002.0,4,Associate Backend Engineer,IT Department
+884,2002.0,4,2007.0,5,Backend Engineer,IT Department
+884,2008.0,5,2012.0,6,Backend Engineer II,IT Department
+885,1999.0,5,2005.0,12,Associate Frontend Engineer,IT Department
+885,2005.0,12,2010.0,1,Frontend Engineer,IT Department
+885,2011.0,1,2012.0,11,Frontend Engineer II,IT Department
+886,1987.0,5,1993.0,12,Associate Backend Engineer,Analytics Department
+886,1994.0,12,1999.0,6,Backend Engineer,Analytics Department
+886,1999.0,6,2011.0,3,Backend Engineer II,Analytics Department
+887,1987.0,12,1993.0,1,Associate Backend Engineer,IT Department
+887,1994.0,1,1999.0,7,Backend Engineer,IT Department
+887,2000.0,7,2012.0,9,Backend Engineer II,IT Department
+888,1986.0,5,1992.0,7,Associate Manager,Administration Department
+888,1992.0,7,1997.0,4,Assistant Manager,Administration Department
+888,1997.0,4,2009.0,9,Manager,Administration Department
+889,1987.0,12,1993.0,5,Associate Data Analyst,Analytics Department
+889,1994.0,5,1999.0,7,Data Analyst,Analytics Department
+889,1999.0,7,2011.0,8,Data Analyst II,Analytics Department
+890,1991.0,5,1997.0,9,Associate Data Analyst,Analytics Department
+890,1998.0,9,2003.0,9,Data Analyst,Analytics Department
+890,2004.0,9,2016.0,1,Data Analyst II,Analytics Department
+891,2007.0,12,2011.0,10,Associate Frontend Engineer,IT Department
+893,2003.0,5,2009.0,8,Associate Data Analyst,Analytics Department
+895,2006.0,12,2010.0,5,Associate Backend Engineer,IT Department
+896,1993.0,12,1999.0,5,Associate Manager,Administration Department
+896,2000.0,5,2005.0,11,Assistant Manager,Administration Department
+896,2005.0,11,2017.0,5,Manager,Administration Department
+897,2005.0,12,2011.0,7,Associate Backend Engineer,Analytics Department
+898,2005.0,5,2011.0,9,Associate Data Analyst,Analytics Department
+899,1996.0,4,2002.0,6,Associate Backend Engineer,Analytics Department
+899,2003.0,6,2008.0,2,Backend Engineer,Analytics Department
+900,2003.0,5,2009.0,11,Associate Data Analyst,Analytics Department
+901,2006.0,12,2010.0,3,Associate Backend Engineer,Analytics Department
+902,2010.0,12,2014.0,5,Associate Data Analyst,Analytics Department
+903,1986.0,12,1992.0,4,Associate Data Analyst,Analytics Department
+903,1992.0,4,1997.0,7,Data Analyst,Analytics Department
+903,1997.0,7,2009.0,9,Data Analyst II,Analytics Department
+904,1987.0,12,1993.0,12,Associate Backend Engineer,Analytics Department
+904,1994.0,12,1999.0,6,Backend Engineer,Analytics Department
+904,1999.0,6,2011.0,7,Backend Engineer II,Analytics Department
+905,2003.0,5,2009.0,9,Associate Data Analyst,Analytics Department
+906,2006.0,12,2010.0,11,Associate Frontend Engineer,IT Department
+908,2000.0,4,2006.0,8,Associate Data Analyst,Analytics Department
+909,1993.0,5,1999.0,12,Associate Data Analyst,Analytics Department
+909,1999.0,12,2004.0,12,Data Analyst,Analytics Department
+909,2004.0,12,2016.0,2,Data Analyst II,Analytics Department
+910,1999.0,12,2005.0,11,Associate Frontend Engineer,IT Department
+910,2005.0,11,2010.0,2,Frontend Engineer,IT Department
+910,2010.0,2,2011.0,4,Backend Engineer II,IT Department
+911,1991.0,12,1997.0,6,Associate Backend Engineer,Analytics Department
+911,1997.0,6,2002.0,4,Backend Engineer,Analytics Department
+911,2002.0,4,2014.0,9,Backend Engineer II,Analytics Department
+912,1990.0,5,1996.0,2,Associate Data Analyst,Analytics Department
+912,1996.0,2,2001.0,9,Data Analyst,Analytics Department
+912,2001.0,9,2013.0,9,Data Analyst II,Analytics Department
+913,2005.0,12,2011.0,5,Associate Backend Engineer,Analytics Department
+914,1993.0,5,1999.0,4,Associate Backend Engineer,Analytics Department
+914,1999.0,4,2004.0,3,Backend Engineer,Analytics Department
+914,2004.0,3,2016.0,2,Backend Engineer II,Analytics Department
+915,1987.0,12,1993.0,12,Associate Data Analyst,Analytics Department
+915,1994.0,12,1999.0,7,Data Analyst,Analytics Department
+915,2000.0,7,2012.0,5,Data Analyst II,Analytics Department
+917,1993.0,5,1999.0,8,Associate Frontend Engineer,IT Department
+917,1999.0,8,2004.0,5,Frontend Engineer,IT Department
+917,2005.0,5,2017.0,9,Frontend Engineer II,IT Department
+918,1992.0,7,1998.0,8,Associate Backend Engineer,Analytics Department
+918,1998.0,8,2003.0,11,Backend Engineer,Analytics Department
+918,2004.0,11,2016.0,9,Backend Engineer II,Analytics Department
+919,2000.0,12,2006.0,11,Associate Backend Engineer,Analytics Department
+920,1989.0,12,1995.0,6,Associate Data Analyst,Analytics Department
+920,1996.0,6,2001.0,8,Data Analyst,Analytics Department
+920,2001.0,8,2013.0,6,Data Analyst II,Analytics Department
+921,1997.0,12,2003.0,8,Associate Backend Engineer,Analytics Department
+921,2003.0,8,2008.0,9,Backend Engineer,Analytics Department
+921,2008.0,9,2012.0,1,Backend Engineer II,Analytics Department
+922,1995.0,7,2001.0,7,Associate Manager,Administration Department
+922,2001.0,7,2006.0,8,Assistant Manager,Administration Department
+922,2006.0,8,2010.0,10,Manager,Administration Department
+923,1993.0,7,1999.0,3,Associate Frontend Engineer,IT Department
+923,2000.0,3,2005.0,12,Frontend Engineer,IT Department
+923,2005.0,12,2017.0,1,Frontend Engineer II,IT Department
+924,1999.0,12,2005.0,3,Associate Backend Engineer,IT Department
+924,2005.0,3,2010.0,7,Backend Engineer,IT Department
+924,2010.0,7,2011.0,6,Backend Engineer II,IT Department
+925,2004.0,5,2010.0,12,Associate Backend Engineer,IT Department
+926,2009.0,5,2013.0,2,Associate Backend Engineer,IT Department
+927,2006.0,12,2010.0,2,Associate Backend Engineer,IT Department
+928,2003.0,7,2009.0,6,Associate Backend Engineer,Analytics Department
+929,1994.0,12,2000.0,6,Associate Backend Engineer,Analytics Department
+929,2000.0,6,2005.0,5,Backend Engineer,Analytics Department
+929,2006.0,5,2010.0,8,Backend Engineer II,Analytics Department
+930,1996.0,12,2002.0,5,Associate Backend Engineer,IT Department
+930,2002.0,5,2007.0,11,Backend Engineer,IT Department
+930,2007.0,11,2011.0,9,Backend Engineer II,IT Department
+931,1993.0,5,1999.0,9,Associate Frontend Engineer,IT Department
+931,2000.0,9,2005.0,11,Frontend Engineer,IT Department
+931,2005.0,11,2017.0,9,Frontend Engineer II,IT Department
+932,2002.0,12,2008.0,9,Associate Backend Engineer,IT Department
+933,1998.0,5,2004.0,1,Associate Backend Engineer,Analytics Department
+933,2005.0,1,2010.0,9,Backend Engineer,Analytics Department
+933,2011.0,9,2012.0,3,Backend Engineer II,Analytics Department
+934,2011.0,12,2015.0,3,Associate Data Analyst,Analytics Department
+935,2001.0,12,2007.0,3,Associate Backend Engineer,Analytics Department
+936,2002.0,12,2008.0,12,Associate Backend Engineer,Analytics Department
+938,2008.0,12,2012.0,3,Associate Backend Engineer,Analytics Department
+939,2010.0,5,2014.0,11,Associate Data Analyst,Analytics Department
+940,1990.0,12,1996.0,7,Associate Manager,Administration Department
+940,1996.0,7,2001.0,8,Assistant Manager,Administration Department
+940,2001.0,8,2013.0,9,Manager,Administration Department
+941,2006.0,5,2010.0,7,Associate Backend Engineer,IT Department
+942,2004.0,12,2010.0,10,Associate Data Analyst,Analytics Department
+943,2001.0,12,2007.0,12,Associate Manager,Administration Department
+944,2002.0,12,2008.0,5,Associate Manager,Administration Department
+945,2003.0,4,2009.0,9,Associate Data Analyst,Analytics Department
+946,2006.0,12,2010.0,11,Associate Data Analyst,Analytics Department
+947,2008.0,5,2012.0,7,Associate Data Analyst,Analytics Department
+948,1998.0,12,2004.0,10,Associate Data Analyst,Analytics Department
+948,2005.0,10,2010.0,8,Data Analyst,Analytics Department
+948,2011.0,8,2012.0,12,Data Analyst II,Analytics Department
+949,2006.0,5,2010.0,8,Associate Backend Engineer,Analytics Department
+950,2011.0,12,2015.0,8,Associate Data Analyst,Analytics Department
+951,1994.0,7,2000.0,12,Associate Frontend Engineer,IT Department
+951,2000.0,12,2005.0,2,Frontend Engineer,IT Department
+951,2006.0,2,2010.0,7,Frontend Engineer II,IT Department
+952,2008.0,12,2012.0,3,Associate Data Analyst,Analytics Department
+953,2004.0,12,2010.0,4,Associate Frontend Engineer,IT Department
+954,1988.0,4,1994.0,7,Associate Data Analyst,Analytics Department
+954,1995.0,7,2000.0,8,Data Analyst,Analytics Department
+954,2000.0,8,2012.0,9,Data Analyst II,Analytics Department
+955,2001.0,4,2007.0,3,Associate Backend Engineer,IT Department
+958,1998.0,12,2004.0,2,Associate Frontend Engineer,IT Department
+958,2004.0,2,2009.0,12,Frontend Engineer,IT Department
+958,2010.0,12,2011.0,6,Frontend Engineer II,IT Department
+959,1997.0,12,2003.0,5,Associate Data Analyst,Analytics Department
+959,2003.0,5,2008.0,4,Data Analyst,Analytics Department
+959,2008.0,4,2012.0,11,Data Analyst II,Analytics Department
+960,1990.0,12,1996.0,3,Associate Data Analyst,Analytics Department
+960,1996.0,3,2001.0,7,Data Analyst,Analytics Department
+960,2002.0,7,2014.0,4,Data Analyst II,Analytics Department
+961,1999.0,5,2005.0,9,Associate Data Analyst,Analytics Department
+962,1991.0,12,1997.0,11,Associate Data Analyst,Analytics Department
+962,1997.0,11,2002.0,7,Data Analyst,Analytics Department
+962,2002.0,7,2014.0,12,Data Analyst II,Analytics Department
+963,1992.0,4,1998.0,3,Associate Frontend Engineer,IT Department
+963,1998.0,3,2003.0,2,Frontend Engineer,IT Department
+963,2003.0,2,2015.0,5,Backend Engineer II,IT Department
+964,1999.0,12,2005.0,3,Associate Backend Engineer,IT Department
+965,1995.0,4,2001.0,4,Associate Data Analyst,Administration Department
+965,2001.0,4,2006.0,9,Assistant Manager,Administration Department
+965,2006.0,9,2010.0,9,Manager,Administration Department
+966,2004.0,7,2010.0,5,Associate Backend Engineer,Analytics Department
+967,2011.0,5,2015.0,9,Associate Backend Engineer,Analytics Department
+968,1997.0,12,2003.0,10,Associate Backend Engineer,IT Department
+968,2003.0,10,2008.0,6,Backend Engineer,IT Department
+969,1989.0,12,1995.0,6,Associate Frontend Engineer,IT Department
+969,1995.0,6,2000.0,11,Frontend Engineer,IT Department
+969,2000.0,11,2012.0,5,Frontend Engineer II,IT Department
+970,1994.0,5,2000.0,10,Associate Backend Engineer,Analytics Department
+970,2001.0,10,2006.0,11,Backend Engineer,Analytics Department
+970,2007.0,11,2011.0,5,Backend Engineer II,Analytics Department
+971,1989.0,12,1995.0,10,Associate Frontend Engineer,IT Department
+971,1995.0,10,2000.0,3,Frontend Engineer,IT Department
+971,2001.0,3,2013.0,9,Frontend Engineer II,IT Department
+972,2007.0,12,2011.0,7,Associate Backend Engineer,Analytics Department
+973,2001.0,5,2007.0,2,Associate Backend Engineer,Analytics Department
+974,1993.0,5,1999.0,10,Associate Data Analyst,Analytics Department
+974,1999.0,10,2004.0,6,Data Analyst,Analytics Department
+974,2005.0,6,2017.0,10,Data Analyst II,Analytics Department
+975,2000.0,12,2006.0,2,Associate Data Analyst,Analytics Department
+977,1991.0,5,1997.0,8,Associate Backend Engineer,Analytics Department
+977,1998.0,8,2003.0,9,Backend Engineer,Analytics Department
+977,2004.0,9,2016.0,1,Backend Engineer II,Analytics Department
+978,1988.0,4,1994.0,6,Associate Data Analyst,Analytics Department
+978,1994.0,6,1999.0,2,Data Analyst,Analytics Department
+978,2000.0,2,2012.0,8,Data Analyst II,Analytics Department
+979,2002.0,4,2008.0,3,Associate Backend Engineer,Analytics Department
+980,1991.0,12,1997.0,12,Associate Manager,Administration Department
+980,1997.0,12,2002.0,1,Assistant Manager,Administration Department
+980,2002.0,1,2014.0,2,Manager,Administration Department
+981,2007.0,12,2011.0,1,Associate Frontend Engineer,IT Department
+982,1996.0,5,2002.0,9,Associate Backend Engineer,Analytics Department
+982,2003.0,9,2008.0,2,Backend Engineer,Analytics Department
+983,2004.0,12,2010.0,11,Associate Data Analyst,Administration Department
+984,1998.0,12,2004.0,12,Associate Frontend Engineer,IT Department
+984,2005.0,12,2010.0,8,Frontend Engineer,IT Department
+984,2010.0,8,2011.0,7,Frontend Engineer II,IT Department
+985,1993.0,12,1999.0,9,Associate Manager,Administration Department
+985,1999.0,9,2004.0,5,Assistant Manager,Administration Department
+985,2004.0,5,2016.0,11,Manager,Administration Department
+986,1996.0,12,2002.0,1,Associate Data Analyst,Analytics Department
+986,2003.0,1,2008.0,9,Data Analyst,Analytics Department
+987,1988.0,12,1994.0,2,Associate Data Analyst,Analytics Department
+987,1994.0,2,1999.0,5,Data Analyst,Analytics Department
+987,1999.0,5,2011.0,3,Data Analyst II,Analytics Department
+988,2009.0,5,2013.0,12,Associate Data Analyst,Analytics Department
+989,1993.0,5,1999.0,7,Associate Backend Engineer,Analytics Department
+989,1999.0,7,2004.0,1,Backend Engineer,Analytics Department
+989,2004.0,1,2016.0,10,Backend Engineer II,Analytics Department
+990,2011.0,12,2015.0,9,Associate Backend Engineer,Analytics Department
+991,1988.0,5,1994.0,8,Associate Manager,Administration Department
+991,1994.0,8,1999.0,7,Assistant Manager,Administration Department
+991,1999.0,7,2011.0,1,Manager,Administration Department
+992,1998.0,12,2004.0,8,Associate Frontend Engineer,IT Department
+992,2005.0,8,2010.0,10,Frontend Engineer,IT Department
+992,2010.0,10,2011.0,8,Backend Engineer II,IT Department
+993,1993.0,7,1999.0,2,Associate Backend Engineer,IT Department
+993,2000.0,2,2005.0,11,Backend Engineer,IT Department
+993,2005.0,11,2017.0,2,Backend Engineer II,IT Department
+994,2000.0,5,2006.0,7,Associate Backend Engineer,Analytics Department
+995,2006.0,5,2010.0,2,Associate Manager,Administration Department
+996,2002.0,12,2008.0,9,Associate Backend Engineer,Analytics Department
+997,2008.0,12,2012.0,1,Associate Backend Engineer,Analytics Department
+998,1993.0,12,1999.0,2,Associate Frontend Engineer,IT Department
+998,2000.0,2,2005.0,12,Frontend Engineer,IT Department
+998,2006.0,12,2010.0,8,Frontend Engineer II,IT Department
+999,2002.0,12,2008.0,12,Associate Data Analyst,Analytics Department
+1000,2011.0,12,2015.0,7,Associate Backend Engineer,IT Department
