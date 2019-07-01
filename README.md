@@ -1,2 +1,2 @@
 # mock-data-generation
-dataset mock data generation for data template for enterprise dashboard
+dataset mock data generation of data template for enterprise dashboard business decisions
